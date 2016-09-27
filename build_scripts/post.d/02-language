@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+log " [INFO] MI_LANGUAGE: ${MI_LANGUAGE}"
+
+# if language set, modify plist 
+if [ -n "${MI_LANGUAGE}" ]; then
+  log " [INFO] set CFBundleDevelopmentRegion"
+  /usr/libexec/PlistBuddy -c "Set :CFBundleDevelopmentRegion ${MI_LANGUAGE}" "${TARGET_BUILD_DIR}/${INFOPLIST_PATH}"
+else
+  log " [INFO] leaving default"
+fi

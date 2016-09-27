@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+
+mydir=$(dirname "$0")
+myname=$(basename "$0")
+
+. "${mydir}/config"
+
+if [ -d ${mydir}/${myname}.d ]; then
+  for s in ${mydir}/${myname}.d/*; do
+    log "[INFO] ${myname}: Running ${s}"
+
+    if [ -x $s ]; then
+      $s
+    else
+      log "[ERROR] ${myname}: ${s} not executable!"
+    fi
+
+    log "[INFO] ${myname}: Finished ${s}"
+  done
+fi

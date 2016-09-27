@@ -1,0 +1,251 @@
+# Customise this file, documentation can be found here:
+# https://github.com/fastlane/fastlane/tree/master/fastlane/docs
+# All available actions: https://github.com/fastlane/fastlane/blob/master/fastlane/docs/Actions.md
+# can also be listed using the `fastlane actions` command
+
+# Change the syntax highlighting to Ruby
+# All lines starting with a # are ignored when running `fastlane`
+
+# If you want to automatically update fastlane if a new version is available:
+# update_fastlane
+
+# This is the minimum version number required.
+# Update this, if you use features of a newer version
+fastlane_version "1.101.0"
+
+default_platform :ios
+
+XCODE_VERSION = "7.3"
+REPO_ROOT = `git rev-parse --show-toplevel`.chomp
+SCHEME_DATA = "#{REPO_ROOT}/phoenix-reader/scheme"
+
+ALL_SCHEMAS = sh "ls #{REPO_ROOT}/phoenix-reader.xcodeproj/xcshareddata/xcschemes | grep -Ev '(phoenix-reader|template)' | sed 's/.xcscheme//' 2> /dev/null"
+
+DEVELOPER_USERNAME = ENV['APPLE_DEVELOPER_USERID']
+DEVELOPER_PASSWORD = ENV['APPLE_DEVELOPER_PASSWORD']
+
+MI_Team_ID = "H97L7X25ZM"
+MI_Team_Name = "McClatchy Interactive"
+
+MIAMI_Team_ID = "VLTB84Q7D5"
+MIAMI_Team_Name = "The Miami Herald"
+
+platform :ios do
+  before_all do
+    # ENV["SLACK_URL"] = "https://hooks.slack.com/services/..."
+    # cocoapods
+
+  end
+
+  desc "Runs all the tests"
+  lane :test do
+    scan
+  end
+
+  lane :mi_run do
+
+    for scheme_name in ALL_SCHEMAS.split(' ') do
+      mi_sigh(scheme: scheme_name)
+      mi_build(scheme: scheme_name)
+      # mi_beta(scheme: scheme_name)
+    end
+
+  end
+
+  desc "Create/Download Certificate if not found"
+  private_lane :mi_cert do
+    puts "Certificate creation started"
+
+    # Miami herald Certificate creation
+    cert(
+      username: DEVELOPER_USERNAME,
+      team_id: MIAMI_Team_ID,
+      team_name: MIAMI_Team_Name,
+      output_path: "#{REPO_ROOT}/fastlane/certs",
+    )
+
+    # McClatchy Certificate creation
+    cert(
+      username: DEVELOPER_USERNAME,
+      team_id: MI_Team_ID,
+      team_name: MI_Team_Name,
+      output_path: "#{REPO_ROOT}/fastlane/certs",
+    )
+
+  end
+
+  desc "Create/Download provisioning profile if not found"
+  private_lane :mi_sigh do |options|
+
+    puts "Sighning(sigh) started for scheme ------>>>>>> #{options[:scheme]}"
+
+    check_opts(options)
+
+    options[:config] = get_config(options) if options[:config].nil?
+    bundle_id = options[:config]['MI_BUNDLE_ID']
+
+    if options[:scheme].start_with?('miami_')
+      itunes_teamId = MIAMI_Team_ID
+      itunes_teamName = MIAMI_Team_Name
+    else
+      itunes_teamId = MI_Team_ID
+      itunes_teamName = MI_Team_Name
+    end
+
+    sigh(
+      force: true,
+      app_identifier: bundle_id,
+      username: DEVELOPER_USERNAME,
+      team_id: itunes_teamId,
+      team_name: itunes_teamName,
+      output_path: "#{REPO_ROOT}/fastlane/certs",
+    )
+
+  end
+
+  desc "Build the schema and generate the ipa file"
+  private_lane :mi_build do |options|
+
+    puts "Building(gym) started for scheme ------>>>>>> #{options[:scheme]}"
+
+    check_opts(options)
+
+    options[:config] = get_config(options) if options[:config].nil?
+    bundle_id = options[:config]['MI_BUNDLE_ID']
+
+    if options[:scheme].start_with?('miami_')
+      itunes_teamId = MIAMI_Team_ID
+      itunes_teamName = MIAMI_Team_Name
+    else
+      itunes_teamId = MI_Team_ID
+      itunes_teamName = MI_Team_Name
+    end
+
+    iTunesCodeSigningIdentifier = "iPhone Distribution: #{itunes_teamName} (#{itunes_teamId})"
+
+    if bundle_id == "com.herald.ipad.news"
+      ipaName = "com.herald.iPad.news"
+    else
+      ipaName = bundle_id
+    end
+
+    gym(
+      clean: true,
+      scheme: options[:scheme],
+      output_directory: "#{REPO_ROOT}/_build",
+      output_name: ipaName,
+      configuration: "Release",
+      export_team_id: itunes_teamId,
+      codesigning_identity: iTunesCodeSigningIdentifier
+    )
+
+  end
+
+
+#xxxxxxxxx --------- Beta lane (TestFlight) --------- xxxxxxxxxx
+  desc "Submit a new Beta Build to Apple TestFlight"
+  desc "This will also make sure the profile is up to date"
+  private_lane :mi_beta do |options|
+
+    puts "TestFlight upload (pilot) started for scheme ------>>>>>> #{options[:scheme]}"
+
+    check_opts(options)
+
+    options[:config] = get_config(options) if options[:config].nil?
+    puts options[:config]
+    bundle_id = options[:config]['MI_BUNDLE_ID']
+
+    puts bundle_id
+    if options[:scheme].start_with?('miami_')
+      itunes_teamId = MIAMI_Team_ID
+      itunes_teamName = MIAMI_Team_Name
+    else
+      itunes_teamId = MI_Team_ID
+      itunes_teamName = MI_Team_Name
+    end
+
+    ENV['FASTLANE_PASSWORD'] = DEVELOPER_PASSWORD
+
+    if bundle_id == "com.herald.ipad.news"
+      ipaName = "com.herald.iPad.news"
+    else
+      ipaName = bundle_id
+    end
+
+    pilot(
+      username: DEVELOPER_USERNAME,
+      app_identifier: bundle_id,
+      ipa: "#{REPO_ROOT}/_build/#{ipaName}.ipa",
+      team_id: itunes_teamId,
+      team_name: itunes_teamName,
+      skip_waiting_for_build_processing: true
+    )
+  end
+
+
+  desc "Deploy a new version to the App Store"
+  private_lane :mi_appstore do
+    # match(type: "appstore")
+    # snapshot
+    gym # Build your app - more options available
+    deliver(force: true)
+    # frameit
+  end
+
+  # You can define as many lanes as you want
+
+  after_all do |lane|
+    # This block is called, only if the executed lane was successful
+
+    # slack(
+    #   message: "Successfully deployed new App Update."
+    # )
+  end
+
+  private_lane :get_release_notes do |options|
+    options[:config] = get_config(options) if options[:config].nil?
+    category = options[:config]['MI_CATEGORY']
+    category = "default" if category.nil?
+
+    tag=`git describe --abbrev=0`.strip
+    tag_body=`git tag -n99 -l #{tag}`
+    tag_body.sub! tag,''
+    tag_body.lstrip!
+
+    release_notes=YAML.load(tag_body)
+
+    "-#{release_notes[category].join("\n-")}"
+  end
+
+  private_lane :get_config do |options|
+    scheme = options[:scheme]
+    scheme_config_file = "#{SCHEME_DATA}/#{scheme.chomp}/scheme.xcconfig"
+    Xcodeproj::Config.new(File.new(scheme_config_file,"r")).to_hash
+  end
+
+  private_lane :check_opts do |options|
+    if options[:scheme]
+      puts 'option good'
+      #check if scheme matches anything in xcsharedata
+    else
+      raise "You must pass a scheme! For example: fastlane scheme:dc #{lane_context[SharedValues::LANE_NAME]}"
+    end
+  end
+
+  error do |lane, exception|
+    # slack(
+    #   message: exception.message,
+    #   success: false
+    # )
+    puts "fastlane Fails with error ----->>>>"
+    puts exception.message
+
+  end
+end
+
+
+# More information about multiple platforms in fastlane: https://github.com/fastlane/fastlane/blob/master/fastlane/docs/Platforms.md
+# All available actions: https://github.com/fastlane/fastlane/blob/master/fastlane/docs/Actions.md
+
+# fastlane reports which actions are used
+# No personal data is recorded. Learn more at https://github.com/fastlane/enhancer

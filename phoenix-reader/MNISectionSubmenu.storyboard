@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="10116" systemVersion="15F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="f9M-xw-GkX">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <mutableArray key="McClatchy Sans-Regular 150410.otf">
+            <string>McClatchySans-Regular</string>
+        </mutableArray>
+    </customFonts>
+    <scenes>
+        <!--Section Submenu Table View Controller-->
+        <scene sceneID="fTM-sC-5rx">
+            <objects>
+                <tableViewController storyboardIdentifier="MNISectionSubmenuTableViewController" id="f9M-xw-GkX" customClass="MNISectionSubmenuTableViewController" sceneMemberID="viewController">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" bounces="NO" showsHorizontalScrollIndicator="NO" dataMode="prototypes" style="plain" separatorStyle="none" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" id="FHW-ch-MVA">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                        <prototypes>
+                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" reuseIdentifier="MNISectionSubmenuTableCell" id="UcQ-gr-8Tj" customClass="MNISectionSubmenuTableCell">
+                                <rect key="frame" x="0.0" y="28" width="600" height="44"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                                <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="UcQ-gr-8Tj" id="aBN-Gp-KhO">
+                                    <rect key="frame" x="0.0" y="0.0" width="600" height="44"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                    <subviews>
+                                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="u8p-5h-mof" userLabel="Hairline Separator View">
+                                            <rect key="frame" x="0.0" y="43" width="600" height="1"/>
+                                            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                            <constraints>
+                                                <constraint firstAttribute="height" constant="1" id="jjT-ja-H1c"/>
+                                            </constraints>
+                                        </view>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Subsection" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="y7f-4Y-s4G">
+                                            <rect key="frame" x="16" y="12" width="568" height="21"/>
+                                            <constraints>
+                                                <constraint firstAttribute="height" constant="21" id="D8y-2o-tu9"/>
+                                            </constraints>
+                                            <fontDescription key="fontDescription" name="McClatchySans-Regular" family="McClatchy Sans" pointSize="14"/>
+                                            <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                    </subviews>
+                                    <constraints>
+                                        <constraint firstAttribute="trailingMargin" secondItem="y7f-4Y-s4G" secondAttribute="trailing" constant="8" id="2ad-Dw-4PG"/>
+                                        <constraint firstItem="u8p-5h-mof" firstAttribute="trailing" secondItem="aBN-Gp-KhO" secondAttribute="trailing" id="C4N-DX-oaE"/>
+                                        <constraint firstItem="y7f-4Y-s4G" firstAttribute="centerY" secondItem="aBN-Gp-KhO" secondAttribute="centerY" id="Eci-sL-FxL"/>
+                                        <constraint firstItem="u8p-5h-mof" firstAttribute="leading" secondItem="aBN-Gp-KhO" secondAttribute="leading" id="aHj-Yw-EgN"/>
+                                        <constraint firstItem="y7f-4Y-s4G" firstAttribute="leading" secondItem="aBN-Gp-KhO" secondAttribute="leadingMargin" constant="8" id="nUD-I1-rOX"/>
+                                        <constraint firstItem="u8p-5h-mof" firstAttribute="bottom" secondItem="aBN-Gp-KhO" secondAttribute="bottom" id="zYz-7e-2Pq"/>
+                                    </constraints>
+                                </tableViewCellContentView>
+                                <color key="backgroundColor" red="0.27843137254901962" green="0.27843137254901962" blue="0.27843137254901962" alpha="1" colorSpace="calibratedRGB"/>
+                                <connections>
+                                    <outlet property="title" destination="y7f-4Y-s4G" id="jhG-4l-FI8"/>
+                                </connections>
+                            </tableViewCell>
+                        </prototypes>
+                        <connections>
+                            <outlet property="dataSource" destination="f9M-xw-GkX" id="rD4-vR-gxY"/>
+                            <outlet property="delegate" destination="f9M-xw-GkX" id="CYB-jO-L3d"/>
+                        </connections>
+                    </tableView>
+                    <nil key="simulatedStatusBarMetrics"/>
+                    <nil key="simulatedTopBarMetrics"/>
+                    <nil key="simulatedBottomBarMetrics"/>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Orn-MC-7ON" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="584" y="493"/>
+        </scene>
+    </scenes>
+</document>

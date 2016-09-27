@@ -1,0 +1,90 @@
+{
+    "id": "2970244",
+    "url": "http://qa1.kansascity.com/latest-news/article2970244.html",
+    "asset_type": "story",
+    "title": "Embeds Test for MrContent and MobileAPI DQ",
+    "publication": "kansascity",
+    "home": "http://qa1-api.test.nandomedia.com/mobile-api/v1/sections/1726",
+    "modified_date": 1456934202,
+    "published_date": 1448310643,
+    "summary": "test\n test\n test",
+    "content": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p></p><!-- %embed:1; hidden=\"1\"% --> \n<!-- %embed:2; hidden=\"1\"% --> \n<!-- %embed:3; hidden=\"1\"% --><p></p></div>",
+    "href": "http://qa1-api.test.nandomedia.com/mobile-api/v1/articles/2970244",
+    "assets": {
+        "related": [
+                    {
+                    "id": "3406539",
+                    "asset_type": "picture",
+                    "publication": "kansascity",
+                    "thumbnail": "http://rpub606t.test.ftw.nandomedia.com:8080/webservice/thumbnail/article/3406539",
+                    "href": "http://qa1-api.test.nandomedia.com/mobile-api/v1/articles/3406539"
+                    },
+                    {
+                    "id": "3403984",
+                    "asset_type": "videoIngest",
+                    "title": "Chartbeat Video 1",
+                    "publication": "kansascity",
+                    "href": "http://qa1-api.test.nandomedia.com/mobile-api/v1/articles/3403984"
+                    },
+                    {
+                    "id": "3260349",
+                    "asset_type": "gallery",
+                    "title": "This is the gallery title",
+                    "publication": "kansascity",
+                    "href": "http://qa1-api.test.nandomedia.com/mobile-api/v1/articles/3260349",
+                    "leadtext": [
+                                 {
+                                 "text": "This is the leadtext"
+                                 }
+                                 ]
+                    },
+                    {
+                    "id": "3407504",
+                    "asset_type": "picture",
+                    "title": "187Atlantic City Future.JPEG",
+                    "publication": "kansascity",
+                    "thumbnail": "http://rpub606t.test.ftw.nandomedia.com:8080/webservice/thumbnail/article/3407504",
+                    "href": "http://qa1-api.test.nandomedia.com/mobile-api/v1/articles/3407504"
+                    }
+                    ],
+        "lead": [
+                 {
+                 "id": "3331029",
+                 "asset_type": "videoStory",
+                 "title": "Video Story - Finklebach",
+                 "publication": "kansascity",
+                 "href": "http://qa1-api.test.nandomedia.com/mobile-api/v1/articles/3331029",
+                 "leadtext": [
+                              {
+                              "text": "Video Story - LEADTEXT"
+                              }
+                              ]
+                 }
+                 ]
+    },
+    "embeds": [
+               {
+               "id": "1",
+               "value": "<iframe src=\"https://www.youtube.com/embed/yu7mNmqJJ10\"></iframe>"
+               },
+               {
+               "id": "2",
+               "value": "Embed 2"
+               },
+               {
+               "id": "3",
+               "value": "Embed 3"
+               }
+               ],
+    "leadtext": [
+                 {
+                 "text": "test1 "
+                 },
+                 {
+                 "text": "test2 "
+                 },
+                 {
+                 "text": "test3 "
+                 }
+                 ]
+}

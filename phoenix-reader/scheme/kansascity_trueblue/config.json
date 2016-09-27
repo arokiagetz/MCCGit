@@ -1,0 +1,15 @@
+{
+  "server_config_url": "https://api.krabc.com/mobile-api/v1/config/2.0/kansascitytrueblue-ios",
+  "UI": {
+    "BarTintColor": "9bb6d7",
+    "BarTitleColor": "ffffff",
+    "TintColor": "ffffff",
+    "SectionsMenuColor": "9bb6d7",
+    "SectionsMenuTintColor": "ffffff",
+    "SectionsMenuTextColor": "ffffff",
+    "SectionsMenuHighlightColor": "ffffff",
+    "SectionsMenuHighlightTextColor": "000000",
+    "CellSelectionColor": "d9d9d9",
+    "StatusBarColorLight": true
+  }
+}

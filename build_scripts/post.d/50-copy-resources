@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+
+# target dir based on scheme name
+target_dir="$(dirname ${INFOPLIST_FILE})/${MI_SCHEME_NAME}"
+
+# set destination directory based on Xcode env variables
+dest_dir="${CONFIGURATION_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}"
+
+# remove (potentially) stale resources
+log " [INFO] removing old assests from ${dest_dir}"
+rm -f ${dest_dir}/Icon*
+rm -f ${dest_dir}/Default*
+
+# copy all files
+log " [INFO] find \"${target_dir}\" -not -path '*/\.*' -type f -not \( -name \"*.xcconfig\"  \)"
+log " [INFO] moving from [${target_dir}] to [${dest_dir}]"
+# find "${target_dir}" -not -path '*/\.*' -type f -not \( -name "*.xcconfig" \) -exec cp '{}' "${dest_dir}" \;
+#for i in `find -L "${target_dir}" -not -path '*/\.*' -type f -not \( -name "*.xcconfig" \)`; do
+for i in `find -L "${target_dir}" -not -path '*/\.*' -type f -not \( -name "*.xcconfig" \) -not \( -name "masthead*.png" \) -not \( -name "Icon*.png" \) -not \( -name "schemeIcon*.png" \)`; do
+  #-exec cp '{}' "${dest_dir}" \;
+  log " [INFO] copying $i"
+  cp "${i}" "${dest_dir}"
+done

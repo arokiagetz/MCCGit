@@ -1,0 +1,15 @@
+{
+  "server_config_url": "https://api.krabc.com/mobile-api/v1/config/2.0/kansascitystar-ios",
+  "UI": {
+    "BarTintColor": "037bc0",
+    "BarTitleColor": "ffffff",
+    "TintColor": "ffffff",
+    "SectionsMenuColor": "037bc0",
+    "SectionsMenuTintColor": "ffffff",
+    "SectionsMenuTextColor": "ffffff",
+    "SectionsMenuHighlightColor": "ffffff",
+    "SectionsMenuHighlightTextColor": "000000",
+    "CellSelectionColor": "d9d9d9",
+    "StatusBarColorLight": true
+  }
+}

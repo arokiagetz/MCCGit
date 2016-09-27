@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="styles.css" rel="stylesheet" type="text/css">
+            <style>
+                html,body {
+                    background-color:white;
+                }
+            
+            /* Calculating left column width based on device orientation
+             and center aligning the content */
+            @media only screen {
+                #leftipadcolumn
+                {
+                    width: -webkit-calc(100% - 376px);
+                    float: left;
+                }
+                #rightipadcolumn
+                {
+                    width: 304px;
+                    float: right;
+                }
+                #centerTheContent
+                {
+                    width: -webkit-calc(100% - 1px);
+                    margin: 0 auto;
+                }
+            }
+            
+            
+            /* Landscape */
+            @media only screen
+            and (min-device-width: 768px)
+            and (max-device-height: 1024px)
+            and (min-width: 1024px)
+            and (orientation: landscape)
+            {
+                
+                #leftipadcolumn
+                {
+                    width: -webkit-calc(100% - 376px);
+                    float: left;
+                }
+                #rightipadcolumn
+                {
+                    width: 304px;
+                    float: right;
+                }
+                #centerTheContent
+                {
+                    width:768px;
+                    margin: 0 auto;
+                }
+            }
+            
+            @media only screen and (min-width : 1366px) and (orientation : landscape) {
+                #leftipadcolumn
+                {
+                    width: -webkit-calc(100% - 376px);
+                    float: left;
+                }
+                #rightipadcolumn
+                {
+                    width: 304px;
+                    float: right;
+                }
+                #centerTheContent
+                {
+                    width:1110px;
+                    margin: 0 auto;
+                }
+            }
+            
+            
+            
+            
+                </style>
+            </head>
+    <body>
+        <div id="centerTheContent">
+            <div id="leftipadcolumn">
+                <div id ="topic1">
+                    <!--topic
+                     <div id="topic">%topic%<br></div>
+                     topic-->
+                </div>
+                <div id ="ipadheadline1">
+                    <!--ipadheadline
+                     <div id="ipadheadline">%title%<br></div>
+                     ipadheadline-->
+                </div>
+                <ul>
+                    <div id="toplines">
+                        <!--topline1
+                         <div><li>%topline1%</li></div>
+                         topline1-->
+                        <!--topline2
+                         <div><li>%topline2%</li></div>
+                         topline2-->
+                        <!--topline3
+                         <div><li>%topline3%</li></div>
+                         topline3-->
+                    </div>
+                </ul>
+                <div id="authorName">
+                    %authorName%
+                </div>
+                <div id="iPadAuthorEmail">
+                    %authorEmail%
+                </div>
+                <div id="pubdate">
+                    %pubdate%
+                </div>
+                <div id="location">
+                    %locationart%
+                </div>
+                <div id="storyContent">
+                    %content%
+                </div>
+            </div>
+            <div id="rightipadcolumn">
+                <!-- ads will be added here -->
+            </div>
+        </div>
+        
+        <!--footer
+         <div id="footer">
+             <a href="ios://next_story">
+             <div class="fullwidth">
+                 <span class="next">NEXT STORY</span>
+                 <span class="headline">%next_headline%</span>
+             </div>
+             <div>
+                 <img src="nsarrow-icon.png" />
+             </div>
+             </a>
+         </div>
+         footer-->
+        
+    </body>
+</html>
+

@@ -1,0 +1,3686 @@
+{
+  "Maps": {
+    "Link": "http://www.accuweather.com/en/us/california/weather-radar", 
+    "Satellite": {
+      "Images": [
+        {
+          "Date": "2016-03-28T11:45:00-07:00", 
+          "Url": "http://vortex.accuweather.com/adc2004/mapspace/world_ir/480x480/CAC_1603281845.png"
+        }, 
+        {
+          "Date": "2016-03-28T12:15:00-07:00", 
+          "Url": "http://vortex.accuweather.com/adc2004/mapspace/world_ir/480x480/CAC_1603281915.png"
+        }, 
+        {
+          "Date": "2016-03-28T12:45:00-07:00", 
+          "Url": "http://vortex.accuweather.com/adc2004/mapspace/world_ir/480x480/CAC_1603281945.png"
+        }, 
+        {
+          "Date": "2016-03-28T13:15:00-07:00", 
+          "Url": "http://vortex.accuweather.com/adc2004/mapspace/world_ir/480x480/CAC_1603282015.png"
+        }
+      ], 
+      "Size": "480x480"
+    }, 
+    "MobileLink": "http://m.accuweather.com/en/us/california/weather-radar", 
+    "Radar": {
+      "Images": [
+        {
+          "Date": "2016-03-28T12:55:00-07:00", 
+          "Url": "http://vortex.accuweather.com/adc2004/mapspace/usradar/480x480/CAC_1603281955.png"
+        }, 
+        {
+          "Date": "2016-03-28T13:00:00-07:00", 
+          "Url": "http://vortex.accuweather.com/adc2004/mapspace/usradar/480x480/CAC_1603282000.png"
+        }, 
+        {
+          "Date": "2016-03-28T13:10:00-07:00", 
+          "Url": "http://vortex.accuweather.com/adc2004/mapspace/usradar/480x480/CAC_1603282010.png"
+        }, 
+        {
+          "Date": "2016-03-28T13:15:00-07:00", 
+          "Url": "http://vortex.accuweather.com/adc2004/mapspace/usradar/480x480/CAC_1603282015.png"
+        }, 
+        {
+          "Date": "2016-03-28T13:25:00-07:00", 
+          "Url": "http://vortex.accuweather.com/adc2004/mapspace/usradar/480x480/CAC_1603282025.png"
+        }
+      ], 
+      "Size": "480x480"
+    }
+  }, 
+  "CurrentConditions": {
+    "EpochTime": 1459197900, 
+    "RealFeelTemperature": {
+      "UnitType": 18, 
+      "Unit": "F", 
+      "Value": 54.0
+    }, 
+    "WeatherIcon": 7, 
+    "CloudCover": 95, 
+    "WindGust": {
+      "Speed": {
+        "UnitType": 9, 
+        "Unit": "mi/h", 
+        "Value": 19.6
+      }
+    }, 
+    "RealFeelTemperatureShade": {
+      "UnitType": 18, 
+      "Unit": "F", 
+      "Value": 49.0
+    }, 
+    "WindChillTemperature": {
+      "UnitType": 18, 
+      "Unit": "F", 
+      "Value": 56.0
+    }, 
+    "Temperature": {
+      "UnitType": 18, 
+      "Unit": "F", 
+      "Value": 56.0
+    }, 
+    "Ceiling": {
+      "UnitType": 0, 
+      "Unit": "ft", 
+      "Value": 5100.0
+    }, 
+    "Photos": [
+      {
+        "DateTaken": null, 
+        "Source": "silverjohn/iStock/Thinkstock", 
+        "Description": "Dark storm clouds background", 
+        "LandscapeLink": "http://cityscapes.accuweather.com/cityscapes/Generic/generic_464271953_L_L.jpg", 
+        "PortraitLink": "http://cityscapes.accuweather.com/cityscapes/Generic/generic_464271953_P_L.jpg"
+      }, 
+      {
+        "DateTaken": null, 
+        "Source": "Brejeq/iStock/Thinkstock", 
+        "Description": "Dark sky with storm clouds during sunset", 
+        "LandscapeLink": "http://cityscapes.accuweather.com/cityscapes/Generic/generic_476110105_L_L.jpg", 
+        "PortraitLink": "http://cityscapes.accuweather.com/cityscapes/Generic/generic_476110105_P_L.jpg"
+      }, 
+      {
+        "DateTaken": null, 
+        "Source": "Tapsiful/iStock/Thinkstock", 
+        "Description": "Storm clouds and mountains", 
+        "LandscapeLink": "http://cityscapes.accuweather.com/cityscapes/Generic/generic_480390095_L_L.jpg", 
+        "PortraitLink": "http://cityscapes.accuweather.com/cityscapes/Generic/generic_480390095_P_L.jpg"
+      }, 
+      {
+        "DateTaken": null, 
+        "Source": "iStockphoto/Thinkstock", 
+        "Description": "Astronomy, Black, Cloud, Cloudscape, Color Image, Condensation, Dark, Environment, Horizontal, Natural Disaster, Nature, No People, Outdoors, Overcast, Photography, Rain, Sky, Storm, Storm Cloud, Stratosphere, Torrential Rain, Tropical Climate, Water,Weather, Wet", 
+        "LandscapeLink": "http://cityscapes.accuweather.com/cityscapes/Generic/Generic_108602546_L_L.jpg", 
+        "PortraitLink": "http://cityscapes.accuweather.com/cityscapes/Generic/Generic_108602546_P_L.jpg"
+      }, 
+      {
+        "DateTaken": null, 
+        "Source": "Zoonar/Thinkstock", 
+        "Description": "Awe, Backgrounds, Beauty, Bicycle, Black, Climate, Cloud, Cloudscape, Color Image, Cumulonimbus, Cycle, Cyclone, Danger,Dark, Day, Dramatic, Dramatic Sky, Emergencies and Disasters, Four, Gray, Heaven, Horizontal, Hurricane, Meteorology,Nature, No People, Non-Urban Scene, Ominous, Outdoors, Overcast, Photography, Scenics, Season, Shadow, Sky, Storm,Stratosphere, Summer, Sun, Thunderstorm, Tiered, Torrential Rain, Water, Weather, White", 
+        "LandscapeLink": "http://cityscapes.accuweather.com/cityscapes/Generic/Generic_126985831_L_L.jpg", 
+        "PortraitLink": "http://cityscapes.accuweather.com/cityscapes/Generic/Generic_126985831_P_L.jpg"
+      }
+    ], 
+    "PrecipitationSummary": {
+      "Past24Hours": {
+        "UnitType": 1, 
+        "Unit": "in", 
+        "Value": 0.0
+      }, 
+      "Past12Hours": {
+        "UnitType": 1, 
+        "Unit": "in", 
+        "Value": 0.0
+      }, 
+      "Past18Hours": {
+        "UnitType": 1, 
+        "Unit": "in", 
+        "Value": 0.0
+      }, 
+      "Past9Hours": {
+        "UnitType": 1, 
+        "Unit": "in", 
+        "Value": 0.0
+      }, 
+      "PastHour": {
+        "UnitType": 1, 
+        "Unit": "in", 
+        "Value": 0.0
+      }, 
+      "Precipitation": {
+        "UnitType": 1, 
+        "Unit": "in", 
+        "Value": 0.0
+      }, 
+      "Past3Hours": {
+        "UnitType": 1, 
+        "Unit": "in", 
+        "Value": 0.0
+      }, 
+      "Past6Hours": {
+        "UnitType": 1, 
+        "Unit": "in", 
+        "Value": 0.0
+      }
+    }, 
+    "Visibility": {
+      "UnitType": 2, 
+      "Unit": "mi", 
+      "Value": 10.0
+    }, 
+    "Pressure": {
+      "UnitType": 12, 
+      "Unit": "inHg", 
+      "Value": 29.89
+    }, 
+    "Link": "http://www.accuweather.com/en/us/fresno-ca/93702/current-weather/327144", 
+    "Past24HourTemperatureDeparture": {
+      "UnitType": 18, 
+      "Unit": "F", 
+      "Value": -15.0
+    }, 
+    "Precip1hr": {
+      "UnitType": 1, 
+      "Unit": "in", 
+      "Value": 0.0
+    }, 
+    "RelativeHumidity": 38, 
+    "LocalObservationDateTime": "2016-03-28T13:45:00-07:00", 
+    "DewPoint": {
+      "UnitType": 18, 
+      "Unit": "F", 
+      "Value": 31.0
+    }, 
+    "UVIndexText": "Moderate", 
+    "IsDayTime": true, 
+    "WeatherText": "Cloudy", 
+    "ObstructionsToVisibility": "", 
+    "WetBulbTemperature": {
+      "UnitType": 18, 
+      "Unit": "F", 
+      "Value": 44.0
+    }, 
+    "MobileLink": "http://m.accuweather.com/en/us/fresno-ca/93702/current-weather/327144", 
+    "Wind": {
+      "Direction": {
+        "Degrees": 315, 
+        "Localized": "NW", 
+        "English": "NW"
+      }, 
+      "Speed": {
+        "UnitType": 9, 
+        "Unit": "mi/h", 
+        "Value": 15.0
+      }
+    }, 
+    "TemperatureSummary": {
+      "Past24HourRange": {
+        "Minimum": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 50.0
+        }, 
+        "Maximum": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 77.0
+        }
+      }, 
+      "Past6HourRange": {
+        "Minimum": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 50.0
+        }, 
+        "Maximum": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 58.0
+        }
+      }, 
+      "Past12HourRange": {
+        "Minimum": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 50.0
+        }, 
+        "Maximum": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 58.0
+        }
+      }
+    }, 
+    "ApparentTemperature": {
+      "UnitType": 18, 
+      "Unit": "F", 
+      "Value": 58.0
+    }, 
+    "UVIndex": 3, 
+    "PressureTendency": {
+      "Code": "F", 
+      "LocalizedText": "Falling"
+    }
+  }, 
+  "Location": {
+    "SupplementalAdminAreas": [
+      {
+        "EnglishName": "Fresno", 
+        "LocalizedName": "Fresno", 
+        "Level": 2
+      }
+    ], 
+    "Country": {
+      "EnglishName": "United States", 
+      "ID": "US", 
+      "LocalizedName": "United States"
+    }, 
+    "Region": {
+      "EnglishName": "North America", 
+      "ID": "NAM", 
+      "LocalizedName": "North America"
+    }, 
+    "IsAlias": false, 
+    "Rank": 35, 
+    "LocalizedName": "Fresno", 
+    "Version": 1, 
+    "PrimaryPostalCode": "93702", 
+    "Key": "327144", 
+    "TimeZone": {
+      "IsDaylightSaving": true, 
+      "Code": "PDT", 
+      "GmtOffset": -7.0, 
+      "Name": "America/Los_Angeles", 
+      "NextOffsetChange": "2016-11-06T09:00:00Z"
+    }, 
+    "EnglishName": "Fresno", 
+    "AdministrativeArea": {
+      "LocalizedType": "State", 
+      "EnglishType": "State", 
+      "CountryID": "US", 
+      "Level": 1, 
+      "LocalizedName": "California", 
+      "EnglishName": "California", 
+      "ID": "CA"
+    }, 
+    "Type": "City", 
+    "GeoPosition": {
+      "Latitude": 36.748, 
+      "Elevation": {
+        "UnitType": 0, 
+        "Unit": "ft", 
+        "Value": 301.0
+      }, 
+      "Longitude": -119.772
+    }, 
+    "Details": {
+      "DMA": {
+        "EnglishName": "Fresno-Visalia, CA", 
+        "ID": "866"
+      }, 
+      "CanonicalPostalCode": "93702", 
+      "PrimaryWarningZoneCode": "CAZ090", 
+      "MediaRegion": "SW", 
+      "PartnerID": 3, 
+      "Satellite": "CAC", 
+      "Synoptic": "72389", 
+      "BandMap": "USCAC", 
+      "LocalRadar": "KFAT", 
+      "NXMetro": "", 
+      "Population": 495777, 
+      "StationGmtOffset": -8.0, 
+      "Key": "327144", 
+      "VideoCode": "FAT", 
+      "Metar": "KFAT", 
+      "Climo": "FAT", 
+      "StationCode": "FAT", 
+      "MarineStationGMTOffset": null, 
+      "CanonicalLocationKey": "327144", 
+      "NXState": "CAC", 
+      "PrimaryWarningCountyCode": "CAC019", 
+      "Sources": [
+        {
+          "DataType": "Alerts", 
+          "Source": "U.S. National Weather Service", 
+          "SourceId": 2
+        }, 
+        {
+          "DataType": "CurrentConditions", 
+          "Source": "AccuWeather", 
+          "SourceId": 1
+        }, 
+        {
+          "DataType": "DailyForecast", 
+          "Source": "AccuWeather", 
+          "SourceId": 1
+        }, 
+        {
+          "DataType": "HourlyForecast", 
+          "Source": "AccuWeather", 
+          "SourceId": 1
+        }
+      ], 
+      "MarineStation": ""
+    }
+  }, 
+  "ForecastSummary": {
+    "Headline": {
+      "Category": "cooler", 
+      "EndDate": "2016-03-28T20:00:00-07:00", 
+      "Severity": 4, 
+      "EffectiveDate": "2016-03-28T08:00:00-07:00", 
+      "Text": "Noticeably cooler today", 
+      "EndEpochDate": 1459220400, 
+      "EffectiveEpochDate": 1459177200, 
+      "Link": "http://www.accuweather.com/en/us/fresno-ca/93702/daily-weather-forecast/327144", 
+      "MobileLink": "http://m.accuweather.com/en/us/fresno-ca/93702/extended-weather-forecast/327144"
+    }, 
+    "DailyForecasts": [
+      {
+        "Temperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 43.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 61.0
+          }
+        }, 
+        "Sun": {
+          "Set": "2016-03-28T19:19:00-07:00", 
+          "EpochRise": 1459173000, 
+          "Rise": "2016-03-28T06:50:00-07:00", 
+          "EpochSet": 1459217940
+        }, 
+        "RealFeelTemperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 45.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 60.0
+          }
+        }, 
+        "Moon": {
+          "Set": "2016-03-28T09:59:00-07:00", 
+          "EpochRise": null, 
+          "Age": 19, 
+          "Rise": null, 
+          "EpochSet": 1459184340, 
+          "Phase": "WaningGibbous"
+        }, 
+        "Sources": [
+          "AccuWeather"
+        ], 
+        "DegreeDaySummary": {
+          "Cooling": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 0.0
+          }, 
+          "Heating": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 13.0
+          }
+        }, 
+        "Link": "http://www.accuweather.com/en/us/fresno-ca/93702/daily-weather-forecast/327144?day=1", 
+        "AirAndPollen": [
+          {
+            "Category": "Good", 
+            "Type": "Ozone", 
+            "CategoryValue": 1, 
+            "Name": "AirQuality", 
+            "Value": 42
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Grass", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Mold", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Ragweed", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Tree", 
+            "Value": 7
+          }, 
+          {
+            "Category": "Moderate", 
+            "CategoryValue": 2, 
+            "Name": "UVIndex", 
+            "Value": 5
+          }
+        ], 
+        "HoursOfSun": 4.9, 
+        "Night": {
+          "LongPhrase": "A shower in the area this evening; otherwise, partly cloudy and chilly", 
+          "RainProbability": 40, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.5, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.5, 
+          "ThunderstormProbability": 20, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.01
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 35, 
+          "PrecipitationProbability": 40, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 227, 
+              "Localized": "SW", 
+              "English": "SW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 3.5
+            }
+          }, 
+          "ShortPhrase": "A shower early; partly cloudy", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 307, 
+              "Localized": "NW", 
+              "English": "NW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 11.5
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.01
+          }, 
+          "IconPhrase": "Partly cloudy", 
+          "Icon": 35
+        }, 
+        "Date": "2016-03-28T07:00:00-07:00", 
+        "RealFeelTemperatureShade": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 45.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 54.0
+          }
+        }, 
+        "EpochDate": 1459173600, 
+        "MobileLink": "http://m.accuweather.com/en/us/fresno-ca/93702/daily-weather-forecast/327144?day=1", 
+        "Day": {
+          "LongPhrase": "Breezy this morning; cooler with times of clouds and sun with a stray shower this afternoon", 
+          "RainProbability": 40, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.5, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.5, 
+          "ThunderstormProbability": 20, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.01
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 69, 
+          "PrecipitationProbability": 40, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 307, 
+              "Localized": "NW", 
+              "English": "NW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 13.8
+            }
+          }, 
+          "ShortPhrase": "Cooler with clouds and sun", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 300, 
+              "Localized": "WNW", 
+              "English": "WNW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 20.7
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.01
+          }, 
+          "IconPhrase": "Partly sunny w/ showers", 
+          "Icon": 14
+        }
+      }, 
+      {
+        "Temperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 43.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 64.0
+          }
+        }, 
+        "Sun": {
+          "Set": "2016-03-29T19:20:00-07:00", 
+          "EpochRise": 1459259280, 
+          "Rise": "2016-03-29T06:48:00-07:00", 
+          "EpochSet": 1459304400
+        }, 
+        "RealFeelTemperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 45.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 70.0
+          }
+        }, 
+        "Moon": {
+          "Set": "2016-03-29T10:41:00-07:00", 
+          "EpochRise": 1459235400, 
+          "Age": 20, 
+          "Rise": "2016-03-29T00:10:00-07:00", 
+          "EpochSet": 1459273260, 
+          "Phase": "WaningGibbous"
+        }, 
+        "Sources": [
+          "AccuWeather"
+        ], 
+        "DegreeDaySummary": {
+          "Cooling": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 0.0
+          }, 
+          "Heating": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 11.0
+          }
+        }, 
+        "Link": "http://www.accuweather.com/en/us/fresno-ca/93702/daily-weather-forecast/327144?day=2", 
+        "AirAndPollen": [
+          {
+            "Category": "Good", 
+            "Type": "Ozone", 
+            "CategoryValue": 1, 
+            "Name": "AirQuality", 
+            "Value": 25
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Grass", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Mold", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Ragweed", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Tree", 
+            "Value": 7
+          }, 
+          {
+            "Category": "High", 
+            "CategoryValue": 3, 
+            "Name": "UVIndex", 
+            "Value": 6
+          }
+        ], 
+        "HoursOfSun": 7.2, 
+        "Night": {
+          "LongPhrase": "Partly cloudy and chilly", 
+          "RainProbability": 16, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 1, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 26, 
+          "PrecipitationProbability": 16, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 300, 
+              "Localized": "WNW", 
+              "English": "WNW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 2.3
+            }
+          }, 
+          "ShortPhrase": "Partly cloudy and chilly", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 332, 
+              "Localized": "NNW", 
+              "English": "NNW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 6.9
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Partly cloudy", 
+          "Icon": 35
+        }, 
+        "Date": "2016-03-29T07:00:00-07:00", 
+        "RealFeelTemperatureShade": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 45.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 63.0
+          }
+        }, 
+        "EpochDate": 1459260000, 
+        "MobileLink": "http://m.accuweather.com/en/us/fresno-ca/93702/daily-weather-forecast/327144?day=2", 
+        "Day": {
+          "LongPhrase": "Cool with times of clouds and sun", 
+          "RainProbability": 22, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 0, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 46, 
+          "PrecipitationProbability": 22, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 266, 
+              "Localized": "W", 
+              "English": "W"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 5.8
+            }
+          }, 
+          "ShortPhrase": "Cool with clouds and sun", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 328, 
+              "Localized": "NNW", 
+              "English": "NNW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 10.4
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Intermittent clouds", 
+          "Icon": 4
+        }
+      }, 
+      {
+        "Temperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 46.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 67.0
+          }
+        }, 
+        "Sun": {
+          "Set": "2016-03-30T19:20:00-07:00", 
+          "EpochRise": 1459345620, 
+          "Rise": "2016-03-30T06:47:00-07:00", 
+          "EpochSet": 1459390800
+        }, 
+        "RealFeelTemperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 48.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 75.0
+          }
+        }, 
+        "Moon": {
+          "Set": "2016-03-30T11:29:00-07:00", 
+          "EpochRise": 1459324980, 
+          "Age": 21, 
+          "Rise": "2016-03-30T01:03:00-07:00", 
+          "EpochSet": 1459362540, 
+          "Phase": "WaningGibbous"
+        }, 
+        "Sources": [
+          "AccuWeather"
+        ], 
+        "DegreeDaySummary": {
+          "Cooling": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 0.0
+          }, 
+          "Heating": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 9.0
+          }
+        }, 
+        "Link": "http://www.accuweather.com/en/us/fresno-ca/93702/daily-weather-forecast/327144?day=3", 
+        "AirAndPollen": [
+          {
+            "Category": "Good", 
+            "Type": "Ozone", 
+            "CategoryValue": 1, 
+            "Name": "AirQuality", 
+            "Value": 25
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Grass", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Mold", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Ragweed", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Tree", 
+            "Value": 7
+          }, 
+          {
+            "Category": "High", 
+            "CategoryValue": 3, 
+            "Name": "UVIndex", 
+            "Value": 7
+          }
+        ], 
+        "HoursOfSun": 9.5, 
+        "Night": {
+          "LongPhrase": "Mainly clear", 
+          "RainProbability": 5, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 3, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 20, 
+          "PrecipitationProbability": 5, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 337, 
+              "Localized": "NNW", 
+              "English": "NNW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 2.3
+            }
+          }, 
+          "ShortPhrase": "Mainly clear", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 331, 
+              "Localized": "NNW", 
+              "English": "NNW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 5.8
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Mostly clear", 
+          "Icon": 34
+        }, 
+        "Date": "2016-03-30T07:00:00-07:00", 
+        "RealFeelTemperatureShade": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 48.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 65.0
+          }
+        }, 
+        "EpochDate": 1459346400, 
+        "MobileLink": "http://m.accuweather.com/en/us/fresno-ca/93702/daily-weather-forecast/327144?day=3", 
+        "Day": {
+          "LongPhrase": "Partly sunny", 
+          "RainProbability": 12, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 3, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 26, 
+          "PrecipitationProbability": 12, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 313, 
+              "Localized": "NW", 
+              "English": "NW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 4.6
+            }
+          }, 
+          "ShortPhrase": "Partly sunny", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 332, 
+              "Localized": "NNW", 
+              "English": "NNW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 6.9
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Partly sunny", 
+          "Icon": 3
+        }
+      }, 
+      {
+        "Temperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 49.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 74.0
+          }
+        }, 
+        "Sun": {
+          "Set": "2016-03-31T19:21:00-07:00", 
+          "EpochRise": 1459431900, 
+          "Rise": "2016-03-31T06:45:00-07:00", 
+          "EpochSet": 1459477260
+        }, 
+        "RealFeelTemperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 51.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 79.0
+          }
+        }, 
+        "Moon": {
+          "Set": "2016-03-31T12:20:00-07:00", 
+          "EpochRise": 1459414380, 
+          "Age": 22, 
+          "Rise": "2016-03-31T01:53:00-07:00", 
+          "EpochSet": 1459452000, 
+          "Phase": "Last"
+        }, 
+        "Sources": [
+          "AccuWeather"
+        ], 
+        "DegreeDaySummary": {
+          "Cooling": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 0.0
+          }, 
+          "Heating": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 4.0
+          }
+        }, 
+        "Link": "http://www.accuweather.com/en/us/fresno-ca/93702/daily-weather-forecast/327144?day=4", 
+        "AirAndPollen": [
+          {
+            "Category": "Good", 
+            "Type": "Ozone", 
+            "CategoryValue": 1, 
+            "Name": "AirQuality", 
+            "Value": 25
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Grass", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Mold", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Ragweed", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Tree", 
+            "Value": 7
+          }, 
+          {
+            "Category": "High", 
+            "CategoryValue": 3, 
+            "Name": "UVIndex", 
+            "Value": 7
+          }
+        ], 
+        "HoursOfSun": 11.4, 
+        "Night": {
+          "LongPhrase": "Clear", 
+          "RainProbability": 3, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 0, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 3, 
+          "PrecipitationProbability": 3, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 310, 
+              "Localized": "NW", 
+              "English": "NW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 3.5
+            }
+          }, 
+          "ShortPhrase": "Clear", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 330, 
+              "Localized": "NNW", 
+              "English": "NNW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 6.9
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Clear", 
+          "Icon": 33
+        }, 
+        "Date": "2016-03-31T07:00:00-07:00", 
+        "RealFeelTemperatureShade": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 51.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 71.0
+          }
+        }, 
+        "EpochDate": 1459432800, 
+        "MobileLink": "http://m.accuweather.com/en/us/fresno-ca/93702/daily-weather-forecast/327144?day=4", 
+        "Day": {
+          "LongPhrase": "Plenty of sunshine", 
+          "RainProbability": 3, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 0, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 9, 
+          "PrecipitationProbability": 3, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 310, 
+              "Localized": "NW", 
+              "English": "NW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 4.6
+            }
+          }, 
+          "ShortPhrase": "Plenty of sunshine", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 328, 
+              "Localized": "NNW", 
+              "English": "NNW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 8.1
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Sunny", 
+          "Icon": 1
+        }
+      }, 
+      {
+        "Temperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 52.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 79.0
+          }
+        }, 
+        "Sun": {
+          "Set": "2016-04-01T19:22:00-07:00", 
+          "EpochRise": 1459518240, 
+          "Rise": "2016-04-01T06:44:00-07:00", 
+          "EpochSet": 1459563720
+        }, 
+        "RealFeelTemperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 53.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 82.0
+          }
+        }, 
+        "Moon": {
+          "Set": "2016-04-01T13:18:00-07:00", 
+          "EpochRise": 1459503660, 
+          "Age": 23, 
+          "Rise": "2016-04-01T02:41:00-07:00", 
+          "EpochSet": 1459541880, 
+          "Phase": "WaningCrescent"
+        }, 
+        "Sources": [
+          "AccuWeather"
+        ], 
+        "DegreeDaySummary": {
+          "Cooling": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 0.0
+          }, 
+          "Heating": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 0.0
+          }
+        }, 
+        "Link": "http://www.accuweather.com/en/us/fresno-ca/93702/daily-weather-forecast/327144?day=5", 
+        "AirAndPollen": [
+          {
+            "Category": "Good", 
+            "Type": "Ozone", 
+            "CategoryValue": 1, 
+            "Name": "AirQuality", 
+            "Value": 25
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Grass", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Mold", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Ragweed", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Tree", 
+            "Value": 0
+          }, 
+          {
+            "Category": "High", 
+            "CategoryValue": 3, 
+            "Name": "UVIndex", 
+            "Value": 7
+          }
+        ], 
+        "HoursOfSun": 12.6, 
+        "Night": {
+          "LongPhrase": "Clear", 
+          "RainProbability": 4, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 0, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 2, 
+          "PrecipitationProbability": 4, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 319, 
+              "Localized": "NW", 
+              "English": "NW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 3.5
+            }
+          }, 
+          "ShortPhrase": "Clear", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 325, 
+              "Localized": "NW", 
+              "English": "NW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 6.9
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Clear", 
+          "Icon": 33
+        }, 
+        "Date": "2016-04-01T07:00:00-07:00", 
+        "RealFeelTemperatureShade": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 53.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 76.0
+          }
+        }, 
+        "EpochDate": 1459519200, 
+        "MobileLink": "http://m.accuweather.com/en/us/fresno-ca/93702/daily-weather-forecast/327144?day=5", 
+        "Day": {
+          "LongPhrase": "Beautiful with plenty of sunshine", 
+          "RainProbability": 4, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 0, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 0, 
+          "PrecipitationProbability": 4, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 309, 
+              "Localized": "NW", 
+              "English": "NW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 4.6
+            }
+          }, 
+          "ShortPhrase": "Sunny and beautiful", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 328, 
+              "Localized": "NNW", 
+              "English": "NNW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 8.1
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Sunny", 
+          "Icon": 1
+        }
+      }, 
+      {
+        "Temperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 54.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 81.0
+          }
+        }, 
+        "Sun": {
+          "Set": "2016-04-02T19:23:00-07:00", 
+          "EpochRise": 1459604520, 
+          "Rise": "2016-04-02T06:42:00-07:00", 
+          "EpochSet": 1459650180
+        }, 
+        "RealFeelTemperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 55.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 86.0
+          }
+        }, 
+        "Moon": {
+          "Set": "2016-04-02T14:18:00-07:00", 
+          "EpochRise": 1459592880, 
+          "Age": 24, 
+          "Rise": "2016-04-02T03:28:00-07:00", 
+          "EpochSet": 1459631880, 
+          "Phase": "WaningCrescent"
+        }, 
+        "Sources": [
+          "AccuWeather"
+        ], 
+        "DegreeDaySummary": {
+          "Cooling": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 2.0
+          }, 
+          "Heating": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 0.0
+          }
+        }, 
+        "Link": "http://www.accuweather.com/en/us/fresno-ca/93702/daily-weather-forecast/327144?day=6", 
+        "AirAndPollen": [
+          {
+            "Category": "Good", 
+            "Type": "Ozone", 
+            "CategoryValue": 1, 
+            "Name": "AirQuality", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Grass", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Mold", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Ragweed", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Tree", 
+            "Value": 0
+          }, 
+          {
+            "Category": "High", 
+            "CategoryValue": 3, 
+            "Name": "UVIndex", 
+            "Value": 7
+          }
+        ], 
+        "HoursOfSun": 9.1, 
+        "Night": {
+          "LongPhrase": "Clear", 
+          "RainProbability": 6, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 0, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 13, 
+          "PrecipitationProbability": 6, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 316, 
+              "Localized": "NW", 
+              "English": "NW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 3.5
+            }
+          }, 
+          "ShortPhrase": "Clear", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 316, 
+              "Localized": "NW", 
+              "English": "NW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 10.4
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Clear", 
+          "Icon": 33
+        }, 
+        "Date": "2016-04-02T07:00:00-07:00", 
+        "RealFeelTemperatureShade": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 55.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 79.0
+          }
+        }, 
+        "EpochDate": 1459605600, 
+        "MobileLink": "http://m.accuweather.com/en/us/fresno-ca/93702/daily-weather-forecast/327144?day=6", 
+        "Day": {
+          "LongPhrase": "Very warm with sunshine and patchy clouds", 
+          "RainProbability": 5, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 0, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 29, 
+          "PrecipitationProbability": 5, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 298, 
+              "Localized": "WNW", 
+              "English": "WNW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 4.6
+            }
+          }, 
+          "ShortPhrase": "Sunshine and very warm", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 333, 
+              "Localized": "NNW", 
+              "English": "NNW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 6.9
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Mostly sunny", 
+          "Icon": 2
+        }
+      }, 
+      {
+        "Temperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 55.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 81.0
+          }
+        }, 
+        "Sun": {
+          "Set": "2016-04-03T19:24:00-07:00", 
+          "EpochRise": 1459690860, 
+          "Rise": "2016-04-03T06:41:00-07:00", 
+          "EpochSet": 1459736640
+        }, 
+        "RealFeelTemperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 56.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 84.0
+          }
+        }, 
+        "Moon": {
+          "Set": "2016-04-03T15:23:00-07:00", 
+          "EpochRise": 1459681860, 
+          "Age": 25, 
+          "Rise": "2016-04-03T04:11:00-07:00", 
+          "EpochSet": 1459722180, 
+          "Phase": "WaningCrescent"
+        }, 
+        "Sources": [
+          "AccuWeather"
+        ], 
+        "DegreeDaySummary": {
+          "Cooling": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 4.0
+          }, 
+          "Heating": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 0.0
+          }
+        }, 
+        "Link": "http://www.accuweather.com/en/us/fresno-ca/93702/daily-weather-forecast/327144?day=7", 
+        "AirAndPollen": [
+          {
+            "Category": "Good", 
+            "Type": "Ozone", 
+            "CategoryValue": 1, 
+            "Name": "AirQuality", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Grass", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Mold", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Ragweed", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Tree", 
+            "Value": 0
+          }, 
+          {
+            "Category": "High", 
+            "CategoryValue": 3, 
+            "Name": "UVIndex", 
+            "Value": 6
+          }
+        ], 
+        "HoursOfSun": 6.7, 
+        "Night": {
+          "LongPhrase": "Partly cloudy", 
+          "RainProbability": 4, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 1, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 51, 
+          "PrecipitationProbability": 4, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 316, 
+              "Localized": "NW", 
+              "English": "NW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 4.6
+            }
+          }, 
+          "ShortPhrase": "Partly cloudy", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 314, 
+              "Localized": "NW", 
+              "English": "NW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 10.4
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Intermittent clouds", 
+          "Icon": 36
+        }, 
+        "Date": "2016-04-03T07:00:00-07:00", 
+        "RealFeelTemperatureShade": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 56.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 79.0
+          }
+        }, 
+        "EpochDate": 1459692000, 
+        "MobileLink": "http://m.accuweather.com/en/us/fresno-ca/93702/daily-weather-forecast/327144?day=7", 
+        "Day": {
+          "LongPhrase": "Very warm with periods of clouds and sunshine", 
+          "RainProbability": 6, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 0, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 51, 
+          "PrecipitationProbability": 6, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 32, 
+              "Localized": "NNE", 
+              "English": "NNE"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 4.6
+            }
+          }, 
+          "ShortPhrase": "Very warm with periods of sun", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 341, 
+              "Localized": "NNW", 
+              "English": "NNW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 8.1
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Intermittent clouds", 
+          "Icon": 4
+        }
+      }, 
+      {
+        "Temperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 53.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 80.0
+          }
+        }, 
+        "Sun": {
+          "Set": "2016-04-04T19:25:00-07:00", 
+          "EpochRise": 1459777140, 
+          "Rise": "2016-04-04T06:39:00-07:00", 
+          "EpochSet": 1459823100
+        }, 
+        "RealFeelTemperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 53.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 81.0
+          }
+        }, 
+        "Moon": {
+          "Set": "2016-04-04T16:31:00-07:00", 
+          "EpochRise": 1459770780, 
+          "Age": 26, 
+          "Rise": "2016-04-04T04:53:00-07:00", 
+          "EpochSet": 1459812660, 
+          "Phase": "WaningCrescent"
+        }, 
+        "Sources": [
+          "AccuWeather"
+        ], 
+        "DegreeDaySummary": {
+          "Cooling": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 1.0
+          }, 
+          "Heating": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 0.0
+          }
+        }, 
+        "Link": "http://www.accuweather.com/en/us/fresno-ca/93702/daily-weather-forecast/327144?day=8", 
+        "AirAndPollen": [
+          {
+            "Category": "Good", 
+            "Type": "Ozone", 
+            "CategoryValue": 1, 
+            "Name": "AirQuality", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Grass", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Mold", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Ragweed", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Tree", 
+            "Value": 0
+          }, 
+          {
+            "Category": "High", 
+            "CategoryValue": 3, 
+            "Name": "UVIndex", 
+            "Value": 7
+          }
+        ], 
+        "HoursOfSun": 10.5, 
+        "Night": {
+          "LongPhrase": "Clear", 
+          "RainProbability": 0, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 0, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 0, 
+          "PrecipitationProbability": 0, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 336, 
+              "Localized": "NNW", 
+              "English": "NNW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 5.8
+            }
+          }, 
+          "ShortPhrase": "Clear", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 318, 
+              "Localized": "NW", 
+              "English": "NW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 20.7
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Clear", 
+          "Icon": 33
+        }, 
+        "Date": "2016-04-04T07:00:00-07:00", 
+        "RealFeelTemperatureShade": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 53.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 77.0
+          }
+        }, 
+        "EpochDate": 1459778400, 
+        "MobileLink": "http://m.accuweather.com/en/us/fresno-ca/93702/daily-weather-forecast/327144?day=8", 
+        "Day": {
+          "LongPhrase": "Mostly sunny", 
+          "RainProbability": 4, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 2, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 18, 
+          "PrecipitationProbability": 4, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 315, 
+              "Localized": "NW", 
+              "English": "NW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 8.1
+            }
+          }, 
+          "ShortPhrase": "Mostly sunny", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 318, 
+              "Localized": "NW", 
+              "English": "NW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 23.0
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Mostly sunny", 
+          "Icon": 2
+        }
+      }, 
+      {
+        "Temperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 53.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 81.0
+          }
+        }, 
+        "Sun": {
+          "Set": "2016-04-05T19:26:00-07:00", 
+          "EpochRise": 1459863480, 
+          "Rise": "2016-04-05T06:38:00-07:00", 
+          "EpochSet": 1459909560
+        }, 
+        "RealFeelTemperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 52.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 82.0
+          }
+        }, 
+        "Moon": {
+          "Set": "2016-04-05T17:41:00-07:00", 
+          "EpochRise": 1459859640, 
+          "Age": 27, 
+          "Rise": "2016-04-05T05:34:00-07:00", 
+          "EpochSet": 1459903260, 
+          "Phase": "WaningCrescent"
+        }, 
+        "Sources": [
+          "AccuWeather"
+        ], 
+        "DegreeDaySummary": {
+          "Cooling": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 2.0
+          }, 
+          "Heating": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 0.0
+          }
+        }, 
+        "Link": "http://www.accuweather.com/en/us/fresno-ca/93702/daily-weather-forecast/327144?day=9", 
+        "AirAndPollen": [
+          {
+            "Category": "Good", 
+            "Type": "Ozone", 
+            "CategoryValue": 1, 
+            "Name": "AirQuality", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Grass", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Mold", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Ragweed", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Tree", 
+            "Value": 0
+          }, 
+          {
+            "Category": "High", 
+            "CategoryValue": 3, 
+            "Name": "UVIndex", 
+            "Value": 7
+          }
+        ], 
+        "HoursOfSun": 12.3, 
+        "Night": {
+          "LongPhrase": "Mainly cloudy with occasional rain", 
+          "RainProbability": 55, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 1.5, 
+          "IceProbability": 0, 
+          "HoursOfRain": 1.5, 
+          "ThunderstormProbability": 0, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.04
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 27, 
+          "PrecipitationProbability": 55, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 342, 
+              "Localized": "NNW", 
+              "English": "NNW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 4.6
+            }
+          }, 
+          "ShortPhrase": "Mostly cloudy, a little rain", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 322, 
+              "Localized": "NW", 
+              "English": "NW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 18.4
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.04
+          }, 
+          "IconPhrase": "Showers", 
+          "Icon": 12
+        }, 
+        "Date": "2016-04-05T07:00:00-07:00", 
+        "RealFeelTemperatureShade": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 52.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 78.0
+          }
+        }, 
+        "EpochDate": 1459864800, 
+        "MobileLink": "http://m.accuweather.com/en/us/fresno-ca/93702/daily-weather-forecast/327144?day=9", 
+        "Day": {
+          "LongPhrase": "Plenty of sun", 
+          "RainProbability": 0, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 0, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 0, 
+          "PrecipitationProbability": 0, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 6, 
+              "Localized": "N", 
+              "English": "N"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 8.1
+            }
+          }, 
+          "ShortPhrase": "Plenty of sun", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 331, 
+              "Localized": "NNW", 
+              "English": "NNW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 21.9
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Sunny", 
+          "Icon": 1
+        }
+      }, 
+      {
+        "Temperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 54.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 79.0
+          }
+        }, 
+        "Sun": {
+          "Set": "2016-04-06T19:27:00-07:00", 
+          "EpochRise": 1459949820, 
+          "Rise": "2016-04-06T06:37:00-07:00", 
+          "EpochSet": 1459996020
+        }, 
+        "RealFeelTemperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 55.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 81.0
+          }
+        }, 
+        "Moon": {
+          "Set": "2016-04-06T18:52:00-07:00", 
+          "EpochRise": 1459948440, 
+          "Age": 29, 
+          "Rise": "2016-04-06T06:14:00-07:00", 
+          "EpochSet": 1459993920, 
+          "Phase": "WaningCrescent"
+        }, 
+        "Sources": [
+          "AccuWeather"
+        ], 
+        "DegreeDaySummary": {
+          "Cooling": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 1.0
+          }, 
+          "Heating": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 0.0
+          }
+        }, 
+        "Link": "http://www.accuweather.com/en/us/fresno-ca/93702/daily-weather-forecast/327144?day=10", 
+        "AirAndPollen": [
+          {
+            "Category": "Good", 
+            "Type": "Ozone", 
+            "CategoryValue": 1, 
+            "Name": "AirQuality", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Grass", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Mold", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Ragweed", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Tree", 
+            "Value": 0
+          }, 
+          {
+            "Category": "High", 
+            "CategoryValue": 3, 
+            "Name": "UVIndex", 
+            "Value": 6
+          }
+        ], 
+        "HoursOfSun": 4.1, 
+        "Night": {
+          "LongPhrase": "Clear", 
+          "RainProbability": 0, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 0, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 16, 
+          "PrecipitationProbability": 0, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 82, 
+              "Localized": "E", 
+              "English": "E"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 3.5
+            }
+          }, 
+          "ShortPhrase": "Clear", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 332, 
+              "Localized": "NNW", 
+              "English": "NNW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 11.5
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Clear", 
+          "Icon": 33
+        }, 
+        "Date": "2016-04-06T07:00:00-07:00", 
+        "RealFeelTemperatureShade": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 55.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 76.0
+          }
+        }, 
+        "EpochDate": 1459951200, 
+        "MobileLink": "http://m.accuweather.com/en/us/fresno-ca/93702/daily-weather-forecast/327144?day=10", 
+        "Day": {
+          "LongPhrase": "Mostly cloudy", 
+          "RainProbability": 25, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 0, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 76, 
+          "PrecipitationProbability": 25, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 289, 
+              "Localized": "WNW", 
+              "English": "WNW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 5.8
+            }
+          }, 
+          "ShortPhrase": "Mostly cloudy", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 326, 
+              "Localized": "NW", 
+              "English": "NW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 13.8
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Mostly cloudy", 
+          "Icon": 6
+        }
+      }
+    ], 
+    "HourlyForecasts": [
+      {
+        "Temperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 59.0
+        }, 
+        "IceProbability": 0, 
+        "RealFeelTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 56.0
+        }, 
+        "Ice": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "DateTime": "2016-03-28T15:00:00-07:00", 
+        "WeatherIcon": 6, 
+        "Rain": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WindGust": {
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 19.6
+          }
+        }, 
+        "TotalLiquid": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "Ceiling": {
+          "UnitType": 0, 
+          "Unit": "ft", 
+          "Value": 0.0
+        }, 
+        "RainProbability": 47, 
+        "Visibility": {
+          "UnitType": 2, 
+          "Unit": "mi", 
+          "Value": 10.0
+        }, 
+        "EpochDateTime": 1459202400, 
+        "Link": "http://www.accuweather.com/en/us/fresno-ca/93702/hourly-weather-forecast/327144?day=1&hbhhour=15", 
+        "IconPhrase": "Mostly cloudy", 
+        "RelativeHumidity": 31, 
+        "DewPoint": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 29.0
+        }, 
+        "CloudCover": 87, 
+        "UVIndexText": "Low", 
+        "Snow": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WetBulbTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 45.0
+        }, 
+        "MobileLink": "http://m.accuweather.com/en/us/fresno-ca/93702/hourly-weather-forecast/327144?day=1&hbhhour=15", 
+        "Wind": {
+          "Direction": {
+            "Degrees": 320, 
+            "Localized": "NW", 
+            "English": "NW"
+          }, 
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 15.0
+          }
+        }, 
+        "IsDaylight": true, 
+        "SnowProbability": 0, 
+        "PrecipitationProbability": 47, 
+        "UVIndex": 2
+      }, 
+      {
+        "Temperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 61.0
+        }, 
+        "IceProbability": 0, 
+        "RealFeelTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 55.0
+        }, 
+        "Ice": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "DateTime": "2016-03-28T16:00:00-07:00", 
+        "WeatherIcon": 12, 
+        "Rain": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.01
+        }, 
+        "WindGust": {
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 17.3
+          }
+        }, 
+        "TotalLiquid": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.01
+        }, 
+        "Ceiling": {
+          "UnitType": 0, 
+          "Unit": "ft", 
+          "Value": 0.0
+        }, 
+        "RainProbability": 51, 
+        "Visibility": {
+          "UnitType": 2, 
+          "Unit": "mi", 
+          "Value": 6.0
+        }, 
+        "EpochDateTime": 1459206000, 
+        "Link": "http://www.accuweather.com/en/us/fresno-ca/93702/hourly-weather-forecast/327144?day=1&hbhhour=16", 
+        "IconPhrase": "Showers", 
+        "RelativeHumidity": 28, 
+        "DewPoint": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 28.0
+        }, 
+        "CloudCover": 91, 
+        "UVIndexText": "Low", 
+        "Snow": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WetBulbTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 46.0
+        }, 
+        "MobileLink": "http://m.accuweather.com/en/us/fresno-ca/93702/hourly-weather-forecast/327144?day=1&hbhhour=16", 
+        "Wind": {
+          "Direction": {
+            "Degrees": 320, 
+            "Localized": "NW", 
+            "English": "NW"
+          }, 
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 13.8
+          }
+        }, 
+        "IsDaylight": true, 
+        "SnowProbability": 0, 
+        "PrecipitationProbability": 51, 
+        "UVIndex": 1
+      }, 
+      {
+        "Temperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 59.0
+        }, 
+        "IceProbability": 0, 
+        "RealFeelTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 55.0
+        }, 
+        "Ice": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "DateTime": "2016-03-28T17:00:00-07:00", 
+        "WeatherIcon": 7, 
+        "Rain": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WindGust": {
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 17.3
+          }
+        }, 
+        "TotalLiquid": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "Ceiling": {
+          "UnitType": 0, 
+          "Unit": "ft", 
+          "Value": 8200.0
+        }, 
+        "RainProbability": 14, 
+        "Visibility": {
+          "UnitType": 2, 
+          "Unit": "mi", 
+          "Value": 10.0
+        }, 
+        "EpochDateTime": 1459209600, 
+        "Link": "http://www.accuweather.com/en/us/fresno-ca/93702/hourly-weather-forecast/327144?day=1&hbhhour=17", 
+        "IconPhrase": "Cloudy", 
+        "RelativeHumidity": 29, 
+        "DewPoint": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 27.0
+        }, 
+        "CloudCover": 90, 
+        "UVIndexText": "Low", 
+        "Snow": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WetBulbTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 45.0
+        }, 
+        "MobileLink": "http://m.accuweather.com/en/us/fresno-ca/93702/hourly-weather-forecast/327144?day=1&hbhhour=17", 
+        "Wind": {
+          "Direction": {
+            "Degrees": 319, 
+            "Localized": "NW", 
+            "English": "NW"
+          }, 
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 13.8
+          }
+        }, 
+        "IsDaylight": true, 
+        "SnowProbability": 0, 
+        "PrecipitationProbability": 14, 
+        "UVIndex": 1
+      }, 
+      {
+        "Temperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 58.0
+        }, 
+        "IceProbability": 0, 
+        "RealFeelTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 54.0
+        }, 
+        "Ice": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "DateTime": "2016-03-28T18:00:00-07:00", 
+        "WeatherIcon": 7, 
+        "Rain": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WindGust": {
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 15.0
+          }
+        }, 
+        "TotalLiquid": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "Ceiling": {
+          "UnitType": 0, 
+          "Unit": "ft", 
+          "Value": 13200.0
+        }, 
+        "RainProbability": 10, 
+        "Visibility": {
+          "UnitType": 2, 
+          "Unit": "mi", 
+          "Value": 10.0
+        }, 
+        "EpochDateTime": 1459213200, 
+        "Link": "http://www.accuweather.com/en/us/fresno-ca/93702/hourly-weather-forecast/327144?day=1&hbhhour=18", 
+        "IconPhrase": "Cloudy", 
+        "RelativeHumidity": 32, 
+        "DewPoint": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 29.0
+        }, 
+        "CloudCover": 92, 
+        "UVIndexText": "Low", 
+        "Snow": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WetBulbTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 45.0
+        }, 
+        "MobileLink": "http://m.accuweather.com/en/us/fresno-ca/93702/hourly-weather-forecast/327144?day=1&hbhhour=18", 
+        "Wind": {
+          "Direction": {
+            "Degrees": 319, 
+            "Localized": "NW", 
+            "English": "NW"
+          }, 
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 12.7
+          }
+        }, 
+        "IsDaylight": true, 
+        "SnowProbability": 0, 
+        "PrecipitationProbability": 10, 
+        "UVIndex": 0
+      }, 
+      {
+        "Temperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 56.0
+        }, 
+        "IceProbability": 0, 
+        "RealFeelTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 51.0
+        }, 
+        "Ice": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "DateTime": "2016-03-28T19:00:00-07:00", 
+        "WeatherIcon": 7, 
+        "Rain": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WindGust": {
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 12.7
+          }
+        }, 
+        "TotalLiquid": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "Ceiling": {
+          "UnitType": 0, 
+          "Unit": "ft", 
+          "Value": 14200.0
+        }, 
+        "RainProbability": 14, 
+        "Visibility": {
+          "UnitType": 2, 
+          "Unit": "mi", 
+          "Value": 10.0
+        }, 
+        "EpochDateTime": 1459216800, 
+        "Link": "http://www.accuweather.com/en/us/fresno-ca/93702/hourly-weather-forecast/327144?day=1&hbhhour=19", 
+        "IconPhrase": "Cloudy", 
+        "RelativeHumidity": 39, 
+        "DewPoint": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 31.0
+        }, 
+        "CloudCover": 91, 
+        "UVIndexText": "Low", 
+        "Snow": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WetBulbTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 45.0
+        }, 
+        "MobileLink": "http://m.accuweather.com/en/us/fresno-ca/93702/hourly-weather-forecast/327144?day=1&hbhhour=19", 
+        "Wind": {
+          "Direction": {
+            "Degrees": 317, 
+            "Localized": "NW", 
+            "English": "NW"
+          }, 
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 11.5
+          }
+        }, 
+        "IsDaylight": true, 
+        "SnowProbability": 0, 
+        "PrecipitationProbability": 14, 
+        "UVIndex": 0
+      }, 
+      {
+        "Temperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 55.0
+        }, 
+        "IceProbability": 0, 
+        "RealFeelTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 52.0
+        }, 
+        "Ice": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "DateTime": "2016-03-28T20:00:00-07:00", 
+        "WeatherIcon": 12, 
+        "Rain": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.01
+        }, 
+        "WindGust": {
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 11.5
+          }
+        }, 
+        "TotalLiquid": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.01
+        }, 
+        "Ceiling": {
+          "UnitType": 0, 
+          "Unit": "ft", 
+          "Value": 14700.0
+        }, 
+        "RainProbability": 51, 
+        "Visibility": {
+          "UnitType": 2, 
+          "Unit": "mi", 
+          "Value": 10.0
+        }, 
+        "EpochDateTime": 1459220400, 
+        "Link": "http://www.accuweather.com/en/us/fresno-ca/93702/hourly-weather-forecast/327144?day=1&hbhhour=20", 
+        "IconPhrase": "Showers", 
+        "RelativeHumidity": 44, 
+        "DewPoint": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 34.0
+        }, 
+        "CloudCover": 90, 
+        "UVIndexText": "Low", 
+        "Snow": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WetBulbTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 45.0
+        }, 
+        "MobileLink": "http://m.accuweather.com/en/us/fresno-ca/93702/hourly-weather-forecast/327144?day=1&hbhhour=20", 
+        "Wind": {
+          "Direction": {
+            "Degrees": 307, 
+            "Localized": "NW", 
+            "English": "NW"
+          }, 
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 5.8
+          }
+        }, 
+        "IsDaylight": false, 
+        "SnowProbability": 0, 
+        "PrecipitationProbability": 51, 
+        "UVIndex": 0
+      }, 
+      {
+        "Temperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 53.0
+        }, 
+        "IceProbability": 0, 
+        "RealFeelTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 50.0
+        }, 
+        "Ice": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "DateTime": "2016-03-28T21:00:00-07:00", 
+        "WeatherIcon": 38, 
+        "Rain": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WindGust": {
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 9.2
+          }
+        }, 
+        "TotalLiquid": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "Ceiling": {
+          "UnitType": 0, 
+          "Unit": "ft", 
+          "Value": 19800.0
+        }, 
+        "RainProbability": 47, 
+        "Visibility": {
+          "UnitType": 2, 
+          "Unit": "mi", 
+          "Value": 10.0
+        }, 
+        "EpochDateTime": 1459224000, 
+        "Link": "http://www.accuweather.com/en/us/fresno-ca/93702/hourly-weather-forecast/327144?day=1&hbhhour=21", 
+        "IconPhrase": "Mostly cloudy", 
+        "RelativeHumidity": 50, 
+        "DewPoint": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 35.0
+        }, 
+        "CloudCover": 86, 
+        "UVIndexText": "Low", 
+        "Snow": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WetBulbTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 45.0
+        }, 
+        "MobileLink": "http://m.accuweather.com/en/us/fresno-ca/93702/hourly-weather-forecast/327144?day=1&hbhhour=21", 
+        "Wind": {
+          "Direction": {
+            "Degrees": 308, 
+            "Localized": "NW", 
+            "English": "NW"
+          }, 
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 8.1
+          }
+        }, 
+        "IsDaylight": false, 
+        "SnowProbability": 0, 
+        "PrecipitationProbability": 47, 
+        "UVIndex": 0
+      }, 
+      {
+        "Temperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 52.0
+        }, 
+        "IceProbability": 0, 
+        "RealFeelTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 51.0
+        }, 
+        "Ice": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "DateTime": "2016-03-28T22:00:00-07:00", 
+        "WeatherIcon": 38, 
+        "Rain": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WindGust": {
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 8.1
+          }
+        }, 
+        "TotalLiquid": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "Ceiling": {
+          "UnitType": 0, 
+          "Unit": "ft", 
+          "Value": 24900.0
+        }, 
+        "RainProbability": 40, 
+        "Visibility": {
+          "UnitType": 2, 
+          "Unit": "mi", 
+          "Value": 10.0
+        }, 
+        "EpochDateTime": 1459227600, 
+        "Link": "http://www.accuweather.com/en/us/fresno-ca/93702/hourly-weather-forecast/327144?day=1&hbhhour=22", 
+        "IconPhrase": "Mostly cloudy", 
+        "RelativeHumidity": 56, 
+        "DewPoint": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 37.0
+        }, 
+        "CloudCover": 78, 
+        "UVIndexText": "Low", 
+        "Snow": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WetBulbTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 45.0
+        }, 
+        "MobileLink": "http://m.accuweather.com/en/us/fresno-ca/93702/hourly-weather-forecast/327144?day=1&hbhhour=22", 
+        "Wind": {
+          "Direction": {
+            "Degrees": 308, 
+            "Localized": "NW", 
+            "English": "NW"
+          }, 
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 4.6
+          }
+        }, 
+        "IsDaylight": false, 
+        "SnowProbability": 0, 
+        "PrecipitationProbability": 40, 
+        "UVIndex": 0
+      }, 
+      {
+        "Temperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 51.0
+        }, 
+        "IceProbability": 0, 
+        "RealFeelTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 50.0
+        }, 
+        "Ice": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "DateTime": "2016-03-28T23:00:00-07:00", 
+        "WeatherIcon": 36, 
+        "Rain": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WindGust": {
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 5.8
+          }
+        }, 
+        "TotalLiquid": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "Ceiling": {
+          "UnitType": 0, 
+          "Unit": "ft", 
+          "Value": 30000.0
+        }, 
+        "RainProbability": 32, 
+        "Visibility": {
+          "UnitType": 2, 
+          "Unit": "mi", 
+          "Value": 10.0
+        }, 
+        "EpochDateTime": 1459231200, 
+        "Link": "http://www.accuweather.com/en/us/fresno-ca/93702/hourly-weather-forecast/327144?day=1&hbhhour=23", 
+        "IconPhrase": "Intermittent clouds", 
+        "RelativeHumidity": 61, 
+        "DewPoint": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 38.0
+        }, 
+        "CloudCover": 65, 
+        "UVIndexText": "Low", 
+        "Snow": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WetBulbTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 45.0
+        }, 
+        "MobileLink": "http://m.accuweather.com/en/us/fresno-ca/93702/hourly-weather-forecast/327144?day=1&hbhhour=23", 
+        "Wind": {
+          "Direction": {
+            "Degrees": 308, 
+            "Localized": "NW", 
+            "English": "NW"
+          }, 
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 4.6
+          }
+        }, 
+        "IsDaylight": false, 
+        "SnowProbability": 0, 
+        "PrecipitationProbability": 32, 
+        "UVIndex": 0
+      }, 
+      {
+        "Temperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 50.0
+        }, 
+        "IceProbability": 0, 
+        "RealFeelTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 51.0
+        }, 
+        "Ice": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "DateTime": "2016-03-29T00:00:00-07:00", 
+        "WeatherIcon": 35, 
+        "Rain": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WindGust": {
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 4.6
+          }
+        }, 
+        "TotalLiquid": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "Ceiling": {
+          "UnitType": 0, 
+          "Unit": "ft", 
+          "Value": 30000.0
+        }, 
+        "RainProbability": 32, 
+        "Visibility": {
+          "UnitType": 2, 
+          "Unit": "mi", 
+          "Value": 10.0
+        }, 
+        "EpochDateTime": 1459234800, 
+        "Link": "http://www.accuweather.com/en/us/fresno-ca/93702/hourly-weather-forecast/327144?day=2&hbhhour=0", 
+        "IconPhrase": "Partly cloudy", 
+        "RelativeHumidity": 64, 
+        "DewPoint": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 38.0
+        }, 
+        "CloudCover": 43, 
+        "UVIndexText": "Low", 
+        "Snow": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WetBulbTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 45.0
+        }, 
+        "MobileLink": "http://m.accuweather.com/en/us/fresno-ca/93702/hourly-weather-forecast/327144?day=2&hbhhour=0", 
+        "Wind": {
+          "Direction": {
+            "Degrees": 311, 
+            "Localized": "NW", 
+            "English": "NW"
+          }, 
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 3.5
+          }
+        }, 
+        "IsDaylight": false, 
+        "SnowProbability": 0, 
+        "PrecipitationProbability": 32, 
+        "UVIndex": 0
+      }, 
+      {
+        "Temperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 49.0
+        }, 
+        "IceProbability": 0, 
+        "RealFeelTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 49.0
+        }, 
+        "Ice": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "DateTime": "2016-03-29T01:00:00-07:00", 
+        "WeatherIcon": 34, 
+        "Rain": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WindGust": {
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 4.6
+          }
+        }, 
+        "TotalLiquid": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "Ceiling": {
+          "UnitType": 0, 
+          "Unit": "ft", 
+          "Value": 30000.0
+        }, 
+        "RainProbability": 22, 
+        "Visibility": {
+          "UnitType": 2, 
+          "Unit": "mi", 
+          "Value": 10.0
+        }, 
+        "EpochDateTime": 1459238400, 
+        "Link": "http://www.accuweather.com/en/us/fresno-ca/93702/hourly-weather-forecast/327144?day=2&hbhhour=1", 
+        "IconPhrase": "Mostly clear", 
+        "RelativeHumidity": 67, 
+        "DewPoint": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 38.0
+        }, 
+        "CloudCover": 21, 
+        "UVIndexText": "Low", 
+        "Snow": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WetBulbTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 44.0
+        }, 
+        "MobileLink": "http://m.accuweather.com/en/us/fresno-ca/93702/hourly-weather-forecast/327144?day=2&hbhhour=1", 
+        "Wind": {
+          "Direction": {
+            "Degrees": 314, 
+            "Localized": "NW", 
+            "English": "NW"
+          }, 
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 3.5
+          }
+        }, 
+        "IsDaylight": false, 
+        "SnowProbability": 0, 
+        "PrecipitationProbability": 22, 
+        "UVIndex": 0
+      }, 
+      {
+        "Temperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 47.0
+        }, 
+        "IceProbability": 0, 
+        "RealFeelTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 48.0
+        }, 
+        "Ice": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "DateTime": "2016-03-29T02:00:00-07:00", 
+        "WeatherIcon": 33, 
+        "Rain": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WindGust": {
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 4.6
+          }
+        }, 
+        "TotalLiquid": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "Ceiling": {
+          "UnitType": 0, 
+          "Unit": "ft", 
+          "Value": 30000.0
+        }, 
+        "RainProbability": 3, 
+        "Visibility": {
+          "UnitType": 2, 
+          "Unit": "mi", 
+          "Value": 10.0
+        }, 
+        "EpochDateTime": 1459242000, 
+        "Link": "http://www.accuweather.com/en/us/fresno-ca/93702/hourly-weather-forecast/327144?day=2&hbhhour=2", 
+        "IconPhrase": "Clear", 
+        "RelativeHumidity": 72, 
+        "DewPoint": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 38.0
+        }, 
+        "CloudCover": 5, 
+        "UVIndexText": "Low", 
+        "Snow": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WetBulbTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 43.0
+        }, 
+        "MobileLink": "http://m.accuweather.com/en/us/fresno-ca/93702/hourly-weather-forecast/327144?day=2&hbhhour=2", 
+        "Wind": {
+          "Direction": {
+            "Degrees": 320, 
+            "Localized": "NW", 
+            "English": "NW"
+          }, 
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 3.5
+          }
+        }, 
+        "IsDaylight": false, 
+        "SnowProbability": 0, 
+        "PrecipitationProbability": 3, 
+        "UVIndex": 0
+      }
+    ]
+  }
+}

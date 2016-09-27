@@ -88,6 +88,10 @@ SPEC CHECKSUMS:
   UIActivityIndicator-for-SDWebImage: 7bf7ebbf0ed1747dedc0d6e949c4603a6d0f9e0c
   UrbanAirship-iOS-SDK: c55430986126be28b1735bc3efefa5b902ac8b0e
 
+<<<<<<< HEAD
 PODFILE CHECKSUM: 54e1e996a68690c5c7cb0f483243834f3b6f761e
 
 COCOAPODS: 1.0.1
+=======
+COCOAPODS: 0.39.0
+>>>>>>> b2c892ab83c796e1f79bded181f66123d108d145

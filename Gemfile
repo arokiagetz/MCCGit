@@ -13,7 +13,8 @@ gem "cocoapods", "~> 1.0.0.beta.1"
 # Metadata
 gem 'google-api-client'
 #gem 'google_drive'
-gem 'xml-simple'
+gem 'cocoapods'
+
 
 # Automation
 gem 'fastlane'

@@ -21,6 +21,7 @@
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
+		11E66A9E567352CB77C0C6C8 /* Pods_phoenix_readerTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 757F4403444DEB4077B674AA /* Pods_phoenix_readerTests.framework */; };
 		1F0C59941CD7CC4000D40AAD /* MNIGradientImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F0C59931CD7CC4000D40AAD /* MNIGradientImageView.m */; };
 		1F0D90B61C975014003E84BD /* MNIServerConfig.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F0D90B31C975014003E84BD /* MNIServerConfig.m */; };
 		1F0D90B71C975014003E84BD /* MNIServerConfig+CoreDataProperties.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F0D90B51C975014003E84BD /* MNIServerConfig+CoreDataProperties.m */; };
@@ -115,6 +116,7 @@
 		47E662431CD9004000DCDE8C /* waithelpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47E662411CD9004000DCDE8C /* waithelpers.swift */; };
 		5BE972211B1076AB0E757315 /* Pods_phoenix_readerUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C63F00B112BB8A7B904A21EB /* Pods_phoenix_readerUITests.framework */; };
 		9D078E28CB87FA9D7109B345 /* Pods_phoenix_readerTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 60B273595CF0EF2A01844CAA /* Pods_phoenix_readerTests.framework */; };
+		83487280474BB72895AE3DD2 /* Pods_phoenix_reader.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B2505A1C4980FE49027AA1B1 /* Pods_phoenix_reader.framework */; };
 		AC4F21C91D11ED0B004B1978 /* testDetailViewModel.m in Sources */ = {isa = PBXBuildFile; fileRef = AC4F21C81D11ED0B004B1978 /* testDetailViewModel.m */; };
 		AC4F21CD1D132860004B1978 /* DetailViewModel.m in Sources */ = {isa = PBXBuildFile; fileRef = AC4F21CC1D132860004B1978 /* DetailViewModel.m */; };
 		AC4F21D51D148D03004B1978 /* Story_phone.html in Resources */ = {isa = PBXBuildFile; fileRef = AC4F21D41D148D03004B1978 /* Story_phone.html */; };
@@ -160,6 +162,7 @@
 		D1D660911CC5B94D00BE5242 /* MNISectionFrontBasicStoryCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = D1D6608D1CC5B94D00BE5242 /* MNISectionFrontBasicStoryCell.xib */; };
 		D1D660951CC5DF6E00BE5242 /* 10COOKINGLESSONCAMP_CPJ.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = D1D660931CC5DF6E00BE5242 /* 10COOKINGLESSONCAMP_CPJ.jpeg */; };
 		D1D660961CC5DF6E00BE5242 /* GOP2016Bush.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = D1D660941CC5DF6E00BE5242 /* GOP2016Bush.jpeg */; };
+		D7C391BCAFFE31ED05E450C2 /* Pods_phoenix_readerUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C3AA857096647DC0A7DF50BC /* Pods_phoenix_readerUITests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -341,6 +344,9 @@
 		499E941A223CA36D53D1BD36 /* Pods-phoenix-readerUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-phoenix-readerUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-phoenix-readerUITests/Pods-phoenix-readerUITests.release.xcconfig"; sourceTree = "<group>"; };
 		60B273595CF0EF2A01844CAA /* Pods_phoenix_readerTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_phoenix_readerTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		63B27C549FA3AED1190F7E5C /* Pods-phoenix-reader.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-phoenix-reader.release.xcconfig"; path = "Pods/Target Support Files/Pods-phoenix-reader/Pods-phoenix-reader.release.xcconfig"; sourceTree = "<group>"; };
+		636FE20A01A210A204020DF7 /* Pods-phoenix-readerUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-phoenix-readerUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-phoenix-readerUITests/Pods-phoenix-readerUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		757F4403444DEB4077B674AA /* Pods_phoenix_readerTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_phoenix_readerTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7E653425FBDF2C74C6A56ACA /* Pods-phoenix-reader.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-phoenix-reader.debug.xcconfig"; path = "Pods/Target Support Files/Pods-phoenix-reader/Pods-phoenix-reader.debug.xcconfig"; sourceTree = "<group>"; };
 		AC4F21C81D11ED0B004B1978 /* testDetailViewModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = testDetailViewModel.m; sourceTree = "<group>"; };
 		AC4F21CB1D132860004B1978 /* DetailViewModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewModel.h; sourceTree = "<group>"; };
 		AC4F21CC1D132860004B1978 /* DetailViewModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewModel.m; sourceTree = "<group>"; };
@@ -348,6 +354,9 @@
 		AC4F21D61D184246004B1978 /* NSString+helper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+helper.h"; sourceTree = "<group>"; };
 		AC4F21D71D184246004B1978 /* NSString+helper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+helper.m"; sourceTree = "<group>"; };
 		B36FFD2F613EF1C331754651 /* Pods-phoenix-readerTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-phoenix-readerTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-phoenix-readerTests/Pods-phoenix-readerTests.debug.xcconfig"; sourceTree = "<group>"; };
+		B08302535C9A0C440D1BB4F5 /* Pods-phoenix-reader.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-phoenix-reader.release.xcconfig"; path = "Pods/Target Support Files/Pods-phoenix-reader/Pods-phoenix-reader.release.xcconfig"; sourceTree = "<group>"; };
+		B2505A1C4980FE49027AA1B1 /* Pods_phoenix_reader.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_phoenix_reader.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B496B04388749419FE6C4C07 /* Pods-phoenix-readerTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-phoenix-readerTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-phoenix-readerTests/Pods-phoenix-readerTests.debug.xcconfig"; sourceTree = "<group>"; };
 		BA0E72E41CBFD272006A8A67 /* MNIHeaderView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MNIHeaderView.h; sourceTree = "<group>"; };
 		BA0E72E51CBFD272006A8A67 /* MNIHeaderView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MNIHeaderView.m; sourceTree = "<group>"; };
 		BA0E72E71CBFE213006A8A67 /* MNIHeaderView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MNIHeaderView.xib; sourceTree = "<group>"; };
@@ -380,6 +389,7 @@
 		BAFA14301D58F53F00FBF81F /* MNIWebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MNIWebViewController.h; sourceTree = "<group>"; };
 		BAFA14311D58F53F00FBF81F /* MNIWebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MNIWebViewController.m; sourceTree = "<group>"; };
 		C63F00B112BB8A7B904A21EB /* Pods_phoenix_readerUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_phoenix_readerUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C3AA857096647DC0A7DF50BC /* Pods_phoenix_readerUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_phoenix_readerUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D15EBD471CA1EFFD0012535E /* testServerConfigModelParsing.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = testServerConfigModelParsing.m; sourceTree = "<group>"; };
 		D1632BC81CB482F100495BB4 /* MNIErrorCentral.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MNIErrorCentral.h; sourceTree = "<group>"; };
 		D1632BC91CB482F100495BB4 /* MNIErrorCentral.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MNIErrorCentral.m; sourceTree = "<group>"; };
@@ -404,6 +414,8 @@
 		D1D660931CC5DF6E00BE5242 /* 10COOKINGLESSONCAMP_CPJ.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 10COOKINGLESSONCAMP_CPJ.jpeg; sourceTree = "<group>"; };
 		D1D660941CC5DF6E00BE5242 /* GOP2016Bush.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = GOP2016Bush.jpeg; sourceTree = "<group>"; };
 		E30907BE6652AF0AF9C87C0F /* Pods-phoenix-reader.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-phoenix-reader.debug.xcconfig"; path = "Pods/Target Support Files/Pods-phoenix-reader/Pods-phoenix-reader.debug.xcconfig"; sourceTree = "<group>"; };
+		EB5F709D7FA2F2010CEE5048 /* Pods-phoenix-readerTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-phoenix-readerTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-phoenix-readerTests/Pods-phoenix-readerTests.release.xcconfig"; sourceTree = "<group>"; };
+		F106E5DDAB872455A74872CC /* Pods-phoenix-readerUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-phoenix-readerUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-phoenix-readerUITests/Pods-phoenix-readerUITests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -413,6 +425,7 @@
 			files = (
 				BAC5D13A1C9734D50079D0A4 /* CoreGraphics.framework in Frameworks */,
 				BB9E08931E716082EE6A4300 /* Pods_phoenix_reader.framework in Frameworks */,
+				83487280474BB72895AE3DD2 /* Pods_phoenix_reader.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -421,6 +434,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9D078E28CB87FA9D7109B345 /* Pods_phoenix_readerTests.framework in Frameworks */,
+				11E66A9E567352CB77C0C6C8 /* Pods_phoenix_readerTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -436,6 +450,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5BE972211B1076AB0E757315 /* Pods_phoenix_readerUITests.framework in Frameworks */,
+				D7C391BCAFFE31ED05E450C2 /* Pods_phoenix_readerUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -501,6 +516,7 @@
 				1F8825361C29F49400279668 /* Products */,
 				5C5A3F521E5D7B74DBD9BEED /* Frameworks */,
 				4C2F908CAF5C18AA58330873 /* Pods */,
+				8A0985E693E584FFAB48A1AD /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
@@ -742,6 +758,28 @@
 				C63F00B112BB8A7B904A21EB /* Pods_phoenix_readerUITests.framework */,
 			);
 			name = Frameworks;
+		5C5A3F521E5D7B74DBD9BEED /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				BAC5D1391C9734D50079D0A4 /* CoreGraphics.framework */,
+				B2505A1C4980FE49027AA1B1 /* Pods_phoenix_reader.framework */,
+				757F4403444DEB4077B674AA /* Pods_phoenix_readerTests.framework */,
+				C3AA857096647DC0A7DF50BC /* Pods_phoenix_readerUITests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		8A0985E693E584FFAB48A1AD /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				7E653425FBDF2C74C6A56ACA /* Pods-phoenix-reader.debug.xcconfig */,
+				B08302535C9A0C440D1BB4F5 /* Pods-phoenix-reader.release.xcconfig */,
+				B496B04388749419FE6C4C07 /* Pods-phoenix-readerTests.debug.xcconfig */,
+				EB5F709D7FA2F2010CEE5048 /* Pods-phoenix-readerTests.release.xcconfig */,
+				636FE20A01A210A204020DF7 /* Pods-phoenix-readerUITests.debug.xcconfig */,
+				F106E5DDAB872455A74872CC /* Pods-phoenix-readerUITests.release.xcconfig */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 		BA0E72E31CBFD254006A8A67 /* Views */ = {
@@ -930,6 +968,7 @@
 			buildConfigurationList = 1F8825681C29F49400279668 /* Build configuration list for PBXNativeTarget "phoenix-reader" */;
 			buildPhases = (
 				F152CE0A36D3D06FCD58E91C /* [CP] Check Pods Manifest.lock */,
+				E03D57997E630CE193846CFE /* [CP] Check Pods Manifest.lock */,
 				1F20C61D1C97672900668B02 /* ShellScript */,
 				1F8825311C29F49400279668 /* Sources */,
 				1F8825321C29F49400279668 /* Frameworks */,
@@ -937,6 +976,10 @@
 				211866561D5E32AC0008CD21 /* Run Post Script */,
 				FBFBFD0105D226C46764931A /* [CP] Embed Pods Frameworks */,
 				6D64D679DCB8856B3BABDD9A /* [CP] Copy Pods Resources */,
+				ED1208A86A0FD104DE4FEB3B /* [CP] Embed Pods Frameworks */,
+				62E2595909CF116EA71F71E0 /* [CP] Copy Pods Resources */,
+				C3E247C7E87F6FC10F6EE1D7 /* Embed Pods Frameworks */,
+				211866561D5E32AC0008CD21 /* Run Post Script */,
 			);
 			buildRules = (
 			);
@@ -958,6 +1001,13 @@
 				1F8825521C29F49400279668 /* Resources */,
 				9D3B401470EF1176C3F432CC /* [CP] Embed Pods Frameworks */,
 				2DD9862A3E6DC23098B89F76 /* [CP] Copy Pods Resources */,
+				AE3EDD0F5FAEA9023F4E8B3B /* [CP] Check Pods Manifest.lock */,
+				1F8825501C29F49400279668 /* Sources */,
+				1F8825511C29F49400279668 /* Frameworks */,
+				1F8825521C29F49400279668 /* Resources */,
+				78EB93A4D27A0BEFEAFB1766 /* [CP] Embed Pods Frameworks */,
+				3577B2DA06106FFD50A830F9 /* [CP] Copy Pods Resources */,
+				EF7072F2181C208221AA3C6F /* Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -996,6 +1046,11 @@
 				47B68EB41CBEDBE80084BE4B /* Frameworks */,
 				47B68EB51CBEDBE80084BE4B /* Resources */,
 				5B54B151ABB70B26E43E45F0 /* [CP] Copy Pods Resources */,
+				A59532E3D28A61C3340F16FA /* [CP] Check Pods Manifest.lock */,
+				47B68EB31CBEDBE80084BE4B /* Sources */,
+				47B68EB41CBEDBE80084BE4B /* Frameworks */,
+				47B68EB51CBEDBE80084BE4B /* Resources */,
+				C1025998412CD2D8BA642C37 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -1186,6 +1241,7 @@
 			shellScript = "${PROJECT_DIR}/build_scripts/pre";
 		};
 		2DD9862A3E6DC23098B89F76 /* [CP] Copy Pods Resources */ = {
+		3577B2DA06106FFD50A830F9 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -1201,6 +1257,7 @@
 			showEnvVarsInLog = 0;
 		};
 		3E273EA51A31D0CFC00A120A /* [CP] Check Pods Manifest.lock */ = {
+		62E2595909CF116EA71F71E0 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -1208,6 +1265,7 @@
 			inputPaths = (
 			);
 			name = "[CP] Check Pods Manifest.lock";
+			name = "[CP] Copy Pods Resources";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1216,6 +1274,25 @@
 			showEnvVarsInLog = 0;
 		};
 		5307884AE857E82A338BAB31 /* [CP] Check Pods Manifest.lock */ = {
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-phoenix-reader/Pods-phoenix-reader-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		78EB93A4D27A0BEFEAFB1766 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-phoenix-readerTests/Pods-phoenix-readerTests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A59532E3D28A61C3340F16FA /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -1231,6 +1308,7 @@
 			showEnvVarsInLog = 0;
 		};
 		5B54B151ABB70B26E43E45F0 /* [CP] Copy Pods Resources */ = {
+		AE3EDD0F5FAEA9023F4E8B3B /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -1238,6 +1316,7 @@
 			inputPaths = (
 			);
 			name = "[CP] Copy Pods Resources";
+			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1246,6 +1325,10 @@
 			showEnvVarsInLog = 0;
 		};
 		6D64D679DCB8856B3BABDD9A /* [CP] Copy Pods Resources */ = {
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		C1025998412CD2D8BA642C37 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -1261,6 +1344,10 @@
 			showEnvVarsInLog = 0;
 		};
 		9D3B401470EF1176C3F432CC /* [CP] Embed Pods Frameworks */ = {
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-phoenix-readerUITests/Pods-phoenix-readerUITests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C3E247C7E87F6FC10F6EE1D7 /* Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -1268,6 +1355,7 @@
 			inputPaths = (
 			);
 			name = "[CP] Embed Pods Frameworks";
+			name = "Embed Pods Frameworks";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1276,6 +1364,10 @@
 			showEnvVarsInLog = 0;
 		};
 		F152CE0A36D3D06FCD58E91C /* [CP] Check Pods Manifest.lock */ = {
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-phoenix-reader/Pods-phoenix-reader-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E03D57997E630CE193846CFE /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -1291,6 +1383,7 @@
 			showEnvVarsInLog = 0;
 		};
 		FBFBFD0105D226C46764931A /* [CP] Embed Pods Frameworks */ = {
+		ED1208A86A0FD104DE4FEB3B /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -1303,6 +1396,21 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-phoenix-reader/Pods-phoenix-reader-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		EF7072F2181C208221AA3C6F /* Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-phoenix-readerTests/Pods-phoenix-readerTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -1560,6 +1668,7 @@
 		1F8825691C29F49400279668 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = E30907BE6652AF0AF9C87C0F /* Pods-phoenix-reader.debug.xcconfig */;
+			baseConfigurationReference = 7E653425FBDF2C74C6A56ACA /* Pods-phoenix-reader.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = schemeIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
@@ -1578,6 +1687,7 @@
 		1F88256A1C29F49400279668 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 63B27C549FA3AED1190F7E5C /* Pods-phoenix-reader.release.xcconfig */;
+			baseConfigurationReference = B08302535C9A0C440D1BB4F5 /* Pods-phoenix-reader.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = schemeIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
@@ -1596,6 +1706,7 @@
 		1F88256C1C29F49400279668 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = B36FFD2F613EF1C331754651 /* Pods-phoenix-readerTests.debug.xcconfig */;
+			baseConfigurationReference = B496B04388749419FE6C4C07 /* Pods-phoenix-readerTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -1613,6 +1724,7 @@
 		1F88256D1C29F49400279668 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 1DFCB089B660617BC13BF465 /* Pods-phoenix-readerTests.release.xcconfig */;
+			baseConfigurationReference = EB5F709D7FA2F2010CEE5048 /* Pods-phoenix-readerTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -1670,6 +1782,7 @@
 		47B68EBF1CBEDBE90084BE4B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 08434A8F2095D1F6D2A43BB3 /* Pods-phoenix-readerUITests.debug.xcconfig */;
+			baseConfigurationReference = 636FE20A01A210A204020DF7 /* Pods-phoenix-readerUITests.debug.xcconfig */;
 			buildSettings = {
 				INFOPLIST_FILE = "phoenix-readerUITests/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -1685,6 +1798,7 @@
 		47B68EC01CBEDBE90084BE4B /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 499E941A223CA36D53D1BD36 /* Pods-phoenix-readerUITests.release.xcconfig */;
+			baseConfigurationReference = F106E5DDAB872455A74872CC /* Pods-phoenix-readerUITests.release.xcconfig */;
 			buildSettings = {
 				INFOPLIST_FILE = "phoenix-readerUITests/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;

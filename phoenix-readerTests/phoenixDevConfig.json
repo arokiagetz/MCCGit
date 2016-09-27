@@ -1,0 +1,185 @@
+{
+  "market_timezone": {
+    "abbreviation": "EST",
+    "offset": -240
+  },
+  "sections_info": {
+    "stories_shown_per_section": 20,
+    "multisection": {
+      "top_stories_shown": 1,
+      "top_story_section_id": "3401",
+      "sections_shown": 5,
+      "stories_shown": 5
+    },
+    "sections": [
+      {
+        "type": "section",
+        "name": "News",
+        "ad_channel": "News",
+        "ad_sect": "News",
+        "template": "3",
+        "url": "http://static.mcclatchyinteractive.com/mobile_app_configs/android/phoenix/new_app_news_section_feed.json",
+        "section_id": "3402",
+        "sections": [
+          {
+            "url": "",
+            "name": "Local News",
+            "template": "3",
+            "section_id": "1112"
+          },
+          {
+            "url": "",
+            "name": "Business",
+            "template": "3",
+            "section_id": "1113"
+          },
+          {
+            "url": "",
+            "name": "Sports",
+            "template": "3",
+            "section_id": "1114"
+          }
+        ]
+      },
+      {
+        "type": "section",
+        "name": "Local",
+        "ad_channel": "Local",
+        "ad_sect": "Local",
+        "template": "3",
+        "url": "http://static.mcclatchyinteractive.com/mobile_app_configs/android/phoenix/new_app_local_section_feed.json",
+        "section_id": "3403"
+      },
+      {
+        "type": "section",
+        "name": "Sports News",
+        "ad_channel": "Sports",
+        "ad_sect": "Sports",
+        "template": "3",
+        "url": "http://static.mcclatchyinteractive.com/mobile_app_configs/android/phoenix/new_app_sports_section_feed.json",
+        "section_id": "3404"
+      },
+      {
+        "type": "section",
+        "name": "Entertainment",
+        "ad_channel": "Entertainment",
+        "ad_sect": "Entertainment",
+        "template": "3",
+        "url": "http://static.mcclatchyinteractive.com/mobile_app_configs/android/phoenix/new_app_entertainment_section_feed.json",
+        "section_id": "3405"
+      },
+      {
+        "type": "section",
+        "name": "Politics",
+        "ad_channel": "Politics",
+        "ad_sect": "Politics",
+        "template": "3",
+        "url": "http://static.mcclatchyinteractive.com/mobile_app_configs/android/phoenix/new_app_politics_section_feed.json",
+        "section_id": "3406"
+      }
+    ]
+  },
+  "alerts": [
+    {
+      "timestamp": "2234557",
+      "text": "There will be an update soon!",
+      "header_text": "Upcoming update!",
+      "persistent": true,
+      "link": "http://www.google.com",
+      "link_text": "Go Download!",
+      "app_versions": [
+        {
+          "versions": ["6.0.0"],
+          "modifier": "below"
+        }
+      ],
+      "os_versions": [
+      ]
+    }
+  ],
+  "weather": {
+    "accuweather": {
+      "enabled": true,
+      "api_key": "2ce96fe9da724185a27db1e6a3ecf580",
+      "location_key": "328736",
+      "dev_mode": false,
+      "icons_base_url": "http://static.mcclatchyinteractive.com/mobile/apps/images/weather-icons/accuweather/"
+    }
+  },
+  "push_notifications": {
+    "urban_airship": {
+      "enabled": true,
+      "prod_app_key": "_P0PQpS-T6KcSrU5Z94MIw",
+      "prod_app_secret": "iZ7PfjkFR-OZy-HT2hw8fA",
+      "debug_logging": true
+    }
+  },
+  "analytics": {
+    "omniture": {
+      "enabled": true,
+      "debug_logging": true,
+      "appid": "0339942c-15d1-41d3-b52a-44b22495b439",
+      "rsid": "nmmianalytics",
+      "server": "nandomedia.112.2o7.net",
+      "biz_unit": "MCC",
+      "publication": "MI Analytics Site"
+    }
+  },
+  "ads": {
+    "enabled": true,
+    "interstitial": {
+      "thresholds": {
+        "sections": 7,
+        "stories": 7,
+        "galleries": 7,
+        "videos": 7
+      }
+    },
+    "admob": {
+      "phone": {
+        "ad_unit_id": "/7675/MCI.app-inhouse-phoneandroid_testapp"
+      },
+      "tablet": {
+        "ad_unit_id": "/7675/MCI.app-inhouse-tabletandroid_testapp"
+      },
+      "pl": {
+        "section": "sectfront",
+        "story": "story"
+      },
+      "test_devices": [
+        "D77E940388B2911799B5CE0E7C039A88",
+        "CCB68D8616B36A40BFA9D7798311B5FA",
+        "183945E29C41527C9161C18F1AF1EFB5",
+        "F95E879CCFC63C902E76AFABCA4A26AE",
+        "3F52190D41855467BE680F17436D572B",
+        "24F2643725B444B6CCFC9BB19A6225C6"
+      ]
+    }
+  },
+  "social": {
+    "facebook": {
+      "enabled": true,
+      "api_key": "403238979787734"
+    }
+  },
+  "video": {
+    "youtube": {
+      "api_key": "AIzaSyC7yvzn_pQP-pvKchvLPYCHKStWJktX89A"
+    }
+  },
+  "about": {
+    "links": {
+      "privacy_policy": "http://www.newsobserver.com/privacy_policy/",
+      "terms_of_service": "http://www.newsobserver.com/terms_of_service/",
+      "copyright": "http://www.newsobserver.com/copyright/"
+    },
+    "contact_email": "efrederick@newsobserver.com"
+  },
+  "more_options": [
+    {
+      "type": "internal_link",
+      "name": "More Options Test",
+      "url": "http://google.com"
+    }
+  ]
+}

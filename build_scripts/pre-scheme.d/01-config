@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+log " [INFO] cp xcconfig to build dir"
+cp "${repo_root}/phoenix-reader/scheme/${SCHEME_NAME}/scheme.xcconfig" "${tmp_config}"
+cp -Rf "${repo_root}/phoenix-reader/scheme/${SCHEME_NAME}/MarketAssets.xcassets/" "${repo_root}/phoenix-reader/MarketAssets.xcassets"
+log " [INFO] pre-scheme completion done!"
+printf "\n" >> ${tmp_config}
+
+log " [INFO] echo scheme to tmp xcconfig"
+echo "MI_SCHEME_NAME = ${SCHEME_NAME}" >> "${tmp_config}"
+
+sync

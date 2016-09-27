@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+
+# get unix time
+mytime=`date +'%s'`
+git_describe=`git describe`
+git_tag=`echo ${git_describe} | cut -f1 -d'-'`
+major=`echo ${git_tag} | cut -f1 -d'.'`
+minor=`echo ${git_tag} | cut -f2 -d'.'`
+
+log " [INFO] adding version info to plist: ${TARGET_BUILD_DIR}/${INFOPLIST_PATH}"
+
+if [ "${git_describe}" != "${git_tag}" ]; then
+  branch=`git rev-parse --abbrev-ref HEAD`
+  rev=`git rev-parse --short HEAD`
+  next_minor=$((minor+1))
+
+  log " [INFO] version string: ${branch}-${rev}"
+  /usr/libexec/PlistBuddy -c "Set :CFBundleShortVersionString ${major}.${next_minor}" "${TARGET_BUILD_DIR}/${INFOPLIST_PATH}"
+
+  log " [INFO] version/build num: ${major}.${next_minor}.${mytime}"
+  /usr/libexec/PlistBuddy -c "Set :CFBundleVersion ${major}.${next_minor}.${mytime}" "${TARGET_BUILD_DIR}/${INFOPLIST_PATH}"
+else
+  log " [INFO] version string: ${git_tag}"
+  /usr/libexec/PlistBuddy -c "Set :CFBundleShortVersionString ${git_tag}" "${TARGET_BUILD_DIR}/${INFOPLIST_PATH}"
+
+  log " [INFO] version/build num: ${major}.${minor}.${mytime}"
+  /usr/libexec/PlistBuddy -c "Set :CFBundleVersion ${major}.${minor}.${mytime}" "${TARGET_BUILD_DIR}/${INFOPLIST_PATH}"
+fi

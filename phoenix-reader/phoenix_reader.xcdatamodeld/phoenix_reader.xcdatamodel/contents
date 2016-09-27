@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="10174" systemVersion="15G1004" minimumToolsVersion="Automatic">
+    <entity name="MNILocationWeatherData" representedClassName="MNILocationWeatherData" syncable="YES">
+        <attribute name="active" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="lastUpdated" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="locationID" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="locationName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="providerID" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="selected" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="version" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="weatherDataDict" optional="YES" attributeType="Transformable" syncable="YES"/>
+    </entity>
+    <entity name="MNISection" representedClassName="MNISection" syncable="YES">
+        <attribute name="contentType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isMainSection" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sectionID" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sectionTemplate" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="sortOrder" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="timeStamp" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="type" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="url" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="sections" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="MNISection" inverseName="sections" inverseEntity="MNISection" syncable="YES"/>
+        <relationship name="stories" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Story" inverseName="section" inverseEntity="Story" syncable="YES"/>
+    </entity>
+    <entity name="MNIServerConfig" representedClassName="MNIServerConfig" syncable="YES">
+        <attribute name="lastUpdated" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="serverConfigModelDict" optional="YES" attributeType="Transformable" valueTransformerName="" syncable="YES"/>
+        <attribute name="version" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <entity name="SectionPreferences" representedClassName="SectionPreferences" syncable="YES">
+        <attribute name="sectionID" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sortOrder" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+    </entity>
+    <entity name="Story" representedClassName="MNIStory" syncable="YES">
+        <attribute name="fetchedDate" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="sectionId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="storyContentTransformation" optional="YES" attributeType="Transformable" valueTransformerName="MNIStoryContentTransformation" syncable="YES"/>
+        <attribute name="storyId" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="section" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="MNISection" inverseName="stories" inverseEntity="MNISection" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="MNILocationWeatherData" positionX="-279" positionY="-279" width="128" height="163"/>
+        <element name="MNIServerConfig" positionX="-495" positionY="-279" width="128" height="90"/>
+        <element name="SectionPreferences" positionX="-497" positionY="-162" width="128" height="75"/>
+        <element name="Story" positionX="-279" positionY="-49" width="128" height="30"/>
+        <element name="MNISection" positionX="-387" positionY="-135" width="128" height="210"/>
+    </elements>
+</model>

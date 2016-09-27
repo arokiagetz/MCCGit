@@ -1,0 +1,3686 @@
+{
+  "Maps": {
+    "Link": "http://www.accuweather.com/en/us/missouri/weather-radar", 
+    "Satellite": {
+      "Images": [
+        {
+          "Date": "2016-03-28T13:45:00-05:00", 
+          "Url": "http://vortex.accuweather.com/adc2004/mapspace/world_ir/480x480/MO__1603281845.png"
+        }, 
+        {
+          "Date": "2016-03-28T14:15:00-05:00", 
+          "Url": "http://vortex.accuweather.com/adc2004/mapspace/world_ir/480x480/MO__1603281915.png"
+        }, 
+        {
+          "Date": "2016-03-28T14:45:00-05:00", 
+          "Url": "http://vortex.accuweather.com/adc2004/mapspace/world_ir/480x480/MO__1603281945.png"
+        }, 
+        {
+          "Date": "2016-03-28T15:15:00-05:00", 
+          "Url": "http://vortex.accuweather.com/adc2004/mapspace/world_ir/480x480/MO__1603282015.png"
+        }
+      ], 
+      "Size": "480x480"
+    }, 
+    "MobileLink": "http://m.accuweather.com/en/us/missouri/weather-radar", 
+    "Radar": {
+      "Images": [
+        {
+          "Date": "2016-03-28T15:10:00-05:00", 
+          "Url": "http://vortex.accuweather.com/adc2004/mapspace/usradar/480x480/MO__1603282010.png"
+        }, 
+        {
+          "Date": "2016-03-28T15:15:00-05:00", 
+          "Url": "http://vortex.accuweather.com/adc2004/mapspace/usradar/480x480/MO__1603282015.png"
+        }, 
+        {
+          "Date": "2016-03-28T15:25:00-05:00", 
+          "Url": "http://vortex.accuweather.com/adc2004/mapspace/usradar/480x480/MO__1603282025.png"
+        }, 
+        {
+          "Date": "2016-03-28T15:30:00-05:00", 
+          "Url": "http://vortex.accuweather.com/adc2004/mapspace/usradar/480x480/MO__1603282030.png"
+        }, 
+        {
+          "Date": "2016-03-28T15:45:00-05:00", 
+          "Url": "http://vortex.accuweather.com/adc2004/mapspace/usradar/480x480/MO__1603282045.png"
+        }
+      ], 
+      "Size": "480x480"
+    }
+  }, 
+  "CurrentConditions": {
+    "EpochTime": 1459197900, 
+    "RealFeelTemperature": {
+      "UnitType": 18, 
+      "Unit": "F", 
+      "Value": 67.0
+    }, 
+    "WeatherIcon": 1, 
+    "CloudCover": 0, 
+    "WindGust": {
+      "Speed": {
+        "UnitType": 9, 
+        "Unit": "mi/h", 
+        "Value": 21.9
+      }
+    }, 
+    "RealFeelTemperatureShade": {
+      "UnitType": 18, 
+      "Unit": "F", 
+      "Value": 62.0
+    }, 
+    "WindChillTemperature": {
+      "UnitType": 18, 
+      "Unit": "F", 
+      "Value": 66.0
+    }, 
+    "Temperature": {
+      "UnitType": 18, 
+      "Unit": "F", 
+      "Value": 66.0
+    }, 
+    "Ceiling": {
+      "UnitType": 0, 
+      "Unit": "ft", 
+      "Value": 28000.0
+    }, 
+    "Photos": [
+      {
+        "DateTaken": null, 
+        "Source": "iStockphoto/Thinkstock", 
+        "Description": "Beautiful People, Beauty, Building Exterior, Built Structure, Business, City, City Life, Corporate Business, Downtown District,High Up, Kansas City - Missouri, Occupation, Office, Office Building, Photography, Professional Occupation, Reflection, Sky,Skyscraper, Tall, Tower, Vertical, Working", 
+        "LandscapeLink": "http://cityscapes.accuweather.com/cityscapes/USA/KansasCity_139258705_L_L.jpg", 
+        "PortraitLink": "http://cityscapes.accuweather.com/cityscapes/USA/KansasCity_139258705_P_L.jpg"
+      }, 
+      {
+        "DateTaken": null, 
+        "Source": "iStockphoto/Thinkstock", 
+        "Description": "Blue, Built Structure, City, Downtown District, Famous Place, Fountain, Front or Back Yard, Grass, Green Color, Kansas,Kansas City - Missouri, No People, Outdoors, Photography, Sky, Skyline, Vertical, Water", 
+        "LandscapeLink": "http://cityscapes.accuweather.com/cityscapes/USA/KansasCity_147078167_L_L.jpg", 
+        "PortraitLink": "http://cityscapes.accuweather.com/cityscapes/USA/KansasCity_147078167_P_L.jpg"
+      }, 
+      {
+        "DateTaken": null, 
+        "Source": "iStockphoto/Thinkstock", 
+        "Description": "Apartment, Architectural Feature, Art Deco, Beauty In Nature, Blossom, Blue, Clear Sky, Color Image, Copy Space, Directly Below, Dogwood, Flower, History, Kansas City - Missouri, Looking Up, Majestic, Missouri, No People, Old, Outdoors,Photography, Skyscraper, Springtime, Street Light, Tree, USA, Vertical", 
+        "LandscapeLink": "http://cityscapes.accuweather.com/cityscapes/USA/KansasCity_102734426_L_L.jpg", 
+        "PortraitLink": "http://cityscapes.accuweather.com/cityscapes/USA/KansasCity_102734426_P_L.jpg"
+      }, 
+      {
+        "DateTaken": null, 
+        "Source": "iStockphoto/Thinkstock", 
+        "Description": "Architecture, Art, Blue, Brick, Building Exterior, Built Structure, City Life, Color Image, Copy Space, Cultures, Cupola, Dome,Hemisphere, History, Kansas City - Missouri, No People, Orange Color, Photography, Sky, Spanish Culture, Statue, Textured,Textured Effect, Tray, Vertical, Yellow", 
+        "LandscapeLink": "http://cityscapes.accuweather.com/cityscapes/USA/KansasCity_119394422_L_L.jpg", 
+        "PortraitLink": "http://cityscapes.accuweather.com/cityscapes/USA/KansasCity_119394422_P_L.jpg"
+      }, 
+      {
+        "DateTaken": null, 
+        "Source": "iStockphoto/Thinkstock", 
+        "Description": "Architecture, Concrete, Famous Place, Granite, Kansas, Kansas City - Missouri, Liberty Memorial, Limestone, Missouri,Museum, National Landmark, No People, Outdoors, Park, Photography, Stone, Tower, Vertical, World War I", 
+        "LandscapeLink": "http://cityscapes.accuweather.com/cityscapes/USA/KansasCity_137859622_L_L.jpg", 
+        "PortraitLink": "http://cityscapes.accuweather.com/cityscapes/USA/KansasCity_137859622_P_L.jpg"
+      }
+    ], 
+    "PrecipitationSummary": {
+      "Past24Hours": {
+        "UnitType": 1, 
+        "Unit": "in", 
+        "Value": 0.0
+      }, 
+      "Past12Hours": {
+        "UnitType": 1, 
+        "Unit": "in", 
+        "Value": 0.0
+      }, 
+      "Past18Hours": {
+        "UnitType": 1, 
+        "Unit": "in", 
+        "Value": 0.0
+      }, 
+      "Past9Hours": {
+        "UnitType": 1, 
+        "Unit": "in", 
+        "Value": 0.0
+      }, 
+      "PastHour": {
+        "UnitType": 1, 
+        "Unit": "in", 
+        "Value": 0.0
+      }, 
+      "Precipitation": {
+        "UnitType": 1, 
+        "Unit": "in", 
+        "Value": 0.0
+      }, 
+      "Past3Hours": {
+        "UnitType": 1, 
+        "Unit": "in", 
+        "Value": 0.0
+      }, 
+      "Past6Hours": {
+        "UnitType": 1, 
+        "Unit": "in", 
+        "Value": 0.0
+      }
+    }, 
+    "Visibility": {
+      "UnitType": 2, 
+      "Unit": "mi", 
+      "Value": 10.0
+    }, 
+    "Pressure": {
+      "UnitType": 12, 
+      "Unit": "inHg", 
+      "Value": 30.09
+    }, 
+    "Link": "http://www.accuweather.com/en/us/kansas-city-mo/64106/current-weather/329441", 
+    "Past24HourTemperatureDeparture": {
+      "UnitType": 18, 
+      "Unit": "F", 
+      "Value": 16.0
+    }, 
+    "Precip1hr": {
+      "UnitType": 1, 
+      "Unit": "in", 
+      "Value": 0.0
+    }, 
+    "RelativeHumidity": 23, 
+    "LocalObservationDateTime": "2016-03-28T15:45:00-05:00", 
+    "DewPoint": {
+      "UnitType": 18, 
+      "Unit": "F", 
+      "Value": 28.0
+    }, 
+    "UVIndexText": "Moderate", 
+    "IsDayTime": true, 
+    "WeatherText": "Sunny", 
+    "ObstructionsToVisibility": "", 
+    "WetBulbTemperature": {
+      "UnitType": 18, 
+      "Unit": "F", 
+      "Value": 48.0
+    }, 
+    "MobileLink": "http://m.accuweather.com/en/us/kansas-city-mo/64106/current-weather/329441", 
+    "Wind": {
+      "Direction": {
+        "Degrees": 180, 
+        "Localized": "S", 
+        "English": "S"
+      }, 
+      "Speed": {
+        "UnitType": 9, 
+        "Unit": "mi/h", 
+        "Value": 16.1
+      }
+    }, 
+    "TemperatureSummary": {
+      "Past24HourRange": {
+        "Minimum": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 32.0
+        }, 
+        "Maximum": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 66.0
+        }
+      }, 
+      "Past6HourRange": {
+        "Minimum": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 48.0
+        }, 
+        "Maximum": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 66.0
+        }
+      }, 
+      "Past12HourRange": {
+        "Minimum": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 32.0
+        }, 
+        "Maximum": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 66.0
+        }
+      }
+    }, 
+    "ApparentTemperature": {
+      "UnitType": 18, 
+      "Unit": "F", 
+      "Value": 66.0
+    }, 
+    "UVIndex": 3, 
+    "PressureTendency": {
+      "Code": "F", 
+      "LocalizedText": "Falling"
+    }
+  }, 
+  "Location": {
+    "SupplementalAdminAreas": [
+      {
+        "EnglishName": "Jackson", 
+        "LocalizedName": "Jackson", 
+        "Level": 2
+      }
+    ], 
+    "Country": {
+      "EnglishName": "United States", 
+      "ID": "US", 
+      "LocalizedName": "United States"
+    }, 
+    "Region": {
+      "EnglishName": "North America", 
+      "ID": "NAM", 
+      "LocalizedName": "North America"
+    }, 
+    "IsAlias": false, 
+    "Rank": 35, 
+    "LocalizedName": "Kansas City", 
+    "Version": 1, 
+    "PrimaryPostalCode": "64106", 
+    "Key": "329441", 
+    "TimeZone": {
+      "IsDaylightSaving": true, 
+      "Code": "CDT", 
+      "GmtOffset": -5.0, 
+      "Name": "America/Chicago", 
+      "NextOffsetChange": "2016-11-06T07:00:00Z"
+    }, 
+    "EnglishName": "Kansas City", 
+    "AdministrativeArea": {
+      "LocalizedType": "State", 
+      "EnglishType": "State", 
+      "CountryID": "US", 
+      "Level": 1, 
+      "LocalizedName": "Missouri", 
+      "EnglishName": "Missouri", 
+      "ID": "MO"
+    }, 
+    "Type": "City", 
+    "GeoPosition": {
+      "Latitude": 39.1, 
+      "Elevation": {
+        "UnitType": 0, 
+        "Unit": "ft", 
+        "Value": 888.0
+      }, 
+      "Longitude": -94.579
+    }, 
+    "Details": {
+      "DMA": {
+        "EnglishName": "Kansas City, MO", 
+        "ID": "616"
+      }, 
+      "CanonicalPostalCode": "64106", 
+      "PrimaryWarningZoneCode": "MOZ029", 
+      "MediaRegion": "SC", 
+      "PartnerID": null, 
+      "Satellite": "MO_", 
+      "Synoptic": "72446", 
+      "BandMap": "USMO", 
+      "LocalRadar": "KMKC", 
+      "NXMetro": "MCI", 
+      "Population": 459772, 
+      "StationGmtOffset": -6.0, 
+      "Key": "329441", 
+      "VideoCode": "MKC", 
+      "Metar": "KMKC", 
+      "Climo": "MKC", 
+      "StationCode": "MKC", 
+      "MarineStationGMTOffset": null, 
+      "CanonicalLocationKey": "329441", 
+      "NXState": "MO_", 
+      "PrimaryWarningCountyCode": "MOC047", 
+      "Sources": [
+        {
+          "DataType": "Alerts", 
+          "Source": "U.S. National Weather Service", 
+          "SourceId": 2
+        }, 
+        {
+          "DataType": "CurrentConditions", 
+          "Source": "AccuWeather", 
+          "SourceId": 1
+        }, 
+        {
+          "DataType": "DailyForecast", 
+          "Source": "AccuWeather", 
+          "SourceId": 1
+        }, 
+        {
+          "DataType": "HourlyForecast", 
+          "Source": "AccuWeather", 
+          "SourceId": 1
+        }
+      ], 
+      "MarineStation": ""
+    }
+  }, 
+  "ForecastSummary": {
+    "Headline": {
+      "Category": "thunderstorm", 
+      "EndDate": "2016-03-30T20:00:00-05:00", 
+      "Severity": 1, 
+      "EffectiveDate": "2016-03-30T08:00:00-05:00", 
+      "Text": "Watch for a severe thunderstorm Wednesday", 
+      "EndEpochDate": 1459386000, 
+      "EffectiveEpochDate": 1459342800, 
+      "Link": "http://www.accuweather.com/en/us/kansas-city-mo/64106/daily-weather-forecast/329441", 
+      "MobileLink": "http://m.accuweather.com/en/us/kansas-city-mo/64106/extended-weather-forecast/329441"
+    }, 
+    "DailyForecasts": [
+      {
+        "Temperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 44.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 67.0
+          }
+        }, 
+        "Sun": {
+          "Set": "2016-03-28T19:39:00-05:00", 
+          "EpochRise": 1459166880, 
+          "Rise": "2016-03-28T07:08:00-05:00", 
+          "EpochSet": 1459211940
+        }, 
+        "RealFeelTemperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 39.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 70.0
+          }
+        }, 
+        "Moon": {
+          "Set": "2016-03-28T10:10:00-05:00", 
+          "EpochRise": null, 
+          "Age": 19, 
+          "Rise": null, 
+          "EpochSet": 1459177800, 
+          "Phase": "WaningGibbous"
+        }, 
+        "Sources": [
+          "AccuWeather"
+        ], 
+        "DegreeDaySummary": {
+          "Cooling": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 0.0
+          }, 
+          "Heating": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 9.0
+          }
+        }, 
+        "Link": "http://www.accuweather.com/en/us/kansas-city-mo/64106/daily-weather-forecast/329441?day=1", 
+        "AirAndPollen": [
+          {
+            "Category": "Good", 
+            "Type": "Ozone", 
+            "CategoryValue": 1, 
+            "Name": "AirQuality", 
+            "Value": 36
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Grass", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Mold", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Ragweed", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Moderate", 
+            "CategoryValue": 2, 
+            "Name": "Tree", 
+            "Value": 50
+          }, 
+          {
+            "Category": "High", 
+            "CategoryValue": 3, 
+            "Name": "UVIndex", 
+            "Value": 6
+          }
+        ], 
+        "HoursOfSun": 12.3, 
+        "Night": {
+          "LongPhrase": "Clear to partly cloudy", 
+          "RainProbability": 1, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 1, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 38, 
+          "PrecipitationProbability": 1, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 138, 
+              "Localized": "SE", 
+              "English": "SE"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 6.9
+            }
+          }, 
+          "ShortPhrase": "Clear to partly cloudy", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 180, 
+              "Localized": "S", 
+              "English": "S"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 10.4
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Partly cloudy", 
+          "Icon": 35
+        }, 
+        "Date": "2016-03-28T07:00:00-05:00", 
+        "RealFeelTemperatureShade": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 39.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 64.0
+          }
+        }, 
+        "EpochDate": 1459166400, 
+        "MobileLink": "http://m.accuweather.com/en/us/kansas-city-mo/64106/daily-weather-forecast/329441?day=1", 
+        "Day": {
+          "LongPhrase": "Brilliant sunshine and warmer", 
+          "RainProbability": 0, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 2, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 3, 
+          "PrecipitationProbability": 0, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 167, 
+              "Localized": "SSE", 
+              "English": "SSE"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 8.1
+            }
+          }, 
+          "ShortPhrase": "Brilliant sunshine and warmer", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 190, 
+              "Localized": "S", 
+              "English": "S"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 21.9
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Sunny", 
+          "Icon": 1
+        }
+      }, 
+      {
+        "Temperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 54.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 68.0
+          }
+        }, 
+        "Sun": {
+          "Set": "2016-03-29T19:40:00-05:00", 
+          "EpochRise": 1459253160, 
+          "Rise": "2016-03-29T07:06:00-05:00", 
+          "EpochSet": 1459298400
+        }, 
+        "RealFeelTemperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 47.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 66.0
+          }
+        }, 
+        "Moon": {
+          "Set": "2016-03-29T10:52:00-05:00", 
+          "EpochRise": 1459229460, 
+          "Age": 20, 
+          "Rise": "2016-03-29T00:31:00-05:00", 
+          "EpochSet": 1459266720, 
+          "Phase": "WaningGibbous"
+        }, 
+        "Sources": [
+          "AccuWeather"
+        ], 
+        "DegreeDaySummary": {
+          "Cooling": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 0.0
+          }, 
+          "Heating": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 4.0
+          }
+        }, 
+        "Link": "http://www.accuweather.com/en/us/kansas-city-mo/64106/daily-weather-forecast/329441?day=2", 
+        "AirAndPollen": [
+          {
+            "Category": "Good", 
+            "Type": "Ozone", 
+            "CategoryValue": 1, 
+            "Name": "AirQuality", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Grass", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Mold", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Ragweed", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Moderate", 
+            "CategoryValue": 2, 
+            "Name": "Tree", 
+            "Value": 50
+          }, 
+          {
+            "Category": "Moderate", 
+            "CategoryValue": 2, 
+            "Name": "UVIndex", 
+            "Value": 5
+          }
+        ], 
+        "HoursOfSun": 6.9, 
+        "Night": {
+          "LongPhrase": "Mostly cloudy, breezy and mild", 
+          "RainProbability": 20, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 14, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 76, 
+          "PrecipitationProbability": 20, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 160, 
+              "Localized": "SSE", 
+              "English": "SSE"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 13.8
+            }
+          }, 
+          "ShortPhrase": "Mostly cloudy; breezy, mild", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 158, 
+              "Localized": "SSE", 
+              "English": "SSE"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 18.4
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Mostly cloudy", 
+          "Icon": 38
+        }, 
+        "Date": "2016-03-29T07:00:00-05:00", 
+        "RealFeelTemperatureShade": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 47.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 64.0
+          }
+        }, 
+        "EpochDate": 1459252800, 
+        "MobileLink": "http://m.accuweather.com/en/us/kansas-city-mo/64106/daily-weather-forecast/329441?day=2", 
+        "Day": {
+          "LongPhrase": "Times of clouds and sun; breezy in the afternoon", 
+          "RainProbability": 4, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 4, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 55, 
+          "PrecipitationProbability": 4, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 144, 
+              "Localized": "SE", 
+              "English": "SE"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 13.8
+            }
+          }, 
+          "ShortPhrase": "Times of sun and clouds", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 142, 
+              "Localized": "SE", 
+              "English": "SE"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 19.6
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Intermittent clouds", 
+          "Icon": 4
+        }
+      }, 
+      {
+        "Temperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 45.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 73.0
+          }
+        }, 
+        "Sun": {
+          "Set": "2016-03-30T19:41:00-05:00", 
+          "EpochRise": 1459339500, 
+          "Rise": "2016-03-30T07:05:00-05:00", 
+          "EpochSet": 1459384860
+        }, 
+        "RealFeelTemperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 38.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 70.0
+          }
+        }, 
+        "Moon": {
+          "Set": "2016-03-30T11:39:00-05:00", 
+          "EpochRise": 1459319040, 
+          "Age": 21, 
+          "Rise": "2016-03-30T01:24:00-05:00", 
+          "EpochSet": 1459355940, 
+          "Phase": "WaningGibbous"
+        }, 
+        "Sources": [
+          "AccuWeather"
+        ], 
+        "DegreeDaySummary": {
+          "Cooling": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 0.0
+          }, 
+          "Heating": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 5.0
+          }
+        }, 
+        "Link": "http://www.accuweather.com/en/us/kansas-city-mo/64106/daily-weather-forecast/329441?day=3", 
+        "AirAndPollen": [
+          {
+            "Category": "Good", 
+            "Type": "Ozone", 
+            "CategoryValue": 1, 
+            "Name": "AirQuality", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Grass", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Mold", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Ragweed", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Moderate", 
+            "CategoryValue": 2, 
+            "Name": "Tree", 
+            "Value": 50
+          }, 
+          {
+            "Category": "Moderate", 
+            "CategoryValue": 2, 
+            "Name": "UVIndex", 
+            "Value": 3
+          }
+        ], 
+        "HoursOfSun": 3.4, 
+        "Night": {
+          "LongPhrase": "Mostly cloudy and breezy", 
+          "RainProbability": 25, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 24, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 35, 
+          "PrecipitationProbability": 25, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 236, 
+              "Localized": "SW", 
+              "English": "SW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 15.0
+            }
+          }, 
+          "ShortPhrase": "Mostly cloudy and breezy", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 229, 
+              "Localized": "SW", 
+              "English": "SW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 19.6
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Mostly cloudy", 
+          "Icon": 38
+        }, 
+        "Date": "2016-03-30T07:00:00-05:00", 
+        "RealFeelTemperatureShade": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 38.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 69.0
+          }
+        }, 
+        "EpochDate": 1459339200, 
+        "MobileLink": "http://m.accuweather.com/en/us/kansas-city-mo/64106/daily-weather-forecast/329441?day=3", 
+        "Day": {
+          "LongPhrase": "A severe afternoon t-storm; storms can bring downpours, damaging winds and even an isolated tornado", 
+          "RainProbability": 60, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 2.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 2.0, 
+          "ThunderstormProbability": 95, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.35
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 78, 
+          "PrecipitationProbability": 60, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 180, 
+              "Localized": "S", 
+              "English": "S"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 15.0
+            }
+          }, 
+          "ShortPhrase": "A severe afternoon t-storm", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 181, 
+              "Localized": "S", 
+              "English": "S"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 21.9
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.35
+          }, 
+          "IconPhrase": "Thunderstorms", 
+          "Icon": 15
+        }
+      }, 
+      {
+        "Temperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 40.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 61.0
+          }
+        }, 
+        "Sun": {
+          "Set": "2016-03-31T19:42:00-05:00", 
+          "EpochRise": 1459425780, 
+          "Rise": "2016-03-31T07:03:00-05:00", 
+          "EpochSet": 1459471320
+        }, 
+        "RealFeelTemperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 33.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 58.0
+          }
+        }, 
+        "Moon": {
+          "Set": "2016-03-31T12:31:00-05:00", 
+          "EpochRise": 1459408440, 
+          "Age": 22, 
+          "Rise": "2016-03-31T02:14:00-05:00", 
+          "EpochSet": 1459445460, 
+          "Phase": "Last"
+        }, 
+        "Sources": [
+          "AccuWeather"
+        ], 
+        "DegreeDaySummary": {
+          "Cooling": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 0.0
+          }, 
+          "Heating": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 15.0
+          }
+        }, 
+        "Link": "http://www.accuweather.com/en/us/kansas-city-mo/64106/daily-weather-forecast/329441?day=4", 
+        "AirAndPollen": [
+          {
+            "Category": "Good", 
+            "Type": "Ozone", 
+            "CategoryValue": 1, 
+            "Name": "AirQuality", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Grass", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Mold", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Ragweed", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Moderate", 
+            "CategoryValue": 2, 
+            "Name": "Tree", 
+            "Value": 50
+          }, 
+          {
+            "Category": "Moderate", 
+            "CategoryValue": 2, 
+            "Name": "UVIndex", 
+            "Value": 5
+          }
+        ], 
+        "HoursOfSun": 7.7, 
+        "Night": {
+          "LongPhrase": "Mainly clear", 
+          "RainProbability": 15, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 5, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 27, 
+          "PrecipitationProbability": 15, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 296, 
+              "Localized": "WNW", 
+              "English": "WNW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 6.9
+            }
+          }, 
+          "ShortPhrase": "Mainly clear", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 266, 
+              "Localized": "W", 
+              "English": "W"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 9.2
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Mostly clear", 
+          "Icon": 34
+        }, 
+        "Date": "2016-03-31T07:00:00-05:00", 
+        "RealFeelTemperatureShade": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 33.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 57.0
+          }
+        }, 
+        "EpochDate": 1459425600, 
+        "MobileLink": "http://m.accuweather.com/en/us/kansas-city-mo/64106/daily-weather-forecast/329441?day=4", 
+        "Day": {
+          "LongPhrase": "Partly sunny, breezy and cooler", 
+          "RainProbability": 12, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 5, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 45, 
+          "PrecipitationProbability": 12, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 276, 
+              "Localized": "W", 
+              "English": "W"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 15.0
+            }
+          }, 
+          "ShortPhrase": "Some sun; breezy, cooler", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 283, 
+              "Localized": "WNW", 
+              "English": "WNW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 21.9
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Partly sunny", 
+          "Icon": 3
+        }
+      }, 
+      {
+        "Temperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 33.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 53.0
+          }
+        }, 
+        "Sun": {
+          "Set": "2016-04-01T19:43:00-05:00", 
+          "EpochRise": 1459512120, 
+          "Rise": "2016-04-01T07:02:00-05:00", 
+          "EpochSet": 1459557780
+        }, 
+        "RealFeelTemperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 30.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 49.0
+          }
+        }, 
+        "Moon": {
+          "Set": "2016-04-01T13:28:00-05:00", 
+          "EpochRise": 1459497720, 
+          "Age": 23, 
+          "Rise": "2016-04-01T03:02:00-05:00", 
+          "EpochSet": 1459535280, 
+          "Phase": "WaningCrescent"
+        }, 
+        "Sources": [
+          "AccuWeather"
+        ], 
+        "DegreeDaySummary": {
+          "Cooling": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 0.0
+          }, 
+          "Heating": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 22.0
+          }
+        }, 
+        "Link": "http://www.accuweather.com/en/us/kansas-city-mo/64106/daily-weather-forecast/329441?day=5", 
+        "AirAndPollen": [
+          {
+            "Category": "Good", 
+            "Type": "Ozone", 
+            "CategoryValue": 1, 
+            "Name": "AirQuality", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Grass", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Mold", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Ragweed", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Tree", 
+            "Value": 0
+          }, 
+          {
+            "Category": "High", 
+            "CategoryValue": 3, 
+            "Name": "UVIndex", 
+            "Value": 6
+          }
+        ], 
+        "HoursOfSun": 8.3, 
+        "Night": {
+          "LongPhrase": "Clear", 
+          "RainProbability": 7, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 2, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 5, 
+          "PrecipitationProbability": 7, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 306, 
+              "Localized": "NW", 
+              "English": "NW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 5.8
+            }
+          }, 
+          "ShortPhrase": "Clear", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 326, 
+              "Localized": "NW", 
+              "English": "NW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 11.5
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Clear", 
+          "Icon": 33
+        }, 
+        "Date": "2016-04-01T07:00:00-05:00", 
+        "RealFeelTemperatureShade": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 30.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 46.0
+          }
+        }, 
+        "EpochDate": 1459512000, 
+        "MobileLink": "http://m.accuweather.com/en/us/kansas-city-mo/64106/daily-weather-forecast/329441?day=5", 
+        "Day": {
+          "LongPhrase": "Partly sunny with a shower in places", 
+          "RainProbability": 41, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 1.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 1.0, 
+          "ThunderstormProbability": 20, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.04
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 40, 
+          "PrecipitationProbability": 41, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 308, 
+              "Localized": "NW", 
+              "English": "NW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 12.7
+            }
+          }, 
+          "ShortPhrase": "Partly sunny with a shower", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 308, 
+              "Localized": "NW", 
+              "English": "NW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 17.3
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.04
+          }, 
+          "IconPhrase": "Partly sunny", 
+          "Icon": 3
+        }
+      }, 
+      {
+        "Temperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 43.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 65.0
+          }
+        }, 
+        "Sun": {
+          "Set": "2016-04-02T19:44:00-05:00", 
+          "EpochRise": 1459598400, 
+          "Rise": "2016-04-02T07:00:00-05:00", 
+          "EpochSet": 1459644240
+        }, 
+        "RealFeelTemperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 41.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 64.0
+          }
+        }, 
+        "Moon": {
+          "Set": "2016-04-02T14:29:00-05:00", 
+          "EpochRise": 1459586880, 
+          "Age": 24, 
+          "Rise": "2016-04-02T03:48:00-05:00", 
+          "EpochSet": 1459625340, 
+          "Phase": "WaningCrescent"
+        }, 
+        "Sources": [
+          "AccuWeather"
+        ], 
+        "DegreeDaySummary": {
+          "Cooling": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 0.0
+          }, 
+          "Heating": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 11.0
+          }
+        }, 
+        "Link": "http://www.accuweather.com/en/us/kansas-city-mo/64106/daily-weather-forecast/329441?day=6", 
+        "AirAndPollen": [
+          {
+            "Category": "Good", 
+            "Type": "Ozone", 
+            "CategoryValue": 1, 
+            "Name": "AirQuality", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Grass", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Mold", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Ragweed", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Tree", 
+            "Value": 0
+          }, 
+          {
+            "Category": "High", 
+            "CategoryValue": 3, 
+            "Name": "UVIndex", 
+            "Value": 6
+          }
+        ], 
+        "HoursOfSun": 12.7, 
+        "Night": {
+          "LongPhrase": "Clear", 
+          "RainProbability": 10, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 4, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 0, 
+          "PrecipitationProbability": 11, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 235, 
+              "Localized": "SW", 
+              "English": "SW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 5.8
+            }
+          }, 
+          "ShortPhrase": "Clear", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 246, 
+              "Localized": "WSW", 
+              "English": "WSW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 8.1
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Clear", 
+          "Icon": 33
+        }, 
+        "Date": "2016-04-02T07:00:00-05:00", 
+        "RealFeelTemperatureShade": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 41.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 62.0
+          }
+        }, 
+        "EpochDate": 1459598400, 
+        "MobileLink": "http://m.accuweather.com/en/us/kansas-city-mo/64106/daily-weather-forecast/329441?day=6", 
+        "Day": {
+          "LongPhrase": "Warmer with plenty of sunshine", 
+          "RainProbability": 3, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 3, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 0, 
+          "PrecipitationProbability": 3, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 263, 
+              "Localized": "W", 
+              "English": "W"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 10.4
+            }
+          }, 
+          "ShortPhrase": "Sunny and warmer", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 274, 
+              "Localized": "W", 
+              "English": "W"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 15.0
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Sunny", 
+          "Icon": 1
+        }
+      }, 
+      {
+        "Temperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 49.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 71.0
+          }
+        }, 
+        "Sun": {
+          "Set": "2016-04-03T19:45:00-05:00", 
+          "EpochRise": 1459684740, 
+          "Rise": "2016-04-03T06:59:00-05:00", 
+          "EpochSet": 1459730700
+        }, 
+        "RealFeelTemperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 44.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 72.0
+          }
+        }, 
+        "Moon": {
+          "Set": "2016-04-03T15:35:00-05:00", 
+          "EpochRise": 1459675860, 
+          "Age": 25, 
+          "Rise": "2016-04-03T04:31:00-05:00", 
+          "EpochSet": 1459715700, 
+          "Phase": "WaningCrescent"
+        }, 
+        "Sources": [
+          "AccuWeather"
+        ], 
+        "DegreeDaySummary": {
+          "Cooling": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 0.0
+          }, 
+          "Heating": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 5.0
+          }
+        }, 
+        "Link": "http://www.accuweather.com/en/us/kansas-city-mo/64106/daily-weather-forecast/329441?day=7", 
+        "AirAndPollen": [
+          {
+            "Category": "Good", 
+            "Type": "Ozone", 
+            "CategoryValue": 1, 
+            "Name": "AirQuality", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Grass", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Mold", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Ragweed", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Tree", 
+            "Value": 0
+          }, 
+          {
+            "Category": "High", 
+            "CategoryValue": 3, 
+            "Name": "UVIndex", 
+            "Value": 6
+          }
+        ], 
+        "HoursOfSun": 12.8, 
+        "Night": {
+          "LongPhrase": "Clear", 
+          "RainProbability": 22, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 8, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 0, 
+          "PrecipitationProbability": 22, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 292, 
+              "Localized": "WNW", 
+              "English": "WNW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 8.1
+            }
+          }, 
+          "ShortPhrase": "Clear", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 282, 
+              "Localized": "WNW", 
+              "English": "WNW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 13.8
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Clear", 
+          "Icon": 33
+        }, 
+        "Date": "2016-04-03T07:00:00-05:00", 
+        "RealFeelTemperatureShade": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 44.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 68.0
+          }
+        }, 
+        "EpochDate": 1459684800, 
+        "MobileLink": "http://m.accuweather.com/en/us/kansas-city-mo/64106/daily-weather-forecast/329441?day=7", 
+        "Day": {
+          "LongPhrase": "Pleasant with plenty of sunshine", 
+          "RainProbability": 12, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 5, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 0, 
+          "PrecipitationProbability": 12, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 219, 
+              "Localized": "SW", 
+              "English": "SW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 9.2
+            }
+          }, 
+          "ShortPhrase": "Sunny and pleasant", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 219, 
+              "Localized": "SW", 
+              "English": "SW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 12.7
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Sunny", 
+          "Icon": 1
+        }
+      }, 
+      {
+        "Temperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 47.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 73.0
+          }
+        }, 
+        "Sun": {
+          "Set": "2016-04-04T19:46:00-05:00", 
+          "EpochRise": 1459771020, 
+          "Rise": "2016-04-04T06:57:00-05:00", 
+          "EpochSet": 1459817160
+        }, 
+        "RealFeelTemperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 41.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 73.0
+          }
+        }, 
+        "Moon": {
+          "Set": "2016-04-04T16:43:00-05:00", 
+          "EpochRise": 1459764720, 
+          "Age": 26, 
+          "Rise": "2016-04-04T05:12:00-05:00", 
+          "EpochSet": 1459806180, 
+          "Phase": "WaningCrescent"
+        }, 
+        "Sources": [
+          "AccuWeather"
+        ], 
+        "DegreeDaySummary": {
+          "Cooling": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 0.0
+          }, 
+          "Heating": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 5.0
+          }
+        }, 
+        "Link": "http://www.accuweather.com/en/us/kansas-city-mo/64106/daily-weather-forecast/329441?day=8", 
+        "AirAndPollen": [
+          {
+            "Category": "Good", 
+            "Type": "Ozone", 
+            "CategoryValue": 1, 
+            "Name": "AirQuality", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Grass", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Mold", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Ragweed", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Tree", 
+            "Value": 0
+          }, 
+          {
+            "Category": "High", 
+            "CategoryValue": 3, 
+            "Name": "UVIndex", 
+            "Value": 6
+          }
+        ], 
+        "HoursOfSun": 10.3, 
+        "Night": {
+          "LongPhrase": "Partly cloudy", 
+          "RainProbability": 5, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 0, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 57, 
+          "PrecipitationProbability": 5, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 194, 
+              "Localized": "SSW", 
+              "English": "SSW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 9.2
+            }
+          }, 
+          "ShortPhrase": "Partly cloudy", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 196, 
+              "Localized": "SSW", 
+              "English": "SSW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 27.6
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Intermittent clouds", 
+          "Icon": 36
+        }, 
+        "Date": "2016-04-04T07:00:00-05:00", 
+        "RealFeelTemperatureShade": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 41.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 70.0
+          }
+        }, 
+        "EpochDate": 1459771200, 
+        "MobileLink": "http://m.accuweather.com/en/us/kansas-city-mo/64106/daily-weather-forecast/329441?day=8", 
+        "Day": {
+          "LongPhrase": "Mostly sunny", 
+          "RainProbability": 11, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 10, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 16, 
+          "PrecipitationProbability": 11, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 152, 
+              "Localized": "SSE", 
+              "English": "SSE"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 10.4
+            }
+          }, 
+          "ShortPhrase": "Mostly sunny", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 151, 
+              "Localized": "SSE", 
+              "English": "SSE"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 28.8
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Mostly sunny", 
+          "Icon": 2
+        }
+      }, 
+      {
+        "Temperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 52.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 75.0
+          }
+        }, 
+        "Sun": {
+          "Set": "2016-04-05T19:47:00-05:00", 
+          "EpochRise": 1459857300, 
+          "Rise": "2016-04-05T06:55:00-05:00", 
+          "EpochSet": 1459903620
+        }, 
+        "RealFeelTemperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 47.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 72.0
+          }
+        }, 
+        "Moon": {
+          "Set": "2016-04-05T17:54:00-05:00", 
+          "EpochRise": 1459853460, 
+          "Age": 27, 
+          "Rise": "2016-04-05T05:51:00-05:00", 
+          "EpochSet": 1459896840, 
+          "Phase": "WaningCrescent"
+        }, 
+        "Sources": [
+          "AccuWeather"
+        ], 
+        "DegreeDaySummary": {
+          "Cooling": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 0.0
+          }, 
+          "Heating": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 1.0
+          }
+        }, 
+        "Link": "http://www.accuweather.com/en/us/kansas-city-mo/64106/daily-weather-forecast/329441?day=9", 
+        "AirAndPollen": [
+          {
+            "Category": "Good", 
+            "Type": "Ozone", 
+            "CategoryValue": 1, 
+            "Name": "AirQuality", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Grass", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Mold", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Ragweed", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Tree", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Moderate", 
+            "CategoryValue": 2, 
+            "Name": "UVIndex", 
+            "Value": 5
+          }
+        ], 
+        "HoursOfSun": 2.4, 
+        "Night": {
+          "LongPhrase": "Partly cloudy", 
+          "RainProbability": 15, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 0, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 71, 
+          "PrecipitationProbability": 15, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 304, 
+              "Localized": "NW", 
+              "English": "NW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 11.5
+            }
+          }, 
+          "ShortPhrase": "Partly cloudy", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 301, 
+              "Localized": "WNW", 
+              "English": "WNW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 31.1
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Partly cloudy", 
+          "Icon": 35
+        }, 
+        "Date": "2016-04-05T07:00:00-05:00", 
+        "RealFeelTemperatureShade": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 47.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 71.0
+          }
+        }, 
+        "EpochDate": 1459857600, 
+        "MobileLink": "http://m.accuweather.com/en/us/kansas-city-mo/64106/daily-weather-forecast/329441?day=9", 
+        "Day": {
+          "LongPhrase": "Cloudy and warm", 
+          "RainProbability": 25, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 8, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 94, 
+          "PrecipitationProbability": 25, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 240, 
+              "Localized": "WSW", 
+              "English": "WSW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 13.8
+            }
+          }, 
+          "ShortPhrase": "Cloudy and warm", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 264, 
+              "Localized": "W", 
+              "English": "W"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 35.7
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Cloudy", 
+          "Icon": 7
+        }
+      }, 
+      {
+        "Temperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 51.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 75.0
+          }
+        }, 
+        "Sun": {
+          "Set": "2016-04-06T19:48:00-05:00", 
+          "EpochRise": 1459943640, 
+          "Rise": "2016-04-06T06:54:00-05:00", 
+          "EpochSet": 1459990080
+        }, 
+        "RealFeelTemperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 51.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 74.0
+          }
+        }, 
+        "Moon": {
+          "Set": "2016-04-06T19:07:00-05:00", 
+          "EpochRise": 1459942200, 
+          "Age": 29, 
+          "Rise": "2016-04-06T06:30:00-05:00", 
+          "EpochSet": 1459987620, 
+          "Phase": "WaningCrescent"
+        }, 
+        "Sources": [
+          "AccuWeather"
+        ], 
+        "DegreeDaySummary": {
+          "Cooling": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 0.0
+          }, 
+          "Heating": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 2.0
+          }
+        }, 
+        "Link": "http://www.accuweather.com/en/us/kansas-city-mo/64106/daily-weather-forecast/329441?day=10", 
+        "AirAndPollen": [
+          {
+            "Category": "Good", 
+            "Type": "Ozone", 
+            "CategoryValue": 1, 
+            "Name": "AirQuality", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Grass", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Mold", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Ragweed", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Tree", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Moderate", 
+            "CategoryValue": 2, 
+            "Name": "UVIndex", 
+            "Value": 4
+          }
+        ], 
+        "HoursOfSun": 3.8, 
+        "Night": {
+          "LongPhrase": "Turning out clear", 
+          "RainProbability": 1, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 15, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 60, 
+          "PrecipitationProbability": 1, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 10, 
+              "Localized": "N", 
+              "English": "N"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 6.9
+            }
+          }, 
+          "ShortPhrase": "Turning out clear", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 6, 
+              "Localized": "N", 
+              "English": "N"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 20.7
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Intermittent clouds", 
+          "Icon": 36
+        }, 
+        "Date": "2016-04-06T07:00:00-05:00", 
+        "RealFeelTemperatureShade": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 51.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 72.0
+          }
+        }, 
+        "EpochDate": 1459944000, 
+        "MobileLink": "http://m.accuweather.com/en/us/kansas-city-mo/64106/daily-weather-forecast/329441?day=10", 
+        "Day": {
+          "LongPhrase": "Cloudy with a couple of showers possible", 
+          "RainProbability": 30, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 15, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 84, 
+          "PrecipitationProbability": 30, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 344, 
+              "Localized": "NNW", 
+              "English": "NNW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 11.5
+            }
+          }, 
+          "ShortPhrase": "A couple of showers possible", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 340, 
+              "Localized": "NNW", 
+              "English": "NNW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 27.6
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Cloudy", 
+          "Icon": 7
+        }
+      }
+    ], 
+    "HourlyForecasts": [
+      {
+        "Temperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 67.0
+        }, 
+        "IceProbability": 0, 
+        "RealFeelTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 66.0
+        }, 
+        "Ice": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "DateTime": "2016-03-28T17:00:00-05:00", 
+        "WeatherIcon": 1, 
+        "Rain": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WindGust": {
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 17.3
+          }
+        }, 
+        "TotalLiquid": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "Ceiling": {
+          "UnitType": 0, 
+          "Unit": "ft", 
+          "Value": 28000.0
+        }, 
+        "RainProbability": 0, 
+        "Visibility": {
+          "UnitType": 2, 
+          "Unit": "mi", 
+          "Value": 10.0
+        }, 
+        "EpochDateTime": 1459202400, 
+        "Link": "http://www.accuweather.com/en/us/kansas-city-mo/64106/hourly-weather-forecast/329441?day=1&hbhhour=17", 
+        "IconPhrase": "Sunny", 
+        "RelativeHumidity": 27, 
+        "DewPoint": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 32.0
+        }, 
+        "CloudCover": 8, 
+        "UVIndexText": "Low", 
+        "Snow": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WetBulbTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 50.0
+        }, 
+        "MobileLink": "http://m.accuweather.com/en/us/kansas-city-mo/64106/hourly-weather-forecast/329441?day=1&hbhhour=17", 
+        "Wind": {
+          "Direction": {
+            "Degrees": 190, 
+            "Localized": "S", 
+            "English": "S"
+          }, 
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 13.8
+          }
+        }, 
+        "IsDaylight": true, 
+        "SnowProbability": 0, 
+        "PrecipitationProbability": 0, 
+        "UVIndex": 2
+      }, 
+      {
+        "Temperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 65.0
+        }, 
+        "IceProbability": 0, 
+        "RealFeelTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 62.0
+        }, 
+        "Ice": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "DateTime": "2016-03-28T18:00:00-05:00", 
+        "WeatherIcon": 2, 
+        "Rain": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WindGust": {
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 16.1
+          }
+        }, 
+        "TotalLiquid": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "Ceiling": {
+          "UnitType": 0, 
+          "Unit": "ft", 
+          "Value": 28300.0
+        }, 
+        "RainProbability": 0, 
+        "Visibility": {
+          "UnitType": 2, 
+          "Unit": "mi", 
+          "Value": 10.0
+        }, 
+        "EpochDateTime": 1459206000, 
+        "Link": "http://www.accuweather.com/en/us/kansas-city-mo/64106/hourly-weather-forecast/329441?day=1&hbhhour=18", 
+        "IconPhrase": "Mostly sunny", 
+        "RelativeHumidity": 31, 
+        "DewPoint": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 34.0
+        }, 
+        "CloudCover": 10, 
+        "UVIndexText": "Low", 
+        "Snow": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WetBulbTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 49.0
+        }, 
+        "MobileLink": "http://m.accuweather.com/en/us/kansas-city-mo/64106/hourly-weather-forecast/329441?day=1&hbhhour=18", 
+        "Wind": {
+          "Direction": {
+            "Degrees": 190, 
+            "Localized": "S", 
+            "English": "S"
+          }, 
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 12.7
+          }
+        }, 
+        "IsDaylight": true, 
+        "SnowProbability": 0, 
+        "PrecipitationProbability": 0, 
+        "UVIndex": 0
+      }, 
+      {
+        "Temperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 62.0
+        }, 
+        "IceProbability": 0, 
+        "RealFeelTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 58.0
+        }, 
+        "Ice": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "DateTime": "2016-03-28T19:00:00-05:00", 
+        "WeatherIcon": 2, 
+        "Rain": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WindGust": {
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 12.7
+          }
+        }, 
+        "TotalLiquid": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "Ceiling": {
+          "UnitType": 0, 
+          "Unit": "ft", 
+          "Value": 28900.0
+        }, 
+        "RainProbability": 0, 
+        "Visibility": {
+          "UnitType": 2, 
+          "Unit": "mi", 
+          "Value": 10.0
+        }, 
+        "EpochDateTime": 1459209600, 
+        "Link": "http://www.accuweather.com/en/us/kansas-city-mo/64106/hourly-weather-forecast/329441?day=1&hbhhour=19", 
+        "IconPhrase": "Mostly sunny", 
+        "RelativeHumidity": 35, 
+        "DewPoint": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 34.0
+        }, 
+        "CloudCover": 16, 
+        "UVIndexText": "Low", 
+        "Snow": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WetBulbTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 48.0
+        }, 
+        "MobileLink": "http://m.accuweather.com/en/us/kansas-city-mo/64106/hourly-weather-forecast/329441?day=1&hbhhour=19", 
+        "Wind": {
+          "Direction": {
+            "Degrees": 191, 
+            "Localized": "S", 
+            "English": "S"
+          }, 
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 10.4
+          }
+        }, 
+        "IsDaylight": true, 
+        "SnowProbability": 0, 
+        "PrecipitationProbability": 0, 
+        "UVIndex": 0
+      }, 
+      {
+        "Temperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 58.0
+        }, 
+        "IceProbability": 0, 
+        "RealFeelTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 55.0
+        }, 
+        "Ice": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "DateTime": "2016-03-28T20:00:00-05:00", 
+        "WeatherIcon": 34, 
+        "Rain": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WindGust": {
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 10.4
+          }
+        }, 
+        "TotalLiquid": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "Ceiling": {
+          "UnitType": 0, 
+          "Unit": "ft", 
+          "Value": 28200.0
+        }, 
+        "RainProbability": 0, 
+        "Visibility": {
+          "UnitType": 2, 
+          "Unit": "mi", 
+          "Value": 10.0
+        }, 
+        "EpochDateTime": 1459213200, 
+        "Link": "http://www.accuweather.com/en/us/kansas-city-mo/64106/hourly-weather-forecast/329441?day=1&hbhhour=20", 
+        "IconPhrase": "Mostly clear", 
+        "RelativeHumidity": 37, 
+        "DewPoint": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 32.0
+        }, 
+        "CloudCover": 10, 
+        "UVIndexText": "Low", 
+        "Snow": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WetBulbTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 46.0
+        }, 
+        "MobileLink": "http://m.accuweather.com/en/us/kansas-city-mo/64106/hourly-weather-forecast/329441?day=1&hbhhour=20", 
+        "Wind": {
+          "Direction": {
+            "Degrees": 185, 
+            "Localized": "S", 
+            "English": "S"
+          }, 
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 8.1
+          }
+        }, 
+        "IsDaylight": false, 
+        "SnowProbability": 0, 
+        "PrecipitationProbability": 0, 
+        "UVIndex": 0
+      }, 
+      {
+        "Temperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 57.0
+        }, 
+        "IceProbability": 0, 
+        "RealFeelTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 54.0
+        }, 
+        "Ice": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "DateTime": "2016-03-28T21:00:00-05:00", 
+        "WeatherIcon": 34, 
+        "Rain": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WindGust": {
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 8.1
+          }
+        }, 
+        "TotalLiquid": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "Ceiling": {
+          "UnitType": 0, 
+          "Unit": "ft", 
+          "Value": 28700.0
+        }, 
+        "RainProbability": 0, 
+        "Visibility": {
+          "UnitType": 2, 
+          "Unit": "mi", 
+          "Value": 10.0
+        }, 
+        "EpochDateTime": 1459216800, 
+        "Link": "http://www.accuweather.com/en/us/kansas-city-mo/64106/hourly-weather-forecast/329441?day=1&hbhhour=21", 
+        "IconPhrase": "Mostly clear", 
+        "RelativeHumidity": 41, 
+        "DewPoint": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 33.0
+        }, 
+        "CloudCover": 10, 
+        "UVIndexText": "Low", 
+        "Snow": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WetBulbTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 46.0
+        }, 
+        "MobileLink": "http://m.accuweather.com/en/us/kansas-city-mo/64106/hourly-weather-forecast/329441?day=1&hbhhour=21", 
+        "Wind": {
+          "Direction": {
+            "Degrees": 161, 
+            "Localized": "SSE", 
+            "English": "SSE"
+          }, 
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 6.9
+          }
+        }, 
+        "IsDaylight": false, 
+        "SnowProbability": 0, 
+        "PrecipitationProbability": 0, 
+        "UVIndex": 0
+      }, 
+      {
+        "Temperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 55.0
+        }, 
+        "IceProbability": 0, 
+        "RealFeelTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 53.0
+        }, 
+        "Ice": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "DateTime": "2016-03-28T22:00:00-05:00", 
+        "WeatherIcon": 34, 
+        "Rain": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WindGust": {
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 6.9
+          }
+        }, 
+        "TotalLiquid": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "Ceiling": {
+          "UnitType": 0, 
+          "Unit": "ft", 
+          "Value": 30000.0
+        }, 
+        "RainProbability": 0, 
+        "Visibility": {
+          "UnitType": 2, 
+          "Unit": "mi", 
+          "Value": 10.0
+        }, 
+        "EpochDateTime": 1459220400, 
+        "Link": "http://www.accuweather.com/en/us/kansas-city-mo/64106/hourly-weather-forecast/329441?day=1&hbhhour=22", 
+        "IconPhrase": "Mostly clear", 
+        "RelativeHumidity": 43, 
+        "DewPoint": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 33.0
+        }, 
+        "CloudCover": 10, 
+        "UVIndexText": "Low", 
+        "Snow": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WetBulbTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 45.0
+        }, 
+        "MobileLink": "http://m.accuweather.com/en/us/kansas-city-mo/64106/hourly-weather-forecast/329441?day=1&hbhhour=22", 
+        "Wind": {
+          "Direction": {
+            "Degrees": 127, 
+            "Localized": "SE", 
+            "English": "SE"
+          }, 
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 5.8
+          }
+        }, 
+        "IsDaylight": false, 
+        "SnowProbability": 0, 
+        "PrecipitationProbability": 0, 
+        "UVIndex": 0
+      }, 
+      {
+        "Temperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 53.0
+        }, 
+        "IceProbability": 0, 
+        "RealFeelTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 51.0
+        }, 
+        "Ice": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "DateTime": "2016-03-28T23:00:00-05:00", 
+        "WeatherIcon": 34, 
+        "Rain": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WindGust": {
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 8.1
+          }
+        }, 
+        "TotalLiquid": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "Ceiling": {
+          "UnitType": 0, 
+          "Unit": "ft", 
+          "Value": 30000.0
+        }, 
+        "RainProbability": 0, 
+        "Visibility": {
+          "UnitType": 2, 
+          "Unit": "mi", 
+          "Value": 10.0
+        }, 
+        "EpochDateTime": 1459224000, 
+        "Link": "http://www.accuweather.com/en/us/kansas-city-mo/64106/hourly-weather-forecast/329441?day=1&hbhhour=23", 
+        "IconPhrase": "Mostly clear", 
+        "RelativeHumidity": 44, 
+        "DewPoint": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 32.0
+        }, 
+        "CloudCover": 10, 
+        "UVIndexText": "Low", 
+        "Snow": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WetBulbTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 43.0
+        }, 
+        "MobileLink": "http://m.accuweather.com/en/us/kansas-city-mo/64106/hourly-weather-forecast/329441?day=1&hbhhour=23", 
+        "Wind": {
+          "Direction": {
+            "Degrees": 130, 
+            "Localized": "SE", 
+            "English": "SE"
+          }, 
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 5.8
+          }
+        }, 
+        "IsDaylight": false, 
+        "SnowProbability": 0, 
+        "PrecipitationProbability": 0, 
+        "UVIndex": 0
+      }, 
+      {
+        "Temperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 52.0
+        }, 
+        "IceProbability": 0, 
+        "RealFeelTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 48.0
+        }, 
+        "Ice": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "DateTime": "2016-03-29T00:00:00-05:00", 
+        "WeatherIcon": 34, 
+        "Rain": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WindGust": {
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 9.2
+          }
+        }, 
+        "TotalLiquid": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "Ceiling": {
+          "UnitType": 0, 
+          "Unit": "ft", 
+          "Value": 30000.0
+        }, 
+        "RainProbability": 0, 
+        "Visibility": {
+          "UnitType": 2, 
+          "Unit": "mi", 
+          "Value": 10.0
+        }, 
+        "EpochDateTime": 1459227600, 
+        "Link": "http://www.accuweather.com/en/us/kansas-city-mo/64106/hourly-weather-forecast/329441?day=2&hbhhour=0", 
+        "IconPhrase": "Mostly clear", 
+        "RelativeHumidity": 45, 
+        "DewPoint": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 31.0
+        }, 
+        "CloudCover": 10, 
+        "UVIndexText": "Low", 
+        "Snow": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WetBulbTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 42.0
+        }, 
+        "MobileLink": "http://m.accuweather.com/en/us/kansas-city-mo/64106/hourly-weather-forecast/329441?day=2&hbhhour=0", 
+        "Wind": {
+          "Direction": {
+            "Degrees": 133, 
+            "Localized": "SE", 
+            "English": "SE"
+          }, 
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 6.9
+          }
+        }, 
+        "IsDaylight": false, 
+        "SnowProbability": 0, 
+        "PrecipitationProbability": 0, 
+        "UVIndex": 0
+      }, 
+      {
+        "Temperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 50.0
+        }, 
+        "IceProbability": 0, 
+        "RealFeelTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 46.0
+        }, 
+        "Ice": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "DateTime": "2016-03-29T01:00:00-05:00", 
+        "WeatherIcon": 34, 
+        "Rain": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WindGust": {
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 9.2
+          }
+        }, 
+        "TotalLiquid": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "Ceiling": {
+          "UnitType": 0, 
+          "Unit": "ft", 
+          "Value": 30000.0
+        }, 
+        "RainProbability": 0, 
+        "Visibility": {
+          "UnitType": 2, 
+          "Unit": "mi", 
+          "Value": 10.0
+        }, 
+        "EpochDateTime": 1459231200, 
+        "Link": "http://www.accuweather.com/en/us/kansas-city-mo/64106/hourly-weather-forecast/329441?day=2&hbhhour=1", 
+        "IconPhrase": "Mostly clear", 
+        "RelativeHumidity": 47, 
+        "DewPoint": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 30.0
+        }, 
+        "CloudCover": 10, 
+        "UVIndexText": "Low", 
+        "Snow": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WetBulbTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 41.0
+        }, 
+        "MobileLink": "http://m.accuweather.com/en/us/kansas-city-mo/64106/hourly-weather-forecast/329441?day=2&hbhhour=1", 
+        "Wind": {
+          "Direction": {
+            "Degrees": 136, 
+            "Localized": "SE", 
+            "English": "SE"
+          }, 
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 8.1
+          }
+        }, 
+        "IsDaylight": false, 
+        "SnowProbability": 0, 
+        "PrecipitationProbability": 0, 
+        "UVIndex": 0
+      }, 
+      {
+        "Temperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 50.0
+        }, 
+        "IceProbability": 0, 
+        "RealFeelTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 45.0
+        }, 
+        "Ice": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "DateTime": "2016-03-29T02:00:00-05:00", 
+        "WeatherIcon": 36, 
+        "Rain": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WindGust": {
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 9.2
+          }
+        }, 
+        "TotalLiquid": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "Ceiling": {
+          "UnitType": 0, 
+          "Unit": "ft", 
+          "Value": 28000.0
+        }, 
+        "RainProbability": 0, 
+        "Visibility": {
+          "UnitType": 2, 
+          "Unit": "mi", 
+          "Value": 10.0
+        }, 
+        "EpochDateTime": 1459234800, 
+        "Link": "http://www.accuweather.com/en/us/kansas-city-mo/64106/hourly-weather-forecast/329441?day=2&hbhhour=2", 
+        "IconPhrase": "Intermittent clouds", 
+        "RelativeHumidity": 49, 
+        "DewPoint": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 31.0
+        }, 
+        "CloudCover": 70, 
+        "UVIndexText": "Low", 
+        "Snow": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WetBulbTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 41.0
+        }, 
+        "MobileLink": "http://m.accuweather.com/en/us/kansas-city-mo/64106/hourly-weather-forecast/329441?day=2&hbhhour=2", 
+        "Wind": {
+          "Direction": {
+            "Degrees": 139, 
+            "Localized": "SE", 
+            "English": "SE"
+          }, 
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 8.1
+          }
+        }, 
+        "IsDaylight": false, 
+        "SnowProbability": 0, 
+        "PrecipitationProbability": 0, 
+        "UVIndex": 0
+      }, 
+      {
+        "Temperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 48.0
+        }, 
+        "IceProbability": 0, 
+        "RealFeelTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 44.0
+        }, 
+        "Ice": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "DateTime": "2016-03-29T03:00:00-05:00", 
+        "WeatherIcon": 36, 
+        "Rain": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WindGust": {
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 8.1
+          }
+        }, 
+        "TotalLiquid": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "Ceiling": {
+          "UnitType": 0, 
+          "Unit": "ft", 
+          "Value": 26000.0
+        }, 
+        "RainProbability": 0, 
+        "Visibility": {
+          "UnitType": 2, 
+          "Unit": "mi", 
+          "Value": 10.0
+        }, 
+        "EpochDateTime": 1459238400, 
+        "Link": "http://www.accuweather.com/en/us/kansas-city-mo/64106/hourly-weather-forecast/329441?day=2&hbhhour=3", 
+        "IconPhrase": "Intermittent clouds", 
+        "RelativeHumidity": 52, 
+        "DewPoint": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 31.0
+        }, 
+        "CloudCover": 64, 
+        "UVIndexText": "Low", 
+        "Snow": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WetBulbTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 41.0
+        }, 
+        "MobileLink": "http://m.accuweather.com/en/us/kansas-city-mo/64106/hourly-weather-forecast/329441?day=2&hbhhour=3", 
+        "Wind": {
+          "Direction": {
+            "Degrees": 142, 
+            "Localized": "SE", 
+            "English": "SE"
+          }, 
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 6.9
+          }
+        }, 
+        "IsDaylight": false, 
+        "SnowProbability": 0, 
+        "PrecipitationProbability": 0, 
+        "UVIndex": 0
+      }, 
+      {
+        "Temperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 47.0
+        }, 
+        "IceProbability": 0, 
+        "RealFeelTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 44.0
+        }, 
+        "Ice": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "DateTime": "2016-03-29T04:00:00-05:00", 
+        "WeatherIcon": 36, 
+        "Rain": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WindGust": {
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 8.1
+          }
+        }, 
+        "TotalLiquid": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "Ceiling": {
+          "UnitType": 0, 
+          "Unit": "ft", 
+          "Value": 23900.0
+        }, 
+        "RainProbability": 0, 
+        "Visibility": {
+          "UnitType": 2, 
+          "Unit": "mi", 
+          "Value": 10.0
+        }, 
+        "EpochDateTime": 1459242000, 
+        "Link": "http://www.accuweather.com/en/us/kansas-city-mo/64106/hourly-weather-forecast/329441?day=2&hbhhour=4", 
+        "IconPhrase": "Intermittent clouds", 
+        "RelativeHumidity": 55, 
+        "DewPoint": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 32.0
+        }, 
+        "CloudCover": 63, 
+        "UVIndexText": "Low", 
+        "Snow": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WetBulbTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 40.0
+        }, 
+        "MobileLink": "http://m.accuweather.com/en/us/kansas-city-mo/64106/hourly-weather-forecast/329441?day=2&hbhhour=4", 
+        "Wind": {
+          "Direction": {
+            "Degrees": 146, 
+            "Localized": "SE", 
+            "English": "SE"
+          }, 
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 6.9
+          }
+        }, 
+        "IsDaylight": false, 
+        "SnowProbability": 0, 
+        "PrecipitationProbability": 0, 
+        "UVIndex": 0
+      }
+    ]
+  }
+}

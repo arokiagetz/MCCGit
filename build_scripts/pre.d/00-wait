@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+ranfile="${WORKSPACE_ROOT}/_build/pre-scheme.ran"
+
+log " [INFO] waiting for pre-scheme completion..."
+while [ ! -e ${ranfile} ]; do
+  sleep 2;
+done
+log " [INFO] pre-scheme completion done!"

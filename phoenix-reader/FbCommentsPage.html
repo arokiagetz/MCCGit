@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta name='viewport' content='width=device-width; initial-scale=1.0; maximum-scale=1.0;' />
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <title>Facebook comments</title>
+        <style>
+            html {
+                -webkit-text-size-adjust: none;
+            }
+        html,body {
+            margin:0;
+        }
+        </style>
+    </head>
+    
+    <body bgcolor="%bgcolor%">
+        
+        <div id="fb-root"></div>
+        
+        <script>
+            window.fbAsyncInit = function() {
+                FB.init({
+                        appId      : '133847067760',
+                        xfbml      : true,
+                        cookie     : true,
+                        version    : 'v2.7'
+                        });
+            };
+        
+        (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+         }(document, 'script', 'facebook-jssdk'));
+        
+        </script>
+        
+        <div class="fb-comments" data-href="%url%" data-numposts="5" data-colorscheme="%theme%" data-version="v2.3"></div>
+        
+    </body>
+</html>

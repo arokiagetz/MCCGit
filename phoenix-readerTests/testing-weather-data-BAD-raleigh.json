@@ -1,0 +1,3676 @@
+{
+  "Maps": {
+    "Link": "http://www.accuweather.com/en/us/north-carolina/weather-radar", 
+    "Satellite": {
+      "Images": [
+        {
+          "Date": "2016-03-30T07:45:00-04:00", 
+          "Url": "http://vortex.accuweather.com/adc2004/mapspace/world_ir/480x480/SC__1603301145.png"
+        }, 
+        {
+          "Date": "2016-03-30T08:15:00-04:00", 
+          "Url": "http://vortex.accuweather.com/adc2004/mapspace/world_ir/480x480/SC__1603301215.png"
+        }, 
+        {
+          "Date": "2016-03-30T08:45:00-04:00", 
+          "Url": "http://vortex.accuweather.com/adc2004/mapspace/world_ir/480x480/SC__1603301245.png"
+        }, 
+        {
+          "Date": "2016-03-30T09:15:00-04:00", 
+          "Url": "http://vortex.accuweather.com/adc2004/mapspace/world_ir/480x480/SC__1603301315.png"
+        }
+      ], 
+      "Size": "480x480"
+    }, 
+    "MobileLink": "http://m.accuweather.com/en/us/north-carolina/weather-radar", 
+    "Radar": {
+      "Images": [
+        {
+          "Date": "2016-03-30T08:15:00-04:00", 
+          "Url": "http://vortex.accuweather.com/adc2004/mapspace/usradar/480x480/SC__1603301215.png"
+        }, 
+        {
+          "Date": "2016-03-30T08:30:00-04:00", 
+          "Url": "http://vortex.accuweather.com/adc2004/mapspace/usradar/480x480/SC__1603301230.png"
+        }, 
+        {
+          "Date": "2016-03-30T08:45:00-04:00", 
+          "Url": "http://vortex.accuweather.com/adc2004/mapspace/usradar/480x480/SC__1603301245.png"
+        }, 
+        {
+          "Date": "2016-03-30T09:00:00-04:00", 
+          "Url": "http://vortex.accuweather.com/adc2004/mapspace/usradar/480x480/SC__1603301300.png"
+        }, 
+        {
+          "Date": "2016-03-30T09:15:00-04:00", 
+          "Url": "http://vortex.accuweather.com/adc2004/mapspace/usradar/480x480/SC__1603301315.png"
+        }
+      ], 
+      "Size": "480x480"
+    }
+  }, 
+  "CurrentConditions": {
+    "EpochTime": 1459344300, 
+    "RealFeelTemperature": {
+      "UnitType": 18, 
+      "Unit": "F", 
+      "Value": 52.0
+    }, 
+    "WeatherIcon": 2, 
+    "CloudCover": 25, 
+    "WindGust": {
+      "Speed": {
+        "UnitType": 9, 
+        "Unit": "mi/h", 
+        "Value": 5.8
+      }
+    }, 
+    "RealFeelTemperatureShade": {
+      "UnitType": 18, 
+      "Unit": "F", 
+      "Value": 49.0
+    }, 
+    "WindChillTemperature": {
+      "UnitType": 18, 
+      "Unit": "F", 
+      "Value": 51.0
+    }, 
+    "Temperature": {
+      "UnitType": 18, 
+      "Unit": "F", 
+      "Value": 51.0
+    }, 
+    "Ceiling": {
+      "UnitType": 0, 
+      "Unit": "ft", 
+      "Value": 30000.0
+    }, 
+    "Photos": [
+      {
+        "DateTaken": null, 
+        "Source": "iStockphoto/Thinkstock", 
+        "Description": "Architecture, Building Exterior, Built Structure, Capital Cities, City, City Life, Cityscape, Color Image, Day, Downtown District, Eastern USA, Grain Elevator, Horizontal, Hotel, Kudzu, No People, North Carolina, Office Building, Outdoors, Overgrown, Photography, Raleigh, Skyline, Skyscraper, Southern USA, State Capitol Building, Tower, Travel Destinations, Uncultivated, USA, Vine ", 
+        "LandscapeLink": "http://cityscapes.accuweather.com/cityscapes/USA/Raleigh_93207980_L_L.jpg", 
+        "PortraitLink": "http://cityscapes.accuweather.com/cityscapes/USA/Raleigh_93207980_P_L.jpg"
+      }, 
+      {
+        "DateTaken": null, 
+        "Source": "iStockphoto/Thinkstock", 
+        "Description": "Architecture, Cloud, Column, Construction, Direction, Famous Place, Government, History, Horizontal, No People, North Carolina, Photography, Politics, Raleigh, Sky, Springtime ", 
+        "LandscapeLink": "http://cityscapes.accuweather.com/cityscapes/USA/Raleigh_144319526_L_L.jpg", 
+        "PortraitLink": "http://cityscapes.accuweather.com/cityscapes/USA/Raleigh_144319526_P_L.jpg"
+      }, 
+      {
+        "DateTaken": null, 
+        "Source": "iStockphoto/Thinkstock", 
+        "Description": "Beauty In Nature, Downtown District, Environmental Conservation, Environmental Issues, Forest, Golf Course, Grass, Green - Golf Course, Green Color, Horizontal, Lake, Landscape, Landscape, Lawn, Meadow, Nature, No People, Outdoors, Park, Photography, Putting Green, Raleigh, Road, Rural Scene, Sport, Summer, Tree ", 
+        "LandscapeLink": "http://cityscapes.accuweather.com/cityscapes/USA/Raleigh_136518514_L_L.jpg", 
+        "PortraitLink": "http://cityscapes.accuweather.com/cityscapes/USA/Raleigh_136518514_P_L.jpg"
+      }, 
+      {
+        "DateTaken": null, 
+        "Source": "iStockphoto/Thinkstock", 
+        "Description": "Architecture, Building Exterior, Built Structure, Capital Cities, City, City Life, Cityscape, Cloud, Cloudscape, Color Image, Copy Space, Day, Downtown District, Eastern USA, Horizontal, Hotel, No People, North Carolina, Office Building, Outdoors, Photography, Raleigh, Skyline, Skyscraper, Southern USA, State Capitol Building, Tower, Travel Destinations, USA ", 
+        "LandscapeLink": "http://cityscapes.accuweather.com/cityscapes/USA/Raleigh_93250724_L_L.jpg", 
+        "PortraitLink": "http://cityscapes.accuweather.com/cityscapes/USA/Raleigh_93250724_P_L.jpg"
+      }, 
+      {
+        "DateTaken": null, 
+        "Source": "Hemera/Thinkstock", 
+        "Description": "Abstract, Atmospheric, Autumn, Backgrounds, Beauty, Blue, Clear, Climate, Cloud, Cloudscape, Color Image, Cumulonimbus,Cumulus Cloud, Day, Environment, Fluffy, Front, High Up, Image, Landscape, Light, Nature, No People, Outdoors, Overcast,Photography, Rain, Scenics, Season, Sky, Springtime, Square, Summer, Sun, Sunlight, Weather, Wet, White, Wind", 
+        "LandscapeLink": "http://cityscapes.accuweather.com/cityscapes/Generic/Generic_100686794_L_L.jpg", 
+        "PortraitLink": "http://cityscapes.accuweather.com/cityscapes/Generic/Generic_100686794_P_L.jpg"
+      }
+    ], 
+    "PrecipitationSummary": {
+      "Past24Hours": {
+        "UnitType": 1, 
+        "Unit": "in", 
+        "Value": 0.0
+      }, 
+      "Past12Hours": {
+        "UnitType": 1, 
+        "Unit": "in", 
+        "Value": 0.0
+      }, 
+      "Past18Hours": {
+        "UnitType": 1, 
+        "Unit": "in", 
+        "Value": 0.0
+      }, 
+      "Past9Hours": {
+        "UnitType": 1, 
+        "Unit": "in", 
+        "Value": 0.0
+      }, 
+      "PastHour": {
+        "UnitType": 1, 
+        "Unit": "in", 
+        "Value": 0.0
+      }, 
+      "Precipitation": {
+        "UnitType": 1, 
+        "Unit": "in", 
+        "Value": 0.0
+      }, 
+      "Past3Hours": {
+        "UnitType": 1, 
+        "Unit": "in", 
+        "Value": 0.0
+      }, 
+      "Past6Hours": {
+        "UnitType": 1, 
+        "Unit": "in", 
+        "Value": 0.0
+      }
+    }, 
+    "Visibility": {
+      "UnitType": 2, 
+      "Unit": "mi", 
+      "Value": 10.0
+    }, 
+    "Pressure": {
+      "UnitType": 12, 
+      "Unit": "inHg", 
+      "Value": 30.35
+    }, 
+    "Link": "http://www.accuweather.com/en/us/raleigh-nc/27601/current-weather/329823", 
+    "Past24HourTemperatureDeparture": {
+      "UnitType": 18, 
+      "Unit": "F", 
+      "Value": -3.0
+    }, 
+    "Precip1hr": {
+      "UnitType": 1, 
+      "Unit": "in", 
+      "Value": 0.0
+    }, 
+    "RelativeHumidity": 71, 
+    "LocalObservationDateTime": "2016-03-30T09:25:00-04:00", 
+    "DewPoint": {
+      "UnitType": 18, 
+      "Unit": "F", 
+      "Value": 42.0
+    }, 
+    "UVIndexText": "Moderate", 
+    "IsDayTime": true, 
+    "WeatherText": "Mostly sunny", 
+    "ObstructionsToVisibility": "", 
+    "WetBulbTemperature": {
+      "UnitType": 18, 
+      "Unit": "F", 
+      "Value": 47.0
+    }, 
+    "MobileLink": "http://m.accuweather.com/en/us/raleigh-nc/27601/current-weather/329823", 
+    "Wind": {
+      "Direction": {
+        "Degrees": 158, 
+        "Localized": "SSE", 
+        "English": "SSE"
+      }, 
+      "Speed": {
+        "UnitType": 9, 
+        "Unit": "mi/h", 
+        "Value": 5.8
+      }
+    }, 
+    "TemperatureSummary": {
+      "Past24HourRange": {
+        "Minimum": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 41.0
+        }, 
+        "Maximum": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 67.0
+        }
+      }, 
+      "Past6HourRange": {
+        "Minimum": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 41.0
+        }, 
+        "Maximum": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 51.0
+        }
+      }, 
+      "Past12HourRange": {
+        "Minimum": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 41.0
+        }, 
+        "Maximum": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 55.0
+        }
+      }
+    }, 
+    "ApparentTemperature": {
+      "UnitType": 18, 
+      "Unit": "F", 
+      "Value": 55.0
+    }, 
+    "UVIndex": 3, 
+    "PressureTendency": {
+      "Code": "R", 
+      "LocalizedText": "Rising"
+    }
+  }, 
+  "Location": {
+    "SupplementalAdminAreas": [
+      {
+        "EnglishName": "Wake", 
+        "LocalizedName": "Wake", 
+        "Level": 2
+      }
+    ], 
+    "Country": {
+      "EnglishName": "United States", 
+      "ID": "US", 
+      "LocalizedName": "United States"
+    }, 
+    "Region": {
+      "EnglishName": "North America", 
+      "ID": "NAM", 
+      "LocalizedName": "North America"
+    }, 
+    "IsAlias": false, 
+    "Rank": 31, 
+    "LocalizedName": "Raleigh", 
+    "Version": 1, 
+    "PrimaryPostalCode": "27601", 
+    "Key": "329823", 
+    "TimeZone": {
+      "IsDaylightSaving": true, 
+      "Code": "EDT", 
+      "GmtOffset": -4.0, 
+      "Name": "America/New_York", 
+      "NextOffsetChange": "2016-11-06T06:00:00Z"
+    }, 
+    "EnglishName": "Raleigh", 
+    "AdministrativeArea": {
+      "LocalizedType": "State", 
+      "EnglishType": "State", 
+      "CountryID": "US", 
+      "Level": 1, 
+      "LocalizedName": "North Carolina", 
+      "EnglishName": "North Carolina", 
+      "ID": "NC"
+    }, 
+    "Type": "City", 
+    "GeoPosition": {
+      "Latitude": 35.772, 
+      "Elevation": {
+        "UnitType": 0, 
+        "Unit": "ft", 
+        "Value": 331.0
+      }, 
+      "Longitude": -78.639
+    }, 
+    "Details": {
+      "DMA": {
+        "EnglishName": "Raleigh-Durham (Fayetteville), NC", 
+        "ID": "560"
+      }, 
+      "CanonicalPostalCode": "27601", 
+      "PrimaryWarningZoneCode": "NCZ041", 
+      "MediaRegion": "SE", 
+      "PartnerID": 8, 
+      "Satellite": "SC_", 
+      "Synoptic": "72306", 
+      "BandMap": "USSC", 
+      "LocalRadar": "KRDU", 
+      "NXMetro": "RDU", 
+      "Population": 405007, 
+      "StationGmtOffset": -5.0, 
+      "Key": "329823", 
+      "VideoCode": "RDU", 
+      "Metar": "KRDU", 
+      "Climo": "RDU", 
+      "StationCode": "RDUD", 
+      "MarineStationGMTOffset": null, 
+      "CanonicalLocationKey": "329823", 
+      "NXState": "SC_", 
+      "PrimaryWarningCountyCode": "NCC183", 
+      "Sources": [
+        {
+          "DataType": "Alerts", 
+          "Source": "U.S. National Weather Service", 
+          "SourceId": 2
+        }, 
+        {
+          "DataType": "CurrentConditions", 
+          "Source": "AccuWeather", 
+          "SourceId": 1
+        }, 
+        {
+          "DataType": "DailyForecast", 
+          "Source": "AccuWeather", 
+          "SourceId": 1
+        }, 
+        {
+          "DataType": "HourlyForecast", 
+          "Source": "AccuWeather", 
+          "SourceId": 1
+        }
+      ], 
+      "MarineStation": ""
+    }
+  }, 
+  "ForecastSummary": {
+    "Headline": null, 
+    "DailyForecasts": [
+      {
+        "Temperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 51.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 70.0
+          }
+        }, 
+        "Sun": {
+          "Set": "2016-03-30T19:35:00-04:00", 
+          "EpochRise": 1459335780, 
+          "Rise": "2016-03-30T07:03:00-04:00", 
+          "EpochSet": 1459380900
+        }, 
+        "RealFeelTemperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 49.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 73.0
+          }
+        }, 
+        "Moon": {
+          "Set": "2016-03-30T11:41:00-04:00", 
+          "EpochRise": 1459314600, 
+          "Age": 21, 
+          "Rise": "2016-03-30T01:10:00-04:00", 
+          "EpochSet": 1459352460, 
+          "Phase": "WaningGibbous"
+        }, 
+        "Sources": [
+          "AccuWeather"
+        ], 
+        "DegreeDaySummary": {
+          "Cooling": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 0.0
+          }, 
+          "Heating": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 4.0
+          }
+        }, 
+        "Link": "http://www.accuweather.com/en/us/raleigh-nc/27601/daily-weather-forecast/329823?day=1", 
+        "AirAndPollen": [
+          {
+            "Category": "Good", 
+            "Type": "Particle Pollution", 
+            "CategoryValue": 1, 
+            "Name": "AirQuality", 
+            "Value": 27
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Grass", 
+            "Value": 2
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Mold", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Ragweed", 
+            "Value": 5
+          }, 
+          {
+            "Category": "Moderate", 
+            "CategoryValue": 2, 
+            "Name": "Tree", 
+            "Value": 50
+          }, 
+          {
+            "Category": "High", 
+            "CategoryValue": 3, 
+            "Name": "UVIndex", 
+            "Value": 7
+          }
+        ], 
+        "HoursOfSun": 12.0, 
+        "Night": {
+          "LongPhrase": "Partly cloudy", 
+          "RainProbability": 3, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 0, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 37, 
+          "PrecipitationProbability": 3, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 161, 
+              "Localized": "SSE", 
+              "English": "SSE"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 6.9
+            }
+          }, 
+          "ShortPhrase": "Partly cloudy", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 162, 
+              "Localized": "SSE", 
+              "English": "SSE"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 10.4
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Partly cloudy", 
+          "Icon": 35
+        }, 
+        "Date": "2016-03-30T07:00:00-04:00", 
+        "RealFeelTemperatureShade": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 49.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 68.0
+          }
+        }, 
+        "EpochDate": 1459335600, 
+        "MobileLink": "http://m.accuweather.com/en/us/raleigh-nc/27601/daily-weather-forecast/329823?day=1", 
+        "Day": {
+          "LongPhrase": "Sunny", 
+          "RainProbability": 0, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 0, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 6, 
+          "PrecipitationProbability": 0, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 141, 
+              "Localized": "SE", 
+              "English": "SE"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 6.9
+            }
+          }, 
+          "ShortPhrase": "Sunny", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 157, 
+              "Localized": "SSE", 
+              "English": "SSE"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 11.5
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Sunny", 
+          "Icon": 1
+        }
+      }, 
+      {
+        "Temperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 66.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 77.0
+          }
+        }, 
+        "Sun": {
+          "Set": "2016-03-31T19:36:00-04:00", 
+          "EpochRise": 1459422060, 
+          "Rise": "2016-03-31T07:01:00-04:00", 
+          "EpochSet": 1459467360
+        }, 
+        "RealFeelTemperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 59.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 78.0
+          }
+        }, 
+        "Moon": {
+          "Set": "2016-03-31T12:32:00-04:00", 
+          "EpochRise": 1459404060, 
+          "Age": 22, 
+          "Rise": "2016-03-31T02:01:00-04:00", 
+          "EpochSet": 1459441920, 
+          "Phase": "Last"
+        }, 
+        "Sources": [
+          "AccuWeather"
+        ], 
+        "DegreeDaySummary": {
+          "Cooling": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 6.0
+          }, 
+          "Heating": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 0.0
+          }
+        }, 
+        "Link": "http://www.accuweather.com/en/us/raleigh-nc/27601/daily-weather-forecast/329823?day=2", 
+        "AirAndPollen": [
+          {
+            "Category": "Good", 
+            "Type": "Particle Pollution", 
+            "CategoryValue": 1, 
+            "Name": "AirQuality", 
+            "Value": 25
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Grass", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Mold", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Ragweed", 
+            "Value": 0
+          }, 
+          {
+            "Category": "High", 
+            "CategoryValue": 3, 
+            "Name": "Tree", 
+            "Value": 350
+          }, 
+          {
+            "Category": "High", 
+            "CategoryValue": 3, 
+            "Name": "UVIndex", 
+            "Value": 6
+          }
+        ], 
+        "HoursOfSun": 7.2, 
+        "Night": {
+          "LongPhrase": "Cloudy and warm; a shower or thunderstorm around late", 
+          "RainProbability": 70, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 1.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 1.0, 
+          "ThunderstormProbability": 40, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.05
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 98, 
+          "PrecipitationProbability": 70, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 188, 
+              "Localized": "S", 
+              "English": "S"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 13.8
+            }
+          }, 
+          "ShortPhrase": "Clouds with a t-storm late", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 193, 
+              "Localized": "SSW", 
+              "English": "SSW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 19.6
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.05
+          }, 
+          "IconPhrase": "Thunderstorms", 
+          "Icon": 15
+        }, 
+        "Date": "2016-03-31T07:00:00-04:00", 
+        "RealFeelTemperatureShade": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 59.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 73.0
+          }
+        }, 
+        "EpochDate": 1459422000, 
+        "MobileLink": "http://m.accuweather.com/en/us/raleigh-nc/27601/daily-weather-forecast/329823?day=2", 
+        "Day": {
+          "LongPhrase": "Breezy with some sunshine giving way to clouds; an afternoon shower or thunderstorm", 
+          "RainProbability": 55, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 1.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 1.0, 
+          "ThunderstormProbability": 40, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.35
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 52, 
+          "PrecipitationProbability": 55, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 180, 
+              "Localized": "S", 
+              "English": "S"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 13.8
+            }
+          }, 
+          "ShortPhrase": "A t-storm in the afternoon", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 182, 
+              "Localized": "S", 
+              "English": "S"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 24.2
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.35
+          }, 
+          "IconPhrase": "Mostly cloudy w/ t-storms", 
+          "Icon": 16
+        }
+      }, 
+      {
+        "Temperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 56.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 77.0
+          }
+        }, 
+        "Sun": {
+          "Set": "2016-04-01T19:37:00-04:00", 
+          "EpochRise": 1459508400, 
+          "Rise": "2016-04-01T07:00:00-04:00", 
+          "EpochSet": 1459553820
+        }, 
+        "RealFeelTemperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 52.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 77.0
+          }
+        }, 
+        "Moon": {
+          "Set": "2016-04-01T13:28:00-04:00", 
+          "EpochRise": 1459493340, 
+          "Age": 23, 
+          "Rise": "2016-04-01T02:49:00-04:00", 
+          "EpochSet": 1459531680, 
+          "Phase": "WaningCrescent"
+        }, 
+        "Sources": [
+          "AccuWeather"
+        ], 
+        "DegreeDaySummary": {
+          "Cooling": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 1.0
+          }, 
+          "Heating": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 0.0
+          }
+        }, 
+        "Link": "http://www.accuweather.com/en/us/raleigh-nc/27601/daily-weather-forecast/329823?day=3", 
+        "AirAndPollen": [
+          {
+            "Category": "Good", 
+            "Type": "Particle Pollution", 
+            "CategoryValue": 1, 
+            "Name": "AirQuality", 
+            "Value": 25
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Grass", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Mold", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Ragweed", 
+            "Value": 0
+          }, 
+          {
+            "Category": "High", 
+            "CategoryValue": 3, 
+            "Name": "Tree", 
+            "Value": 350
+          }, 
+          {
+            "Category": "Moderate", 
+            "CategoryValue": 2, 
+            "Name": "UVIndex", 
+            "Value": 3
+          }
+        ], 
+        "HoursOfSun": 2.3, 
+        "Night": {
+          "LongPhrase": "Cloudy with a couple of showers late", 
+          "RainProbability": 75, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 1.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 1.0, 
+          "ThunderstormProbability": 60, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.04
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 99, 
+          "PrecipitationProbability": 75, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 277, 
+              "Localized": "W", 
+              "English": "W"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 8.1
+            }
+          }, 
+          "ShortPhrase": "Cloudy, showers around late", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 209, 
+              "Localized": "SSW", 
+              "English": "SSW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 16.1
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.04
+          }, 
+          "IconPhrase": "Showers", 
+          "Icon": 12
+        }, 
+        "Date": "2016-04-01T07:00:00-04:00", 
+        "RealFeelTemperatureShade": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 52.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 75.0
+          }
+        }, 
+        "EpochDate": 1459508400, 
+        "MobileLink": "http://m.accuweather.com/en/us/raleigh-nc/27601/daily-weather-forecast/329823?day=3", 
+        "Day": {
+          "LongPhrase": "Periods of rain, some heavy, and a thunderstorm; breezy", 
+          "RainProbability": 75, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 7.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 7.0, 
+          "ThunderstormProbability": 60, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.8
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 94, 
+          "PrecipitationProbability": 75, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 207, 
+              "Localized": "SSW", 
+              "English": "SSW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 16.1
+            }
+          }, 
+          "ShortPhrase": "Heavy rain and a thunderstorm", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 211, 
+              "Localized": "SSW", 
+              "English": "SSW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 23.0
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.8
+          }, 
+          "IconPhrase": "Rain", 
+          "Icon": 18
+        }
+      }, 
+      {
+        "Temperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 42.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 68.0
+          }
+        }, 
+        "Sun": {
+          "Set": "2016-04-02T19:38:00-04:00", 
+          "EpochRise": 1459594740, 
+          "Rise": "2016-04-02T06:59:00-04:00", 
+          "EpochSet": 1459640280
+        }, 
+        "RealFeelTemperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 39.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 69.0
+          }
+        }, 
+        "Moon": {
+          "Set": "2016-04-02T14:28:00-04:00", 
+          "EpochRise": 1459582560, 
+          "Age": 24, 
+          "Rise": "2016-04-02T03:36:00-04:00", 
+          "EpochSet": 1459621680, 
+          "Phase": "WaningCrescent"
+        }, 
+        "Sources": [
+          "AccuWeather"
+        ], 
+        "DegreeDaySummary": {
+          "Cooling": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 0.0
+          }, 
+          "Heating": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 9.0
+          }
+        }, 
+        "Link": "http://www.accuweather.com/en/us/raleigh-nc/27601/daily-weather-forecast/329823?day=4", 
+        "AirAndPollen": [
+          {
+            "Category": "Good", 
+            "Type": "Ozone", 
+            "CategoryValue": 1, 
+            "Name": "AirQuality", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Grass", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Mold", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Ragweed", 
+            "Value": 0
+          }, 
+          {
+            "Category": "High", 
+            "CategoryValue": 3, 
+            "Name": "Tree", 
+            "Value": 350
+          }, 
+          {
+            "Category": "High", 
+            "CategoryValue": 3, 
+            "Name": "UVIndex", 
+            "Value": 7
+          }
+        ], 
+        "HoursOfSun": 8.8, 
+        "Night": {
+          "LongPhrase": "Clear and cooler", 
+          "RainProbability": 12, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 5, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 3, 
+          "PrecipitationProbability": 12, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 300, 
+              "Localized": "WNW", 
+              "English": "WNW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 9.2
+            }
+          }, 
+          "ShortPhrase": "Clear and cooler", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 238, 
+              "Localized": "WSW", 
+              "English": "WSW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 15.0
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Clear", 
+          "Icon": 33
+        }, 
+        "Date": "2016-04-02T07:00:00-04:00", 
+        "RealFeelTemperatureShade": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 39.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 64.0
+          }
+        }, 
+        "EpochDate": 1459594800, 
+        "MobileLink": "http://m.accuweather.com/en/us/raleigh-nc/27601/daily-weather-forecast/329823?day=4", 
+        "Day": {
+          "LongPhrase": "Partly sunny", 
+          "RainProbability": 25, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 1, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 34, 
+          "PrecipitationProbability": 25, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 272, 
+              "Localized": "W", 
+              "English": "W"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 9.2
+            }
+          }, 
+          "ShortPhrase": "Partly sunny", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 252, 
+              "Localized": "WSW", 
+              "English": "WSW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 18.4
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Partly sunny", 
+          "Icon": 3
+        }
+      }, 
+      {
+        "Temperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 42.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 61.0
+          }
+        }, 
+        "Sun": {
+          "Set": "2016-04-03T19:39:00-04:00", 
+          "EpochRise": 1459681020, 
+          "Rise": "2016-04-03T06:57:00-04:00", 
+          "EpochSet": 1459726740
+        }, 
+        "RealFeelTemperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 38.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 64.0
+          }
+        }, 
+        "Moon": {
+          "Set": "2016-04-03T15:33:00-04:00", 
+          "EpochRise": 1459671600, 
+          "Age": 25, 
+          "Rise": "2016-04-03T04:20:00-04:00", 
+          "EpochSet": 1459711980, 
+          "Phase": "WaningCrescent"
+        }, 
+        "Sources": [
+          "AccuWeather"
+        ], 
+        "DegreeDaySummary": {
+          "Cooling": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 0.0
+          }, 
+          "Heating": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 14.0
+          }
+        }, 
+        "Link": "http://www.accuweather.com/en/us/raleigh-nc/27601/daily-weather-forecast/329823?day=5", 
+        "AirAndPollen": [
+          {
+            "Category": "Good", 
+            "Type": "Ozone", 
+            "CategoryValue": 1, 
+            "Name": "AirQuality", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Grass", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Mold", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Ragweed", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Tree", 
+            "Value": 0
+          }, 
+          {
+            "Category": "High", 
+            "CategoryValue": 3, 
+            "Name": "UVIndex", 
+            "Value": 7
+          }
+        ], 
+        "HoursOfSun": 12.7, 
+        "Night": {
+          "LongPhrase": "Clear", 
+          "RainProbability": 5, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 0, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 0, 
+          "PrecipitationProbability": 5, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 35, 
+              "Localized": "NE", 
+              "English": "NE"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 5.8
+            }
+          }, 
+          "ShortPhrase": "Clear", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 22, 
+              "Localized": "NNE", 
+              "English": "NNE"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 8.1
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Clear", 
+          "Icon": 33
+        }, 
+        "Date": "2016-04-03T07:00:00-04:00", 
+        "RealFeelTemperatureShade": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 38.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 60.0
+          }
+        }, 
+        "EpochDate": 1459681200, 
+        "MobileLink": "http://m.accuweather.com/en/us/raleigh-nc/27601/daily-weather-forecast/329823?day=5", 
+        "Day": {
+          "LongPhrase": "Plenty of sunshine", 
+          "RainProbability": 0, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 0, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 0, 
+          "PrecipitationProbability": 0, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 324, 
+              "Localized": "NW", 
+              "English": "NW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 6.9
+            }
+          }, 
+          "ShortPhrase": "Plenty of sunshine", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 323, 
+              "Localized": "NW", 
+              "English": "NW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 11.5
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Sunny", 
+          "Icon": 1
+        }
+      }, 
+      {
+        "Temperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 47.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 69.0
+          }
+        }, 
+        "Sun": {
+          "Set": "2016-04-04T19:39:00-04:00", 
+          "EpochRise": 1459767360, 
+          "Rise": "2016-04-04T06:56:00-04:00", 
+          "EpochSet": 1459813140
+        }, 
+        "RealFeelTemperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 43.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 72.0
+          }
+        }, 
+        "Moon": {
+          "Set": "2016-04-04T16:39:00-04:00", 
+          "EpochRise": 1459760580, 
+          "Age": 26, 
+          "Rise": "2016-04-04T05:03:00-04:00", 
+          "EpochSet": 1459802340, 
+          "Phase": "WaningCrescent"
+        }, 
+        "Sources": [
+          "AccuWeather"
+        ], 
+        "DegreeDaySummary": {
+          "Cooling": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 0.0
+          }, 
+          "Heating": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 7.0
+          }
+        }, 
+        "Link": "http://www.accuweather.com/en/us/raleigh-nc/27601/daily-weather-forecast/329823?day=6", 
+        "AirAndPollen": [
+          {
+            "Category": "Good", 
+            "Type": "Ozone", 
+            "CategoryValue": 1, 
+            "Name": "AirQuality", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Grass", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Mold", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Ragweed", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Tree", 
+            "Value": 0
+          }, 
+          {
+            "Category": "High", 
+            "CategoryValue": 3, 
+            "Name": "UVIndex", 
+            "Value": 7
+          }
+        ], 
+        "HoursOfSun": 6.9, 
+        "Night": {
+          "LongPhrase": "Partly cloudy", 
+          "RainProbability": 22, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 2, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 32, 
+          "PrecipitationProbability": 22, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 226, 
+              "Localized": "SW", 
+              "English": "SW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 8.1
+            }
+          }, 
+          "ShortPhrase": "Partly cloudy", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 194, 
+              "Localized": "SSW", 
+              "English": "SSW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 11.5
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Partly cloudy", 
+          "Icon": 35
+        }, 
+        "Date": "2016-04-04T07:00:00-04:00", 
+        "RealFeelTemperatureShade": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 43.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 66.0
+          }
+        }, 
+        "EpochDate": 1459767600, 
+        "MobileLink": "http://m.accuweather.com/en/us/raleigh-nc/27601/daily-weather-forecast/329823?day=6", 
+        "Day": {
+          "LongPhrase": "Warmer with times of sun and clouds", 
+          "RainProbability": 7, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 2, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 46, 
+          "PrecipitationProbability": 7, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 169, 
+              "Localized": "S", 
+              "English": "S"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 9.2
+            }
+          }, 
+          "ShortPhrase": "Warmer with clouds and sun", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 207, 
+              "Localized": "SSW", 
+              "English": "SSW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 15.0
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Intermittent clouds", 
+          "Icon": 4
+        }
+      }, 
+      {
+        "Temperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 37.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 64.0
+          }
+        }, 
+        "Sun": {
+          "Set": "2016-04-05T19:40:00-04:00", 
+          "EpochRise": 1459853640, 
+          "Rise": "2016-04-05T06:54:00-04:00", 
+          "EpochSet": 1459899600
+        }, 
+        "RealFeelTemperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 36.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 66.0
+          }
+        }, 
+        "Moon": {
+          "Set": "2016-04-05T17:48:00-04:00", 
+          "EpochRise": 1459849440, 
+          "Age": 27, 
+          "Rise": "2016-04-05T05:44:00-04:00", 
+          "EpochSet": 1459892880, 
+          "Phase": "WaningCrescent"
+        }, 
+        "Sources": [
+          "AccuWeather"
+        ], 
+        "DegreeDaySummary": {
+          "Cooling": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 0.0
+          }, 
+          "Heating": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 13.0
+          }
+        }, 
+        "Link": "http://www.accuweather.com/en/us/raleigh-nc/27601/daily-weather-forecast/329823?day=7", 
+        "AirAndPollen": [
+          {
+            "Category": "Good", 
+            "Type": "Ozone", 
+            "CategoryValue": 1, 
+            "Name": "AirQuality", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Grass", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Mold", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Ragweed", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Tree", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Moderate", 
+            "CategoryValue": 2, 
+            "Name": "UVIndex", 
+            "Value": 4
+          }
+        ], 
+        "HoursOfSun": 3.8, 
+        "Night": {
+          "LongPhrase": "Partly cloudy", 
+          "RainProbability": 7, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 7, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 47, 
+          "PrecipitationProbability": 7, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 39, 
+              "Localized": "NE", 
+              "English": "NE"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 5.8
+            }
+          }, 
+          "ShortPhrase": "Partly cloudy", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 32, 
+              "Localized": "NNE", 
+              "English": "NNE"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 11.5
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Intermittent clouds", 
+          "Icon": 36
+        }, 
+        "Date": "2016-04-05T07:00:00-04:00", 
+        "RealFeelTemperatureShade": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 36.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 62.0
+          }
+        }, 
+        "EpochDate": 1459854000, 
+        "MobileLink": "http://m.accuweather.com/en/us/raleigh-nc/27601/daily-weather-forecast/329823?day=7", 
+        "Day": {
+          "LongPhrase": "Mostly cloudy, chance of a little rain", 
+          "RainProbability": 30, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 7, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 78, 
+          "PrecipitationProbability": 30, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 355, 
+              "Localized": "N", 
+              "English": "N"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 8.1
+            }
+          }, 
+          "ShortPhrase": "Rain and drizzle possible", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 339, 
+              "Localized": "NNW", 
+              "English": "NNW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 13.8
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Mostly cloudy", 
+          "Icon": 6
+        }
+      }, 
+      {
+        "Temperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 43.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 62.0
+          }
+        }, 
+        "Sun": {
+          "Set": "2016-04-06T19:41:00-04:00", 
+          "EpochRise": 1459939980, 
+          "Rise": "2016-04-06T06:53:00-04:00", 
+          "EpochSet": 1459986060
+        }, 
+        "RealFeelTemperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 41.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 68.0
+          }
+        }, 
+        "Moon": {
+          "Set": "2016-04-06T18:59:00-04:00", 
+          "EpochRise": 1459938240, 
+          "Age": 29, 
+          "Rise": "2016-04-06T06:24:00-04:00", 
+          "EpochSet": 1459983540, 
+          "Phase": "WaningCrescent"
+        }, 
+        "Sources": [
+          "AccuWeather"
+        ], 
+        "DegreeDaySummary": {
+          "Cooling": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 0.0
+          }, 
+          "Heating": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 13.0
+          }
+        }, 
+        "Link": "http://www.accuweather.com/en/us/raleigh-nc/27601/daily-weather-forecast/329823?day=8", 
+        "AirAndPollen": [
+          {
+            "Category": "Good", 
+            "Type": "Ozone", 
+            "CategoryValue": 1, 
+            "Name": "AirQuality", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Grass", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Mold", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Ragweed", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Tree", 
+            "Value": 0
+          }, 
+          {
+            "Category": "High", 
+            "CategoryValue": 3, 
+            "Name": "UVIndex", 
+            "Value": 6
+          }
+        ], 
+        "HoursOfSun": 6.6, 
+        "Night": {
+          "LongPhrase": "Considerable clouds", 
+          "RainProbability": 10, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 0, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 90, 
+          "PrecipitationProbability": 10, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 147, 
+              "Localized": "SSE", 
+              "English": "SSE"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 4.6
+            }
+          }, 
+          "ShortPhrase": "Considerable clouds", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 159, 
+              "Localized": "SSE", 
+              "English": "SSE"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 10.4
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Cloudy", 
+          "Icon": 7
+        }, 
+        "Date": "2016-04-06T07:00:00-04:00", 
+        "RealFeelTemperatureShade": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 41.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 62.0
+          }
+        }, 
+        "EpochDate": 1459940400, 
+        "MobileLink": "http://m.accuweather.com/en/us/raleigh-nc/27601/daily-weather-forecast/329823?day=8", 
+        "Day": {
+          "LongPhrase": "Intervals of clouds and sun", 
+          "RainProbability": 19, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 4, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 49, 
+          "PrecipitationProbability": 19, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 83, 
+              "Localized": "E", 
+              "English": "E"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 4.6
+            }
+          }, 
+          "ShortPhrase": "Intervals of clouds and sun", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 33, 
+              "Localized": "NNE", 
+              "English": "NNE"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 15.0
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Intermittent clouds", 
+          "Icon": 4
+        }
+      }, 
+      {
+        "Temperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 47.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 64.0
+          }
+        }, 
+        "Sun": {
+          "Set": "2016-04-07T19:42:00-04:00", 
+          "EpochRise": 1460026320, 
+          "Rise": "2016-04-07T06:52:00-04:00", 
+          "EpochSet": 1460072520
+        }, 
+        "RealFeelTemperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 37.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 62.0
+          }
+        }, 
+        "Moon": {
+          "Set": "2016-04-07T20:10:00-04:00", 
+          "EpochRise": 1460027160, 
+          "Age": 0, 
+          "Rise": "2016-04-07T07:06:00-04:00", 
+          "EpochSet": 1460074200, 
+          "Phase": "New"
+        }, 
+        "Sources": [
+          "AccuWeather"
+        ], 
+        "DegreeDaySummary": {
+          "Cooling": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 0.0
+          }, 
+          "Heating": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 9.0
+          }
+        }, 
+        "Link": "http://www.accuweather.com/en/us/raleigh-nc/27601/daily-weather-forecast/329823?day=9", 
+        "AirAndPollen": [
+          {
+            "Category": "Good", 
+            "Type": "Ozone", 
+            "CategoryValue": 1, 
+            "Name": "AirQuality", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Grass", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Mold", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Ragweed", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Tree", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Moderate", 
+            "CategoryValue": 2, 
+            "Name": "UVIndex", 
+            "Value": 4
+          }
+        ], 
+        "HoursOfSun": 2.4, 
+        "Night": {
+          "LongPhrase": "Rain", 
+          "RainProbability": 78, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 8.5, 
+          "IceProbability": 0, 
+          "HoursOfRain": 8.5, 
+          "ThunderstormProbability": 35, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.52
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 97, 
+          "PrecipitationProbability": 78, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 186, 
+              "Localized": "S", 
+              "English": "S"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 11.5
+            }
+          }, 
+          "ShortPhrase": "Rain", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 181, 
+              "Localized": "S", 
+              "English": "S"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 26.5
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.52
+          }, 
+          "IconPhrase": "Rain", 
+          "Icon": 18
+        }, 
+        "Date": "2016-04-07T07:00:00-04:00", 
+        "RealFeelTemperatureShade": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 37.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 60.0
+          }
+        }, 
+        "EpochDate": 1460026800, 
+        "MobileLink": "http://m.accuweather.com/en/us/raleigh-nc/27601/daily-weather-forecast/329823?day=9", 
+        "Day": {
+          "LongPhrase": "Considerable cloudiness with a chance for rain and a thunderstorm in the afternoon", 
+          "RainProbability": 35, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 35, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 86, 
+          "PrecipitationProbability": 35, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 183, 
+              "Localized": "S", 
+              "English": "S"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 10.4
+            }
+          }, 
+          "ShortPhrase": "Chance for afternoon rain", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 196, 
+              "Localized": "SSW", 
+              "English": "SSW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 29.9
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Cloudy", 
+          "Icon": 7
+        }
+      }, 
+      {
+        "Temperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 48.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 73.0
+          }
+        }, 
+        "Sun": {
+          "Set": "2016-04-08T19:43:00-04:00", 
+          "EpochRise": 1460112600, 
+          "Rise": "2016-04-08T06:50:00-04:00", 
+          "EpochSet": 1460158980
+        }, 
+        "RealFeelTemperature": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 42.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 71.0
+          }
+        }, 
+        "Moon": {
+          "Set": "2016-04-08T21:21:00-04:00", 
+          "EpochRise": 1460116200, 
+          "Age": 1, 
+          "Rise": "2016-04-08T07:50:00-04:00", 
+          "EpochSet": 1460164860, 
+          "Phase": "WaxingCrescent"
+        }, 
+        "Sources": [
+          "AccuWeather"
+        ], 
+        "DegreeDaySummary": {
+          "Cooling": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 0.0
+          }, 
+          "Heating": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 5.0
+          }
+        }, 
+        "Link": "http://www.accuweather.com/en/us/raleigh-nc/27601/daily-weather-forecast/329823?day=10", 
+        "AirAndPollen": [
+          {
+            "Category": "Good", 
+            "Type": "Ozone", 
+            "CategoryValue": 1, 
+            "Name": "AirQuality", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Grass", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Mold", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Ragweed", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "Tree", 
+            "Value": 0
+          }, 
+          {
+            "Category": "Low", 
+            "CategoryValue": 1, 
+            "Name": "UVIndex", 
+            "Value": 2
+          }
+        ], 
+        "HoursOfSun": 1.4, 
+        "Night": {
+          "LongPhrase": "Occasional rain", 
+          "RainProbability": 66, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 3.5, 
+          "IceProbability": 0, 
+          "HoursOfRain": 3.5, 
+          "ThunderstormProbability": 15, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.26
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 71, 
+          "PrecipitationProbability": 66, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 302, 
+              "Localized": "WNW", 
+              "English": "WNW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 8.1
+            }
+          }, 
+          "ShortPhrase": "Occasional rain", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 322, 
+              "Localized": "NW", 
+              "English": "NW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 26.5
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.26
+          }, 
+          "IconPhrase": "Rain", 
+          "Icon": 18
+        }, 
+        "Date": "2016-04-08T07:00:00-04:00", 
+        "RealFeelTemperatureShade": {
+          "Minimum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 42.0
+          }, 
+          "Maximum": {
+            "UnitType": 18, 
+            "Unit": "F", 
+            "Value": 71.0
+          }
+        }, 
+        "EpochDate": 1460113200, 
+        "MobileLink": "http://m.accuweather.com/en/us/raleigh-nc/27601/daily-weather-forecast/329823?day=10", 
+        "Day": {
+          "LongPhrase": "Cloudy with a couple of showers possible", 
+          "RainProbability": 30, 
+          "Ice": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "HoursOfPrecipitation": 0.0, 
+          "IceProbability": 0, 
+          "HoursOfRain": 0.0, 
+          "ThunderstormProbability": 15, 
+          "Rain": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "SnowProbability": 0, 
+          "CloudCover": 99, 
+          "PrecipitationProbability": 30, 
+          "Snow": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "Wind": {
+            "Direction": {
+              "Degrees": 238, 
+              "Localized": "WSW", 
+              "English": "WSW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 9.2
+            }
+          }, 
+          "ShortPhrase": "A couple of showers possible", 
+          "WindGust": {
+            "Direction": {
+              "Degrees": 198, 
+              "Localized": "SSW", 
+              "English": "SSW"
+            }, 
+            "Speed": {
+              "UnitType": 9, 
+              "Unit": "mi/h", 
+              "Value": 28.8
+            }
+          }, 
+          "TotalLiquid": {
+            "UnitType": 1, 
+            "Unit": "in", 
+            "Value": 0.0
+          }, 
+          "IconPhrase": "Cloudy", 
+          "Icon": 7
+        }
+      }
+    ], 
+    "HourlyForecasts": [
+      {
+        "Temperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 54.0
+        }, 
+        "IceProbability": 0, 
+        "RealFeelTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 57.0
+        }, 
+        "Ice": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "DateTime": "2016-03-30T10:00:00-04:00", 
+        "WeatherIcon": 1, 
+        "Rain": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WindGust": {
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 9.2
+          }
+        }, 
+        "TotalLiquid": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "Ceiling": {
+          "UnitType": 0, 
+          "Unit": "ft", 
+          "Value": 30000.0
+        }, 
+        "RainProbability": 0, 
+        "Visibility": {
+          "UnitType": 2, 
+          "Unit": "mi", 
+          "Value": 10.0
+        }, 
+        "EpochDateTime": 1459346400, 
+        "Link": "http://www.accuweather.com/en/us/raleigh-nc/27601/hourly-weather-forecast/329823?day=1&hbhhour=10", 
+        "IconPhrase": "Sunny", 
+        "RelativeHumidity": 56, 
+        "DewPoint": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 38.0
+        }, 
+        "CloudCover": 0, 
+        "UVIndexText": "Moderate", 
+        "Snow": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WetBulbTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 46.0
+        }, 
+        "MobileLink": "http://m.accuweather.com/en/us/raleigh-nc/27601/hourly-weather-forecast/329823?day=1&hbhhour=10", 
+        "Wind": {
+          "Direction": {
+            "Degrees": 126, 
+            "Localized": "SE", 
+            "English": "SE"
+          }, 
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 6.9
+          }
+        }, 
+        "IsDaylight": true, 
+        "SnowProbability": 0, 
+        "PrecipitationProbability": 0, 
+        "UVIndex": 4
+      }, 
+      {
+        "Temperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 59.0
+        }, 
+        "IceProbability": 0, 
+        "RealFeelTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 65.0
+        }, 
+        "Ice": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "DateTime": "2016-03-30T11:00:00-04:00", 
+        "WeatherIcon": 1, 
+        "Rain": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WindGust": {
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 10.4
+          }
+        }, 
+        "TotalLiquid": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "Ceiling": {
+          "UnitType": 0, 
+          "Unit": "ft", 
+          "Value": 30000.0
+        }, 
+        "RainProbability": 0, 
+        "Visibility": {
+          "UnitType": 2, 
+          "Unit": "mi", 
+          "Value": 10.0
+        }, 
+        "EpochDateTime": 1459350000, 
+        "Link": "http://www.accuweather.com/en/us/raleigh-nc/27601/hourly-weather-forecast/329823?day=1&hbhhour=11", 
+        "IconPhrase": "Sunny", 
+        "RelativeHumidity": 47, 
+        "DewPoint": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 39.0
+        }, 
+        "CloudCover": 0, 
+        "UVIndexText": "Moderate", 
+        "Snow": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WetBulbTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 49.0
+        }, 
+        "MobileLink": "http://m.accuweather.com/en/us/raleigh-nc/27601/hourly-weather-forecast/329823?day=1&hbhhour=11", 
+        "Wind": {
+          "Direction": {
+            "Degrees": 136, 
+            "Localized": "SE", 
+            "English": "SE"
+          }, 
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 8.1
+          }
+        }, 
+        "IsDaylight": true, 
+        "SnowProbability": 0, 
+        "PrecipitationProbability": 0, 
+        "UVIndex": 5
+      }, 
+      {
+        "Temperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 63.0
+        }, 
+        "IceProbability": 0, 
+        "RealFeelTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 70.0
+        }, 
+        "Ice": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "DateTime": "2016-03-30T12:00:00-04:00", 
+        "WeatherIcon": 1, 
+        "Rain": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WindGust": {
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 10.4
+          }
+        }, 
+        "TotalLiquid": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "Ceiling": {
+          "UnitType": 0, 
+          "Unit": "ft", 
+          "Value": 30000.0
+        }, 
+        "RainProbability": 0, 
+        "Visibility": {
+          "UnitType": 2, 
+          "Unit": "mi", 
+          "Value": 10.0
+        }, 
+        "EpochDateTime": 1459353600, 
+        "Link": "http://www.accuweather.com/en/us/raleigh-nc/27601/hourly-weather-forecast/329823?day=1&hbhhour=12", 
+        "IconPhrase": "Sunny", 
+        "RelativeHumidity": 42, 
+        "DewPoint": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 40.0
+        }, 
+        "CloudCover": 0, 
+        "UVIndexText": "High", 
+        "Snow": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WetBulbTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 51.0
+        }, 
+        "MobileLink": "http://m.accuweather.com/en/us/raleigh-nc/27601/hourly-weather-forecast/329823?day=1&hbhhour=12", 
+        "Wind": {
+          "Direction": {
+            "Degrees": 136, 
+            "Localized": "SE", 
+            "English": "SE"
+          }, 
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 8.1
+          }
+        }, 
+        "IsDaylight": true, 
+        "SnowProbability": 0, 
+        "PrecipitationProbability": 0, 
+        "UVIndex": 7
+      }, 
+      {
+        "Temperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 65.0
+        }, 
+        "IceProbability": 0, 
+        "RealFeelTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 72.0
+        }, 
+        "Ice": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "DateTime": "2016-03-30T13:00:00-04:00", 
+        "WeatherIcon": 1, 
+        "Rain": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WindGust": {
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 10.4
+          }
+        }, 
+        "TotalLiquid": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "Ceiling": {
+          "UnitType": 0, 
+          "Unit": "ft", 
+          "Value": 30000.0
+        }, 
+        "RainProbability": 0, 
+        "Visibility": {
+          "UnitType": 2, 
+          "Unit": "mi", 
+          "Value": 10.0
+        }, 
+        "EpochDateTime": 1459357200, 
+        "Link": "http://www.accuweather.com/en/us/raleigh-nc/27601/hourly-weather-forecast/329823?day=1&hbhhour=13", 
+        "IconPhrase": "Sunny", 
+        "RelativeHumidity": 35, 
+        "DewPoint": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 37.0
+        }, 
+        "CloudCover": 0, 
+        "UVIndexText": "High", 
+        "Snow": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WetBulbTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 51.0
+        }, 
+        "MobileLink": "http://m.accuweather.com/en/us/raleigh-nc/27601/hourly-weather-forecast/329823?day=1&hbhhour=13", 
+        "Wind": {
+          "Direction": {
+            "Degrees": 139, 
+            "Localized": "SE", 
+            "English": "SE"
+          }, 
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 8.1
+          }
+        }, 
+        "IsDaylight": true, 
+        "SnowProbability": 0, 
+        "PrecipitationProbability": 0, 
+        "UVIndex": 7
+      }, 
+      {
+        "Temperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 67.0
+        }, 
+        "IceProbability": 0, 
+        "RealFeelTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 73.0
+        }, 
+        "Ice": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "DateTime": "2016-03-30T14:00:00-04:00", 
+        "WeatherIcon": 1, 
+        "Rain": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WindGust": {
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 10.4
+          }
+        }, 
+        "TotalLiquid": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "Ceiling": {
+          "UnitType": 0, 
+          "Unit": "ft", 
+          "Value": 30000.0
+        }, 
+        "RainProbability": 0, 
+        "Visibility": {
+          "UnitType": 2, 
+          "Unit": "mi", 
+          "Value": 10.0
+        }, 
+        "EpochDateTime": 1459360800, 
+        "Link": "http://www.accuweather.com/en/us/raleigh-nc/27601/hourly-weather-forecast/329823?day=1&hbhhour=14", 
+        "IconPhrase": "Sunny", 
+        "RelativeHumidity": 32, 
+        "DewPoint": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 36.0
+        }, 
+        "CloudCover": 1, 
+        "UVIndexText": "High", 
+        "Snow": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WetBulbTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 51.0
+        }, 
+        "MobileLink": "http://m.accuweather.com/en/us/raleigh-nc/27601/hourly-weather-forecast/329823?day=1&hbhhour=14", 
+        "Wind": {
+          "Direction": {
+            "Degrees": 143, 
+            "Localized": "SE", 
+            "English": "SE"
+          }, 
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 8.1
+          }
+        }, 
+        "IsDaylight": true, 
+        "SnowProbability": 0, 
+        "PrecipitationProbability": 0, 
+        "UVIndex": 7
+      }, 
+      {
+        "Temperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 69.0
+        }, 
+        "IceProbability": 0, 
+        "RealFeelTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 73.0
+        }, 
+        "Ice": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "DateTime": "2016-03-30T15:00:00-04:00", 
+        "WeatherIcon": 1, 
+        "Rain": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WindGust": {
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 11.5
+          }
+        }, 
+        "TotalLiquid": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "Ceiling": {
+          "UnitType": 0, 
+          "Unit": "ft", 
+          "Value": 30000.0
+        }, 
+        "RainProbability": 0, 
+        "Visibility": {
+          "UnitType": 2, 
+          "Unit": "mi", 
+          "Value": 10.0
+        }, 
+        "EpochDateTime": 1459364400, 
+        "Link": "http://www.accuweather.com/en/us/raleigh-nc/27601/hourly-weather-forecast/329823?day=1&hbhhour=15", 
+        "IconPhrase": "Sunny", 
+        "RelativeHumidity": 29, 
+        "DewPoint": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 35.0
+        }, 
+        "CloudCover": 7, 
+        "UVIndexText": "Moderate", 
+        "Snow": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WetBulbTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 52.0
+        }, 
+        "MobileLink": "http://m.accuweather.com/en/us/raleigh-nc/27601/hourly-weather-forecast/329823?day=1&hbhhour=15", 
+        "Wind": {
+          "Direction": {
+            "Degrees": 151, 
+            "Localized": "SSE", 
+            "English": "SSE"
+          }, 
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 8.1
+          }
+        }, 
+        "IsDaylight": true, 
+        "SnowProbability": 0, 
+        "PrecipitationProbability": 0, 
+        "UVIndex": 5
+      }, 
+      {
+        "Temperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 70.0
+        }, 
+        "IceProbability": 0, 
+        "RealFeelTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 72.0
+        }, 
+        "Ice": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "DateTime": "2016-03-30T16:00:00-04:00", 
+        "WeatherIcon": 2, 
+        "Rain": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WindGust": {
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 11.5
+          }
+        }, 
+        "TotalLiquid": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "Ceiling": {
+          "UnitType": 0, 
+          "Unit": "ft", 
+          "Value": 30000.0
+        }, 
+        "RainProbability": 0, 
+        "Visibility": {
+          "UnitType": 2, 
+          "Unit": "mi", 
+          "Value": 10.0
+        }, 
+        "EpochDateTime": 1459368000, 
+        "Link": "http://www.accuweather.com/en/us/raleigh-nc/27601/hourly-weather-forecast/329823?day=1&hbhhour=16", 
+        "IconPhrase": "Mostly sunny", 
+        "RelativeHumidity": 29, 
+        "DewPoint": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 36.0
+        }, 
+        "CloudCover": 13, 
+        "UVIndexText": "Moderate", 
+        "Snow": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WetBulbTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 53.0
+        }, 
+        "MobileLink": "http://m.accuweather.com/en/us/raleigh-nc/27601/hourly-weather-forecast/329823?day=1&hbhhour=16", 
+        "Wind": {
+          "Direction": {
+            "Degrees": 157, 
+            "Localized": "SSE", 
+            "English": "SSE"
+          }, 
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 9.2
+          }
+        }, 
+        "IsDaylight": true, 
+        "SnowProbability": 0, 
+        "PrecipitationProbability": 0, 
+        "UVIndex": 4
+      }, 
+      {
+        "Temperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 70.0
+        }, 
+        "IceProbability": 0, 
+        "RealFeelTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 70.0
+        }, 
+        "Ice": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "DateTime": "2016-03-30T17:00:00-04:00", 
+        "WeatherIcon": 2, 
+        "Rain": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WindGust": {
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 11.5
+          }
+        }, 
+        "TotalLiquid": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "Ceiling": {
+          "UnitType": 0, 
+          "Unit": "ft", 
+          "Value": 30000.0
+        }, 
+        "RainProbability": 0, 
+        "Visibility": {
+          "UnitType": 2, 
+          "Unit": "mi", 
+          "Value": 10.0
+        }, 
+        "EpochDateTime": 1459371600, 
+        "Link": "http://www.accuweather.com/en/us/raleigh-nc/27601/hourly-weather-forecast/329823?day=1&hbhhour=17", 
+        "IconPhrase": "Mostly sunny", 
+        "RelativeHumidity": 29, 
+        "DewPoint": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 36.0
+        }, 
+        "CloudCover": 18, 
+        "UVIndexText": "Low", 
+        "Snow": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WetBulbTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 52.0
+        }, 
+        "MobileLink": "http://m.accuweather.com/en/us/raleigh-nc/27601/hourly-weather-forecast/329823?day=1&hbhhour=17", 
+        "Wind": {
+          "Direction": {
+            "Degrees": 162, 
+            "Localized": "SSE", 
+            "English": "SSE"
+          }, 
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 9.2
+          }
+        }, 
+        "IsDaylight": true, 
+        "SnowProbability": 0, 
+        "PrecipitationProbability": 0, 
+        "UVIndex": 2
+      }, 
+      {
+        "Temperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 68.0
+        }, 
+        "IceProbability": 0, 
+        "RealFeelTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 66.0
+        }, 
+        "Ice": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "DateTime": "2016-03-30T18:00:00-04:00", 
+        "WeatherIcon": 2, 
+        "Rain": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WindGust": {
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 11.5
+          }
+        }, 
+        "TotalLiquid": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "Ceiling": {
+          "UnitType": 0, 
+          "Unit": "ft", 
+          "Value": 30000.0
+        }, 
+        "RainProbability": 0, 
+        "Visibility": {
+          "UnitType": 2, 
+          "Unit": "mi", 
+          "Value": 10.0
+        }, 
+        "EpochDateTime": 1459375200, 
+        "Link": "http://www.accuweather.com/en/us/raleigh-nc/27601/hourly-weather-forecast/329823?day=1&hbhhour=18", 
+        "IconPhrase": "Mostly sunny", 
+        "RelativeHumidity": 32, 
+        "DewPoint": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 37.0
+        }, 
+        "CloudCover": 19, 
+        "UVIndexText": "Low", 
+        "Snow": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WetBulbTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 52.0
+        }, 
+        "MobileLink": "http://m.accuweather.com/en/us/raleigh-nc/27601/hourly-weather-forecast/329823?day=1&hbhhour=18", 
+        "Wind": {
+          "Direction": {
+            "Degrees": 161, 
+            "Localized": "SSE", 
+            "English": "SSE"
+          }, 
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 8.1
+          }
+        }, 
+        "IsDaylight": true, 
+        "SnowProbability": 0, 
+        "PrecipitationProbability": 0, 
+        "UVIndex": 1
+      }, 
+      {
+        "Temperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 66.0
+        }, 
+        "IceProbability": 0, 
+        "RealFeelTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 63.0
+        }, 
+        "Ice": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "DateTime": "2016-03-30T19:00:00-04:00", 
+        "WeatherIcon": 2, 
+        "Rain": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WindGust": {
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 10.4
+          }
+        }, 
+        "TotalLiquid": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "Ceiling": {
+          "UnitType": 0, 
+          "Unit": "ft", 
+          "Value": 30000.0
+        }, 
+        "RainProbability": 0, 
+        "Visibility": {
+          "UnitType": 2, 
+          "Unit": "mi", 
+          "Value": 10.0
+        }, 
+        "EpochDateTime": 1459378800, 
+        "Link": "http://www.accuweather.com/en/us/raleigh-nc/27601/hourly-weather-forecast/329823?day=1&hbhhour=19", 
+        "IconPhrase": "Mostly sunny", 
+        "RelativeHumidity": 37, 
+        "DewPoint": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 39.0
+        }, 
+        "CloudCover": 15, 
+        "UVIndexText": "Low", 
+        "Snow": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WetBulbTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 52.0
+        }, 
+        "MobileLink": "http://m.accuweather.com/en/us/raleigh-nc/27601/hourly-weather-forecast/329823?day=1&hbhhour=19", 
+        "Wind": {
+          "Direction": {
+            "Degrees": 161, 
+            "Localized": "SSE", 
+            "English": "SSE"
+          }, 
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 6.9
+          }
+        }, 
+        "IsDaylight": true, 
+        "SnowProbability": 0, 
+        "PrecipitationProbability": 0, 
+        "UVIndex": 0
+      }, 
+      {
+        "Temperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 62.0
+        }, 
+        "IceProbability": 0, 
+        "RealFeelTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 61.0
+        }, 
+        "Ice": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "DateTime": "2016-03-30T20:00:00-04:00", 
+        "WeatherIcon": 34, 
+        "Rain": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WindGust": {
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 9.2
+          }
+        }, 
+        "TotalLiquid": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "Ceiling": {
+          "UnitType": 0, 
+          "Unit": "ft", 
+          "Value": 30000.0
+        }, 
+        "RainProbability": 0, 
+        "Visibility": {
+          "UnitType": 2, 
+          "Unit": "mi", 
+          "Value": 10.0
+        }, 
+        "EpochDateTime": 1459382400, 
+        "Link": "http://www.accuweather.com/en/us/raleigh-nc/27601/hourly-weather-forecast/329823?day=1&hbhhour=20", 
+        "IconPhrase": "Mostly clear", 
+        "RelativeHumidity": 41, 
+        "DewPoint": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 38.0
+        }, 
+        "CloudCover": 26, 
+        "UVIndexText": "Low", 
+        "Snow": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WetBulbTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 50.0
+        }, 
+        "MobileLink": "http://m.accuweather.com/en/us/raleigh-nc/27601/hourly-weather-forecast/329823?day=1&hbhhour=20", 
+        "Wind": {
+          "Direction": {
+            "Degrees": 159, 
+            "Localized": "SSE", 
+            "English": "SSE"
+          }, 
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 5.8
+          }
+        }, 
+        "IsDaylight": false, 
+        "SnowProbability": 0, 
+        "PrecipitationProbability": 0, 
+        "UVIndex": 0
+      }, 
+      {
+        "Temperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 59.0
+        }, 
+        "IceProbability": 0, 
+        "RealFeelTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 57.0
+        }, 
+        "Ice": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "DateTime": "2016-03-30T21:00:00-04:00", 
+        "WeatherIcon": 34, 
+        "Rain": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WindGust": {
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 8.1
+          }
+        }, 
+        "TotalLiquid": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "Ceiling": {
+          "UnitType": 0, 
+          "Unit": "ft", 
+          "Value": 30000.0
+        }, 
+        "RainProbability": 0, 
+        "Visibility": {
+          "UnitType": 2, 
+          "Unit": "mi", 
+          "Value": 10.0
+        }, 
+        "EpochDateTime": 1459386000, 
+        "Link": "http://www.accuweather.com/en/us/raleigh-nc/27601/hourly-weather-forecast/329823?day=1&hbhhour=21", 
+        "IconPhrase": "Mostly clear", 
+        "RelativeHumidity": 46, 
+        "DewPoint": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 38.0
+        }, 
+        "CloudCover": 26, 
+        "UVIndexText": "Low", 
+        "Snow": {
+          "UnitType": 1, 
+          "Unit": "in", 
+          "Value": 0.0
+        }, 
+        "WetBulbTemperature": {
+          "UnitType": 18, 
+          "Unit": "F", 
+          "Value": 48.0
+        }, 
+        "MobileLink": "http://m.accuweather.com/en/us/raleigh-nc/27601/hourly-weather-forecast/329823?day=1&hbhhour=21", 
+        "Wind": {
+          "Direction": {
+            "Degrees": 160, 
+            "Localized": "SSE", 
+            "English": "SSE"
+          }, 
+          "Speed": {
+            "UnitType": 9, 
+            "Unit": "mi/h", 
+            "Value": 6.9
+          }
+        }, 
+        "IsDaylight": false, 
+        "SnowProbability": 0, 
+        "PrecipitationProbability": 0, 
+        "UVIndex": 0
+      }
+    ]
+  }
+}

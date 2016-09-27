@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+
+infopath="${TARGET_BUILD_DIR}/phoenix-reader.app/info.plist"
+#osascript -e 'tell application "Terminal" to do script "echo PAT='${infopath}'"'
+if [ -e ${infopath} ]; then
+  log " [INFO] from build dir: ${TARGET_BUILD_DIR}"
+  rm ${infopath}
+  else
+    log " [INFO] no info file!"
+  fi
+else
+  log " [INFO] no build dir: ${TARGET_BUILD_DIR}"
+fi

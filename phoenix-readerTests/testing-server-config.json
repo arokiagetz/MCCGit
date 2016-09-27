@@ -1,0 +1,294 @@
+{
+    "about": {
+        "contact_email": "online@bnd.com",
+        "links": {
+            "copyright": "http://www.bnd.com/?widgetName=code&widgetContentId=1573490",
+            "privacy_policy": "http://www.bnd.com/?widgetName=code&widgetContentId=1573605",
+            "terms_of_service": "http://www.bnd.com/?widgetName=code&widgetContentId=1315540"
+        }
+    },
+    "ads": {
+        "adhesion": {
+            "phone": {
+                "size": {
+                    "height": 50,
+                    "width": 320
+                }
+            },
+            "tablet": {
+                "size": {
+                    "height": 90,
+                    "width": 728
+                }
+            }
+        },
+        "admob": {
+            "phone": {
+                "ad_unit_id": "/7675/MCI.app-inhouse-phoneios_testapp"
+            },
+            "pl": {
+                "section": "sectfront",
+                "story": "story"
+            },
+            "tablet": {
+                "ad_unit_id": "/7675/MCI.app-inhouse-tabletios_testapp"
+            },
+            "test_devices": [
+                             "979ed55041b2a3d68a2da55dc66f1e11",
+                             "2e62b211816a78e782f6b3e8ec9fc483"
+                             ]
+        },
+        "enabled": true,
+        "interstitial": {
+            "thresholds": {
+                "galleries": 4,
+                "sections": 7,
+                "stories": 7,
+                "videos": 4
+            }
+        },
+        "mssf": {
+            "0": [
+                  {
+                  "ad_data": {
+                  "pkg": "b"
+                  },
+                  "position": "2",
+                  "type": "native"
+                  }
+                  ],
+            "1": [
+                  {
+                  "ad_data": {
+                  "pkg": "b"
+                  },
+                  "type": "banner"
+                  }
+                  ],
+            "5": [
+                  {
+                  "ad_data": {
+                  "pkg": "c"
+                  },
+                  "device": "tablet",
+                  "type": "banner"
+                  }
+                  ]
+        }
+    },
+    "analytics": {
+        "omniture": {
+            "biz_unit": "MCC",
+            "enabled": true,
+            "publication": "MI Analytics Site",
+            "rsid": "nmmianalytics",
+            "server": "mcclatchyinteractive.112.2o7.net"
+        }
+    },
+    "app_store_id": "485784497",
+    "market_timezone": {
+        "abbreviation": "EST",
+        "offset": -300
+    },
+    "more_options": [
+                     {
+                     "name": "Print Edition",
+                     "type": "print_edition",
+                     "url": "http://digital.olivesoftware.com/Olive/ODN/BellevilleNews-DemocratApp/default.aspx"
+                     }
+                     ],
+    "push_notifications": {
+        "urban_airship": {
+            "dev_app_key": "cvwQUnUSRKGJHg240_h2xA",
+            "dev_app_secret": "-oIPSoRCQi2c1v2XQossAg",
+            "enabled": true,
+            "in_production": false
+        }
+    },
+    "sections_info": {
+        "stories_shown_per_section": 20,
+        "multisection": {
+            "sections_shown": 5,
+            "top_story_section_id": "3401",
+            "top_stories_shown": 1,
+            "stories_shown": 5
+        },
+        "sections": [
+                     {
+                     "name": "Home",
+                     "section_id": "3401",
+                     "sections": [
+                                  {
+                                  "name": "Top Stories",
+                                  "template": "3",
+                                  "url": "http://www.bnd.com/?widgetName=rssfeed&widgetContentId=2558278&getJsonFeed=true&service=json"
+                                  },
+                                  {
+                                  "name": "Metro-East News",
+                                  "template": "3",
+                                  "url": "http://www.bnd.com/news/local?widgetName=rssfeed&widgetContentId=339621&getJsonFeed=true&service=json"
+                                  },
+                                  {
+                                  "name": "Sports",
+                                  "template": "3",
+                                  "url": "http://www.bnd.com/sports?widgetName=rssfeed&widgetContentId=339621&getJsonFeed=true&service=json"
+                                  },
+                                  {
+                                  "name": "BND Magazine",
+                                  "template": "3",
+                                  "type": "tablet",
+                                  "url": "http://www.bnd.com/living/magazine?widgetName=rssfeed&widgetContentId=339621&getJsonFeed=true&service=json"
+                                  },
+                                  {
+                                  "name": "Opinion",
+                                  "template": "3",
+                                  "url": "http://www.bnd.com/opinion?widgetName=rssfeed&widgetContentId=339621&getJsonFeed=true&service=json"
+                                  },
+                                  {
+                                  "name": "Living",
+                                  "template": "3",
+                                  "url": "http://www.bnd.com/living?widgetName=rssfeed&widgetContentId=339621&getJsonFeed=true&service=json"
+                                  }
+                                  ],
+                     "type": "multisection"
+                     },
+                     {
+                     "name": "Top Stories",
+                     "section_id": "3402",
+                     "template": "3",
+                     "type": "section",
+                     "url": "http://www.bnd.com/?widgetName=rssfeed&widgetContentId=2558278&getJsonFeed=true&service=json"
+                     },
+                     {
+                     "name": "Metro-east News",
+                     "section_id": "3403",
+                     "template": "2",
+                     "type": "section",
+                     "url": "http://www.bnd.com/news/local?widgetName=rssfeed&widgetContentId=339621&getJsonFeed=true&service=json"
+                     },
+                     {
+                     "name": "BND Magazine",
+                     "section_id": "3554",
+                     "template": "2",
+                     "type": "section",
+                     "url": "http://www.bnd.com/living/magazine?widgetName=rssfeed&widgetContentId=339621&getJsonFeed=true&service=json"
+                     },
+                     {
+                     "name": "Crime",
+                     "section_id": "3418",
+                     "template": "2",
+                     "type": "section",
+                     "url": "http://www.bnd.com/news/local/cirime?widgetName=rssfeed&widgetContentId=339621&getJsonFeed=true&service=json"
+                     },
+                     {
+                     "name": "Sports",
+                     "section_id": "3421",
+                     "template": "2",
+                     "type": "section",
+                     "url": "http://www.bnd.com/sports?widgetName=rssfeed&widgetContentId=339621&getJsonFeed=true&service=json"
+                     },
+                     {
+                     "name": "High School Sports",
+                     "section_id": "3422",
+                     "template": "2",
+                     "type": "section",
+                     "url": "http://www.bnd.com/sports/high-school?widgetName=rssfeed&widgetContentId=339621&getJsonFeed=true&service=json"
+                     },
+                     {
+                     "name": "Living",
+                     "section_id": "3460",
+                     "template": "2",
+                     "type": "section",
+                     "url": "http://www.bnd.com/living?widgetName=rssfeed&widgetContentId=339621&getJsonFeed=true&service=json"
+                     },
+                     {
+                     "name": "Entertainment",
+                     "section_id": "3471",
+                     "template": "2",
+                     "type": "section",
+                     "url": "http://www.bnd.com/entertainment?widgetName=rssfeed&widgetContentId=339621&getJsonFeed=true&service=json"
+                     },
+                     {
+                     "name": "Education",
+                     "section_id": "3477",
+                     "template": "2",
+                     "type": "section",
+                     "url": "http://www.bnd.com/news/local/education?widgetName=rssfeed&widgetContentId=339621&getJsonFeed=true&service=json"
+                     },
+                     {
+                     "name": "Nation/World",
+                     "section_id": "3413",
+                     "template": "2",
+                     "type": "section",
+                     "url": "http://www.bnd.com/news/nation-world?widgetName=rssfeed&widgetContentId=339621&getJsonFeed=true&service=json"
+                     },
+                     {
+                     "name": "Opinion",
+                     "section_id": "3415",
+                     "template": "2",
+                     "type": "section",
+                     "url": "http://www.bnd.com/opinion?widgetName=rssfeed&widgetContentId=339621&getJsonFeed=true&service=json"
+                     },
+                     {
+                     "name": "Letters to the Editor",
+                     "section_id": "3416",
+                     "template": "2",
+                     "type": "section",
+                     "url": "http://www.bnd.com/opinion/letters-to-the-editor?widgetName=rssfeed&widgetContentId=339621&getJsonFeed=true&service=json"
+                     },
+                     {
+                     "name": "Obituaries",
+                     "section_id": "3901",
+                     "template": "2",
+                     "type": "web",
+                     "url": "http://www.legacy.com/obituaries/belleville/"
+                     },
+                     {
+                     "name": "Carolina Panthers",
+                     "section_id": "4420",
+                     "template": "2",
+                     "type": "section",
+                     "url": "http://www.newsobserver.com/sports/nfl/carolina-panthers/?widgetName=rssfeed&widgetContentId=339621&getJsonFeed=true&service=json"
+                     },
+                     {
+                     "name": "Mobile Stories with Multimedia",
+                     "section_id": "4430",
+                     "template": "2",
+                     "type": "section",
+                     "url": "http://qa1.kansascity.com/mobile/mobile_stories_with_multimedia/?widgetName=rssfeed&widgetContentId=224249&getJsonFeed=true&service=json"
+                     },
+                     {
+                     "name": "Mobile Stories with General Elements",
+                     "section_id": "4440",
+                     "template": "2",
+                     "type": "section", 
+                     "url": "http://qa1.kansascity.com/mobile/mobile_stories_with_general_elements/?widgetName=rssfeed&widgetContentId=224249&getJsonFeed=true&service=json"
+                     }, 
+                     {
+                     "name": "BSU Sports Videos", 
+                     "section_id": "4460", 
+                     "template": "2", 
+                     "type": "youtube", 
+                     "url": "https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=UU6PiEr5ig3dT2lje5sCUnRw&maxResults=10"
+                     }
+                     ]
+    },
+    "server_config_url": "http://static.mcclatchyinteractive.com/mobile_app_configs/test/ios/generic_ios_testing_server_config.json",
+    "social": {
+        "facebook": {
+            "api_key": "558055467587662"
+        }
+    }, 
+    "video": {
+        "youtube": {
+            "player_api_key": "AIzaSyBjUgfApUtjJ7k42ZqW0G0sKCxxhxVvRho"
+        }
+    }, 
+    "weather": {
+        "accuweather": {
+            "api_key": "2ce96fe9da724185a27db1e6a3ecf580", 
+            "enabled": true, 
+            "location_key": "328736"
+        }
+    }
+}

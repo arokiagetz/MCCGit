@@ -1,0 +1,15 @@
+//
+//  phoenix.xcconfig
+//  phoenix-reader
+//
+//  Created by Nishanth on 11/08/16.
+//  Copyright © 2016 The McClatchy Company. All rights reserved.
+//
+// generated xcconfig
+#include "_build/mi.xcconfig"
+
+// local settings
+#include "local.xcconfig"
+
+TARGETED_DEVICE_FAMILY = 1,2
+WORKSPACE_ROOT = ${SRCROOT}

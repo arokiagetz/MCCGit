@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+# clean up lockfile
+log " [INFO] cleaning up scheme ranfile"
+rm "${scheme_ranfile}"

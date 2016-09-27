@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+
+log " [INFO] MI_TARGETED_DEVICE_FAMILY: ${MI_TARGETED_DEVICE_FAMILY}"
+
+# if not universal, modify plist with appropriate device family
+if [ -n "${MI_TARGETED_DEVICE_FAMILY}" ]; then
+  log " [INFO] delete UIDeviceFamily"
+  /usr/libexec/PlistBuddy -c "Delete :UIDeviceFamily" "${TARGET_BUILD_DIR}/${INFOPLIST_PATH}"
+  log " [INFO] recreate UIDeviceFamily array"
+  /usr/libexec/PlistBuddy -c "Add :UIDeviceFamily array" "${TARGET_BUILD_DIR}/${INFOPLIST_PATH}"
+
+  loop=0
+  for device in ${MI_TARGETED_DEVICE_FAMILY//,/ }; do
+    log " [INFO] add UIDeviceFamily entry ${device} at index ${loop}"
+    /usr/libexec/PlistBuddy -c "Add :UIDeviceFamily:${loop} integer ${device}" "${TARGET_BUILD_DIR}/${INFOPLIST_PATH}"
+    (( loop++ ))
+  done
+else
+  log " [INFO] leaving default"
+fi

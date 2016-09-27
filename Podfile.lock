@@ -1,0 +1,91 @@
+PODS:
+  - BlocksKit (2.2.5):
+    - BlocksKit/All (= 2.2.5)
+  - BlocksKit/All (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+    - BlocksKit/MessageUI
+    - BlocksKit/UIKit
+  - BlocksKit/Core (2.2.5)
+  - BlocksKit/DynamicDelegate (2.2.5)
+  - BlocksKit/MessageUI (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - BlocksKit/UIKit (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - CocoaLumberjack (2.2.0):
+    - CocoaLumberjack/Default (= 2.2.0)
+    - CocoaLumberjack/Extensions (= 2.2.0)
+  - CocoaLumberjack/Core (2.2.0)
+  - CocoaLumberjack/Default (2.2.0):
+    - CocoaLumberjack/Core
+  - CocoaLumberjack/Extensions (2.2.0):
+    - CocoaLumberjack/Default
+  - Crashlytics (3.7.0):
+    - Fabric (~> 1.6.3)
+  - DateTools (1.7.0)
+  - Fabric (1.6.7)
+  - Google-Mobile-Ads-SDK (7.7.1)
+  - GoogleAds-IMA-iOS-SDK-For-AdMob (3.1.0):
+    - Google-Mobile-Ads-SDK (~> 7.0)
+  - ISO8601DateFormatter (0.7)
+  - le (1.1)
+  - Mantle (2.0.6):
+    - Mantle/extobjc (= 2.0.6)
+  - Mantle/extobjc (2.0.6)
+  - OCMock (3.2.2)
+  - PINCache (2.2.2)
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+  - Task (1.1)
+  - TwitterCore (2.0.2):
+    - Fabric
+  - TwitterKit (2.0.2):
+    - TwitterCore (= 2.0.2)
+  - UIActivityIndicator-for-SDWebImage (1.2):
+    - SDWebImage (~> 3.7)
+  - UrbanAirship-iOS-SDK (7.2.2)
+
+DEPENDENCIES:
+  - BlocksKit
+  - CocoaLumberjack
+  - Crashlytics
+  - DateTools
+  - Fabric
+  - Google-Mobile-Ads-SDK
+  - GoogleAds-IMA-iOS-SDK-For-AdMob
+  - ISO8601DateFormatter
+  - le
+  - Mantle
+  - OCMock
+  - PINCache
+  - SDWebImage
+  - Task
+  - TwitterCore
+  - TwitterKit
+  - UIActivityIndicator-for-SDWebImage
+  - UrbanAirship-iOS-SDK
+
+SPEC CHECKSUMS:
+  BlocksKit: 7f422b971407001178d181a43b99014ea2591fe6
+  CocoaLumberjack: 17fe8581f84914d5d7e6360f7c70022b173c3ae0
+  Crashlytics: c3a2333dea9e2733d2777f730910321fc9e25c0d
+  DateTools: 53288ee8b905fdc75897a1e6b5cc0144b14cba60
+  Fabric: caf7580c725e64db144f610ac65cd60956911dc7
+  Google-Mobile-Ads-SDK: e27569901b58881d9a94b42f2c642739cfe3970a
+  GoogleAds-IMA-iOS-SDK-For-AdMob: e273947f1f2a18f41d15ec67ca3b1e5d712ae62c
+  ISO8601DateFormatter: ab926648eebe497f4d167c0fd083992f959f1274
+  le: c54f8a67be9c0b068fa779f00641520c6e72e6ec
+  Mantle: 299966b00759634931699f69cb6a30b9239b944d
+  OCMock: 18c9b7e67d4c2770e95bb77a9cc1ae0c91fe3835
+  PINCache: 078426d356ab95ef875e9e62e5c35a2ea3333c28
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+  Task: c6fda98296922b70de403864a297204a2787243d
+  TwitterCore: 0f44d8980a6879d5205dcb4e010d15e643e56fa0
+  TwitterKit: c4e40f289a3d7cc9fab9f241edd7502385468b65
+  UIActivityIndicator-for-SDWebImage: 7bf7ebbf0ed1747dedc0d6e949c4603a6d0f9e0c
+  UrbanAirship-iOS-SDK: c55430986126be28b1735bc3efefa5b902ac8b0e
+
+COCOAPODS: 0.39.0

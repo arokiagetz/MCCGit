@@ -1,0 +1,479 @@
+{
+    "sections": [
+                 {
+                 "section_id": "3402",
+                 "collection_type": "content",
+                 "items": [
+                           {
+                           "id": "3613489",
+                           "url": "http://qa1.kansascity.com/MT_08272015/article3613489.html",
+                           "asset_type": "story",
+                           "title": "Head MT_02052016_1 story to test link text in export feeds",
+                           "publication": "kansascity",
+                           "home": "http://qa1-api.test.nandomedia.com/mobile-api/v1/sections/11418",
+                           "modified_date": 1454695273,
+                           "published_date": 1454686140,
+                           "content": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Body MT_02052016_1 story to test link text in export feeds.</p>\n<p>Sprint’s top financial officer speaks Thursday at an industry conference, continuing his <a href=\"http://www.kansascity.com/news/business/technology/article47153765.html\" target=\"_blank\" title=\"\">string of public presentations</a>.</p><p>Tarek Robbiati, who joined Sprint as chief financial officer in late August, will speak at the Citi 2016 Internet, Media &amp; Telecommunications Conference in Las Vegas. His address is set to begin at 4 p. m. Central and will be <a href=\"http://investors.sprint.com/?ECID=vanity:investors\" target=\"_blank\" title=\"\">available live online</a> from Sprint and as a replay.</p><p>The Overland Park-based wireless carrier enters 2016 amid a $2.5 billion cost cutting effort that already has led to job cuts, though the company has not said how many jobs will be lost among its more than 30,000 employees nationwide.</p><p>Robbiati, in his few months at Sprint, helped boost the company’s cash holdings by $1.1 billion through <a href=\"http://www.kansascity.com/news/business/technology/article45608394.html\" target=\"_blank\" title=\"\">an innovative sale and lease back of cellphones </a>its customers lease from Sprint. He expects to repeat the transaction on a regular basis this year as a source of funding for Sprint’s transformation plan. </p></div>",
+                           "href": "http://qa1-api.test.nandomedia.com/mobile-api/v1/articles/3613489",
+                           "assets": {
+                           "lead": [
+                                    {
+                                    "id": "2322866",
+                                    "asset_type": "picture",
+                                    "title": "Car-Club-2.jpg",
+                                    "publication": "kansascity",
+                                    "thumbnail": "http://rpub606t.test.ftw.nandomedia.com:8080/webservice/thumbnail/article/2322866",
+                                    "href": "http://qa1-api.test.nandomedia.com/mobile-api/v1/articles/2322866"
+                                    }
+                                    ]
+                           },
+                           "leadtext": [
+                                        {
+                                        "text": "Summary test Sprint’s top financial officer speaks Thursday at an industry conference, continuing his "
+                                        },
+                                        {
+                                        "text": "."
+                                        }
+                                        ]
+                           },
+                           {
+                           "id": "2970244",
+                           "url": "http://qa1.kansascity.com/latest-news/article2970244.html",
+                           "asset_type": "story",
+                           "title": "Embeds Test for MrContent and MobileAPI DQ",
+                           "publication": "kansascity",
+                           "home": "http://qa1-api.test.nandomedia.com/mobile-api/v1/sections/1726",
+                           "modified_date": 1456934202,
+                           "published_date": 1448310643,
+                           "summary": "test\n test\n test",
+                           "content": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p></p><!-- %embed:1; hidden=\"1\"% --> \n<!-- %embed:2; hidden=\"1\"% --> \n<!-- %embed:3; hidden=\"1\"% --><p></p></div>",
+                           "href": "http://qa1-api.test.nandomedia.com/mobile-api/v1/articles/2970244",
+                           "assets": {
+                           "related": [
+                                       {
+                                       "id": "3406539",
+                                       "asset_type": "picture",
+                                       "publication": "kansascity",
+                                       "thumbnail": "http://rpub606t.test.ftw.nandomedia.com:8080/webservice/thumbnail/article/3406539",
+                                       "href": "http://qa1-api.test.nandomedia.com/mobile-api/v1/articles/3406539"
+                                       },
+                                       {
+                                       "id": "3403984",
+                                       "asset_type": "videoIngest",
+                                       "title": "Chartbeat Video 1",
+                                       "publication": "kansascity",
+                                       "href": "http://qa1-api.test.nandomedia.com/mobile-api/v1/articles/3403984"
+                                       },
+                                       {
+                                       "id": "3260349",
+                                       "asset_type": "gallery",
+                                       "title": "This is the gallery title",
+                                       "publication": "kansascity",
+                                       "href": "http://qa1-api.test.nandomedia.com/mobile-api/v1/articles/3260349",
+                                       "leadtext": [
+                                                    {
+                                                    "text": "This is the leadtext"
+                                                    }
+                                                    ]
+                                       },
+                                       {
+                                       "id": "3407504",
+                                       "asset_type": "picture",
+                                       "title": "187Atlantic City Future.JPEG",
+                                       "publication": "kansascity",
+                                       "thumbnail": "http://rpub606t.test.ftw.nandomedia.com:8080/webservice/thumbnail/article/3407504",
+                                       "href": "http://qa1-api.test.nandomedia.com/mobile-api/v1/articles/3407504"
+                                       }
+                                       ],
+                           "lead": [
+                                    {
+                                    "id": "3331029",
+                                    "asset_type": "videoStory",
+                                    "title": "Video Story - Finklebach",
+                                    "publication": "kansascity",
+                                    "href": "http://qa1-api.test.nandomedia.com/mobile-api/v1/articles/3331029",
+                                    "leadtext": [
+                                                 {
+                                                 "text": "Video Story - LEADTEXT"
+                                                 }
+                                                 ]
+                                    }
+                                    ]
+                           },
+                           "embeds": [
+                                      {
+                                      "id": "1",
+                                      "value": "<iframe src=\"https://www.youtube.com/embed/yu7mNmqJJ10\"></iframe>"
+                                      },
+                                      {
+                                      "id": "2",
+                                      "value": "Embed 2"
+                                      },
+                                      {
+                                      "id": "3",
+                                      "value": "Embed 3"
+                                      }
+                                      ],
+                           "leadtext": [
+                                        {
+                                        "text": "test1 "
+                                        },
+                                        {
+                                        "text": "test2 "
+                                        },
+                                        {
+                                        "text": "test3 "
+                                        }
+                                        ]
+                           },
+                           {
+                           "id": "3437904",
+                           "url": "http://qa1.kansascity.com/news/article3437904.html",
+                           "asset_type": "videoStory",
+                           "title": "New Video Story Automation 01192016",
+                           "publication": "kansascity",
+                           "home": "http://qa1-api.test.nandomedia.com/mobile-api/v1/sections/3402",
+                           "modified_date": 1455829720,
+                           "published_date": 1453233337,
+                           "content": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Video Story</p></div>",
+                           "href": "http://qa1-api.test.nandomedia.com/mobile-api/v1/articles/3437904",
+                           "assets": {
+                           "related": [
+                                       {
+                                       "id": "3404539",
+                                       "asset_type": "videoFile",
+                                       "title": "Chartbeat Video 3",
+                                       "publication": "kansascity",
+                                       "href": "http://qa1-api.test.nandomedia.com/mobile-api/v1/articles/3404539"
+                                       }
+                                       ],
+                           "lead": [
+                                    {
+                                    "id": "3493119",
+                                    "asset_type": "videoFile",
+                                    "title": "Video File Test",
+                                    "publication": "kansascity",
+                                    "href": "http://qa1-api.test.nandomedia.com/mobile-api/v1/articles/3493119"
+                                    },
+                                    {
+                                    "id": "3403984",
+                                    "asset_type": "videoIngest",
+                                    "title": "Chartbeat Video 1",
+                                    "publication": "kansascity",
+                                    "href": "http://qa1-api.test.nandomedia.com/mobile-api/v1/articles/3403984"
+                                    }
+                                    ]
+                           }
+                           }
+                           ]
+                 },
+                 {
+                 "section_id": "3403",
+                 "collection_type": "content",
+                 "items": [
+                           {
+                           "id": "3331029",
+                           "url": "http://qa1.kansascity.com/news/article3331029.html",
+                           "asset_type": "videoStory",
+                           "title": "Video Story - Finklebach",
+                           "publication": "kansascity",
+                           "home": "http://qa1-api.test.nandomedia.com/mobile-api/v1/sections/3402",
+                           "modified_date": 1456934373,
+                           "published_date": 1452193400,
+                           "summary": "Video story Legacy Summary",
+                           "content": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Video Story - Descriptionzzzz</p></div>",
+                           "href": "http://qa1-api.test.nandomedia.com/mobile-api/v1/articles/3331029",
+                           "assets": {
+                           "related": [
+                                       {
+                                       "id": "2370482",
+                                       "asset_type": "videoIngest",
+                                       "publication": "kansascity",
+                                       "href": "http://qa1-api.test.nandomedia.com/mobile-api/v1/articles/2370482"
+                                       },
+                                       {
+                                       "id": "3403984",
+                                       "asset_type": "videoIngest",
+                                       "title": "Chartbeat Video 1",
+                                       "publication": "kansascity",
+                                       "href": "http://qa1-api.test.nandomedia.com/mobile-api/v1/articles/3403984"
+                                       }
+                                       ],
+                           "lead": [
+                                    {
+                                    "id": "3330604",
+                                    "asset_type": "videoFile",
+                                    "title": "Video File - BBB",
+                                    "publication": "kansascity",
+                                    "href": "http://qa1-api.test.nandomedia.com/mobile-api/v1/articles/3330604",
+                                    "leadtext": [
+                                                 {
+                                                 "text": "Video File - LEAD TEXT"
+                                                 }
+                                                 ]
+                                    }
+                                    ]
+                           }
+                           },
+                           {
+                           "id": "3540989",
+                           "url": "http://qa1.kansascity.com/news/article3540989.html",
+                           "asset_type": "videoIngest",
+                           "title": "yoBuzzInsta05-blueeyes.mp4",
+                           "publication": "kansascity",
+                           "home": "http://qa1-api.test.nandomedia.com/mobile-api/v1/sections/3402",
+                           "modified_date": 1454096279,
+                           "published_date": 1454093446,
+                           "thumbnail": "http://qa1.kansascity.com/news/o15438-yoBuzzInsta05-blueeyes.mp4/alternates/FREE_200/yoBuzzInsta05-blueeyes.mp4",
+                           "duration": 15,
+                           "media_id": "bQ2sOsEM",
+                           "href": "http://qa1-api.test.nandomedia.com/mobile-api/v1/articles/3540989",
+                           "ads": [
+                                   {
+                                   "publication": "kansascity",
+                                   "tag": "http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnews%26id%3D3540989%26eid%3D3540989%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMCI.site_escenic-prod%2F_HomePage&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll",
+                                   "lang": "en",
+                                   "sz": "400x300",
+                                   "vpos": "preroll",
+                                   "cust_params": "sect=news&id=3540989&eid=3540989&pl="
+                                   }
+                                   ],
+                           "sources": [
+                                       {
+                                       "height": 360,
+                                       "mime_type": "video/mp4",
+                                       "mrid": "binary/2016/1/29/18/1437582013143-p5k4ma/yoBuzzInsta05-blueeyes-1454093445375.mp4",
+                                       "uri": "http://d1gpfd6xba7ubo.cloudfront.net/binary/2016/1/29/18/1437582013143-p5k4ma/yoBuzzInsta05-blueeyes-1454093445375.mp4",
+                                       "width": 640
+                                       },
+                                       {
+                                       "height": 720,
+                                       "mime_type": "video/mp4",
+                                       "mrid": "binary/2016/1/29/18/1437580321678-6bjrso/yoBuzzInsta05-blueeyes-1454093445656.mp4",
+                                       "uri": "http://d1gpfd6xba7ubo.cloudfront.net/binary/2016/1/29/18/1437580321678-6bjrso/yoBuzzInsta05-blueeyes-1454093445656.mp4",
+                                       "width": 1280
+                                       },
+                                       {
+                                       "height": 0,
+                                       "mime_type": "application/x-mpegURL",
+                                       "mrid": "binary/2016/1/29/18/art_3540989/yoBuzzInsta05_blueeyes.m3u8",
+                                       "uri": "http://d1gpfd6xba7ubo.cloudfront.net/binary/2016/1/29/18/art_3540989/yoBuzzInsta05_blueeyes.m3u8",
+                                       "width": 0
+                                       }
+                                       ]
+                           },
+                           {
+                           "id": "2891568",
+                           "url": "http://qa1.kansas.com/news/article2891568.html",
+                           "asset_type": "story",
+                           "title": "Multiple home sections",
+                           "publication": "kansas",
+                           "home": "http://qa1-api.test.nandomedia.com/mobile-api/v1/sections/4030",
+                           "modified_date": 1452192262,
+                           "published_date": 1447446731,
+                           "summary": "Multiple home sections.",
+                           "content": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Multiple home sections.</p><p>And a place for embeds.</p></div>",
+                           "href": "http://qa1-api.test.nandomedia.com/mobile-api/v1/articles/2891568",
+                           "assets": {
+                           "lead": [
+                                    {
+                                    "id": "2891658",
+                                    "asset_type": "videoIngest",
+                                    "title": "Observer again",
+                                    "publication": "kansas",
+                                    "href": "http://qa1-api.test.nandomedia.com/mobile-api/v1/articles/2891658"
+                                    }
+                                    ]
+                           }
+                           }
+                           ]
+                 },
+                 {
+                 "section_id": "3404",
+                 "collection_type": "content",
+                 "items": [
+                           {
+                           "id": "2891088",
+                           "url": "http://qa1.kansas.com/sports/outdoors/article2891088.html",
+                           "asset_type": "story",
+                           "title": "I see a problem",
+                           "publication": "kansas",
+                           "home": "http://qa1-api.test.nandomedia.com/mobile-api/v1/sections/4108",
+                           "modified_date": 1455829108,
+                           "published_date": 1447442740,
+                           "summary": "The homepage is always in the destination path.",
+                           "content": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>The homepage is always in the destination path.</p></div>",
+                           "href": "http://qa1-api.test.nandomedia.com/mobile-api/v1/articles/2891088",
+                           "assets": {
+                           "lead": [
+                                    {
+                                    "id": "3726467",
+                                    "asset_type": "videoIngest",
+                                    "publication": "kansas",
+                                    "href": "http://qa1-api.test.nandomedia.com/mobile-api/v1/articles/3726467"
+                                    },
+                                    {
+                                    "id": "3437904",
+                                    "asset_type": "videoStory",
+                                    "title": "New Video Story Automation 01192016",
+                                    "publication": "kansas",
+                                    "href": "http://qa1-api.test.nandomedia.com/mobile-api/v1/articles/3437904",
+                                    "leadtext": [
+                                                 {
+                                                 "text": "This is the lead text"
+                                                 }
+                                                 ]
+                                    }
+                                    ]
+                           }
+                           },
+                           {
+                           "id": "2891028",
+                           "url": "http://qa1.kansas.com/sports/outdoors/article2891028.html",
+                           "asset_type": "story",
+                           "title": "Lowest level",
+                           "publication": "kansas",
+                           "home": "http://qa1-api.test.nandomedia.com/mobile-api/v1/sections/4108",
+                           "modified_date": 1450106628,
+                           "published_date": 1447442588,
+                           "summary": "Lowest level.",
+                           "content": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Lowest level. UPDATING</p></div>",
+                           "href": "http://qa1-api.test.nandomedia.com/mobile-api/v1/articles/2891028"
+                           }
+                           ]
+                 },
+                 {
+                 "section_id": "3405",
+                 "collection_type": "content",
+                 "items": [
+                           {
+                           "id": "3540609",
+                           "url": "http://qa1.kansascity.com/news/article3540609.html",
+                           "asset_type": "videoIngest",
+                           "title": "01282016DQ",
+                           "publication": "kansascity",
+                           "home": "http://qa1-api.test.nandomedia.com/mobile-api/v1/sections/3402",
+                           "modified_date": 1455653550,
+                           "published_date": 1454092196,
+                           "thumbnail": "http://qa1.kansascity.com/news/647ffs-01282016DQ/alternates/FREE_200/01282016DQ",
+                           "duration": 30,
+                           "media_id": "PLLPY7Up",
+                           "href": "http://qa1-api.test.nandomedia.com/mobile-api/v1/articles/3540609",
+                           "leadtext": [
+                                        {
+                                        "text": "Lead text"
+                                        }
+                                        ],
+                           "sources": [
+                                       {
+                                       "height": 360,
+                                       "mime_type": "video/mp4",
+                                       "mrid": "binary/2016/1/29/18/1437582013143-p5k4ma/sample1-1454092194847.mp4",
+                                       "uri": "http://d1gpfd6xba7ubo.cloudfront.net/binary/2016/1/29/18/1437582013143-p5k4ma/sample1-1454092194847.mp4",
+                                       "width": 640
+                                       },
+                                       {
+                                       "height": 720,
+                                       "mime_type": "video/mp4",
+                                       "mrid": "binary/2016/1/29/18/1437580321678-6bjrso/sample1-1454092195267.mp4",
+                                       "uri": "http://d1gpfd6xba7ubo.cloudfront.net/binary/2016/1/29/18/1437580321678-6bjrso/sample1-1454092195267.mp4",
+                                       "width": 1280
+                                       },
+                                       {
+                                       "height": 0,
+                                       "mime_type": "application/x-mpegURL",
+                                       "mrid": "binary/2016/1/29/18/art_3540609/sample1.m3u8",
+                                       "uri": "http://d1gpfd6xba7ubo.cloudfront.net/binary/2016/1/29/18/art_3540609/sample1.m3u8",
+                                       "width": 0
+                                       }
+                                       ]
+                           },
+                           {
+                           "id": "2872523",
+                           "url": "http://qa1.kansas.com/sports/golf/article2872523.html",
+                           "asset_type": "story",
+                           "title": "Test four",
+                           "publication": "kansas",
+                           "home": "http://qa1-api.test.nandomedia.com/mobile-api/v1/sections/4092",
+                           "modified_date": 1450125424,
+                           "published_date": 1447266612,
+                           "summary": "Test four.",
+                           "content": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>see ya</p></div>",
+                           "href": "http://qa1-api.test.nandomedia.com/mobile-api/v1/articles/2872523",
+                           "assets": {
+                           "lead": [
+                                    {
+                                    "id": "3117619",
+                                    "asset_type": "videoIngest",
+                                    "publication": "kansas",
+                                    "href": "http://qa1-api.test.nandomedia.com/mobile-api/v1/articles/3117619"
+                                    }
+                                    ]
+                           }
+                           }
+                           ]
+                 },
+                 {
+                 "section_id": "3406",
+                 "collection_type": "content",
+                 "items": [
+                           {
+                           "id": "2720265",
+                           "url": "http://qa1.kansas.com/news/article2720265.html",
+                           "asset_type": "story",
+                           "title": "Two extra sections",
+                           "publication": "kansas",
+                           "home": "http://qa1-api.test.nandomedia.com/mobile-api/v1/sections/4030",
+                           "modified_date": 1445902961,
+                           "published_date": 1445902591,
+                           "summary": "Two extra sections to a secondary destination.",
+                           "content": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Two extra sections to a secondary destination.</p></div>",
+                           "href": "http://qa1-api.test.nandomedia.com/mobile-api/v1/articles/2720265"
+                           },
+                           {
+                           "id": "2520981",
+                           "url": "http://review.mcclatchyinteractive.com/news/article2520981.html",
+                           "asset_type": "story",
+                           "title": "I almost forgot the head now I can fix it",
+                           "publication": "demo",
+                           "home": "http://qa1-api.test.nandomedia.com/mobile-api/v1/sections/2518",
+                           "modified_date": 1442343358,
+                           "published_date": 1442343358,
+                           "author": "By A. Reporter",
+                           "dateline": "GREENVILLE, S.C. ",
+                           "summary": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam nibh. Nunc varius facilisis eros. Sed erat. In in velit quis arcu ornare laoreet. Curabitur adipiscing luctus massa. Integer ut purus ac augue commodo commodo. Nunc nec mi eu justo tempor consectetuer. Etiam vitae nisl. In dignissim lacus ut ante. Cras elit lectus, bibendum a, adipiscing vitae, commodo et, dui. Ut tincidunt tortor. Donec nonummy, enim in lacinia pulvinar, velit tellus scelerisque augue, ac posuere libero urna eget neque. Cras ipsum. Vestibulum pretium, lectus nec venenatis volutpat, purus lectus ultrices risus, a condimentum risus mi et quam. Pellentesque auctor fringilla neque. Duis eu massa ut lorem iaculis vestibulum. Maecenas facilisis elit sed justo. Quisque volutpat malesuada velit.",
+                           "content": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam nibh. Nunc varius facilisis eros. Sed erat. In in velit quis arcu ornare laoreet. Curabitur adipiscing luctus massa. Integer ut purus ac augue commodo commodo. Nunc nec mi eu justo tempor consectetuer. Etiam vitae nisl. In dignissim lacus ut ante. Cras elit lectus, bibendum a, adipiscing vitae, commodo et, dui. Ut tincidunt tortor. Donec nonummy, enim in lacinia pulvinar, velit tellus scelerisque augue, ac posuere libero urna eget neque. Cras ipsum. Vestibulum pretium, lectus nec venenatis volutpat, purus lectus ultrices risus, a condimentum risus mi et quam. Pellentesque auctor fringilla neque. Duis eu massa ut lorem iaculis vestibulum. Maecenas facilisis elit sed justo. Quisque volutpat malesuada velit. </p><p>Nunc at velit quis lectus nonummy eleifend. Curabitur eros. Aenean ligula dolor, gravida auctor, auctor et, suscipit in, erat. Sed malesuada, enim ut congue pharetra, massa elit convallis pede, ornare scelerisque libero neque ut neque. In at libero. Curabitur molestie. Sed vel neque. Proin et dolor ac ipsum elementum malesuada. Praesent id orci. Donec hendrerit. In hac habitasse platea dictumst. Aenean sit amet arcu a turpis posuere pretium. </p><p>Nulla mauris odio, vehicula in, condimentum sit amet, tempus id, metus. Donec at nisi sit amet felis blandit posuere. Aliquam erat volutpat. Cras lobortis orci in quam porttitor cursus. Aenean dignissim. Curabitur facilisis sem at nisi laoreet placerat. Duis sed ipsum ac nibh mattis feugiat. Proin sed purus. Vivamus lectus ipsum, rhoncus sed, scelerisque sit amet, ultrices in, dolor. Aliquam vel magna non nunc ornare bibendum. Sed libero. Maecenas at est. Vivamus ornare, felis et luctus dapibus, lacus leo convallis diam, eget dapibus augue arcu eget arcu. </p><p>Fusce auctor, metus eu ultricies vulputate, sapien nibh faucibus ligula, eget sollicitudin augue risus et dolor. Aenean pellentesque, tortor in cursus mattis, ante diam malesuada ligula, ac vestibulum neque turpis ut enim. Cras ornare. Proin ac nisi. Praesent laoreet ante tempor urna. In imperdiet. Nam ut metus et orci fermentum nonummy. Cras vel nunc. Donec feugiat neque eget purus. Quisque rhoncus. Phasellus tempus massa aliquet urna. Integer fringilla quam eget dolor. Curabitur mattis. Aliquam ac lacus. In congue, odio ut tristique adipiscing, diam leo fermentum ipsum, nec sollicitudin dui quam et tortor. Proin id neque ac pede egestas lacinia. Curabitur non odio. </p><p>Nullam porta urna quis mauris. Aliquam erat volutpat. Donec scelerisque quam vitae est. Aenean vitae diam at erat pellentesque condimentum. Duis pulvinar nisl sed orci. Vivamus turpis nisi, volutpat in, placerat et, pharetra nec, eros. Suspendisse tellus metus, sodales non, venenatis a, ultrices auctor, erat. In ut leo nec elit mattis pellentesque. Sed eros elit, cursus accumsan, sollicitudin a, iaculis quis, diam. Pellentesque fermentum, pede a nonummy varius, ligula velit laoreet erat, et lacinia nibh nulla sit amet nunc. Suspendisse at turpis quis augue pellentesque pretium. Nunc condimentum elit semper felis. </p><div class=\"ng_factbox\"><div class=\"ng_factbox_head\"><p>Duis imperdiet diam pharetra nisi</p><span class=\"ng-command\" data-value=\"252\"> </span></div><p>Fusce accumsan. Fusce adipiscing, felis non ornare egestas, risus elit placerat mauris, in mollis ante erat quis nisi. Quisque sed ipsum. Nulla facilisi. Donec arcu erat, sodales quis, cursus eget, posuere eget, tellus. Vestibulum eu risus. Curabitur adipiscing, odio in pretium feugiat, nulla magna vehicula lorem, at placerat tortor nisl eget velit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse mollis fermentum massa. Pellentesque vulputate bibendum lorem. Nunc lobortis. Vestibulum aliquam fringilla mauris. Vivamus dolor est, eleifend id, varius id, suscipit at, felis. Nulla mattis cursus neque. Nam lobortis mi vitae sem vehicula accumsan. Integer vitae odio in felis facilisis cursus. Sed bibendum mauris a justo. Integer ut mi. Maecenas quis mauris. Integer non lectus at magna elementum posuere. Vestibulum et urna. Aliquam pretium, urna nec dapibus vehicula, tellus nulla pretium dolor, vitae gravida massa erat non mauris. Aenean non erat. Nam non leo. Fusce sed erat. Maecenas id odio vehicula eros elementum congue. Donec feugiat orci in lectus. Vestibulum mattis justo eget justo. Aenean eu nisl. Phasellus non ipsum non nisi fringilla cursus. Integer condimentum porta arcu. Quisque faucibus. Quisque mattis, tellus eu auctor pulvinar, nulla dui sagittis elit, vel ultricies mauris lectus tempus magna. Donec auctor facilisis lorem. Ut pharetra pellentesque nulla. Phasellus libero metus, commodo sit amet, ullamcorper sit amet, euismod et, tortor. Sed nec arcu et felis vulputate venenatis.d</p></div></div>",
+                           "href": "http://qa1-api.test.nandomedia.com/mobile-api/v1/articles/2520981",
+                           "assets": {
+                           "lead": [
+                                    {
+                                    "id": "2520972",
+                                    "asset_type": "picture",
+                                    "title": "Michigan Daily Life",
+                                    "publication": "demo",
+                                    "thumbnail": "http://rpub606t.test.ftw.nandomedia.com:8080/webservice/thumbnail/article/2520972",
+                                    "href": "http://qa1-api.test.nandomedia.com/mobile-api/v1/articles/2520972"
+                                    },
+                                    {
+                                    "id": "2520975",
+                                    "asset_type": "picture",
+                                    "title": "Michigan Daily Life (2)",
+                                    "publication": "demo",
+                                    "thumbnail": "http://rpub606t.test.ftw.nandomedia.com:8080/webservice/thumbnail/article/2520975",
+                                    "href": "http://qa1-api.test.nandomedia.com/mobile-api/v1/articles/2520975"
+                                    },
+                                    {
+                                    "id": "2520978",
+                                    "asset_type": "picture",
+                                    "title": "Tenn Daily Life",
+                                    "publication": "demo",
+                                    "thumbnail": "http://rpub606t.test.ftw.nandomedia.com:8080/webservice/thumbnail/article/2520978",
+                                    "href": "http://qa1-api.test.nandomedia.com/mobile-api/v1/articles/2520978"
+                                    }
+                                    ]
+                           }
+                           }
+                           ]
+                 }
+                 ]
+}

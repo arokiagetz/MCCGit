@@ -1,0 +1,16 @@
+{
+    "STATICserver_config_url":"http://static.mcclatchyinteractive.com/mobile_app_configs/test/ios/phoenix/phoenixDevConfig.json",
+    "server_config_url":"https://api.krabc.com/mobile-api/v1/config/2.0/miamiherald-ios",
+    "UI":{
+        "BarTintColor":"0083cb",
+        "BarTitleColor":"ffffff",
+        "TintColor":"ffffff",
+        "StatusBarColorLight":true,
+        "SectionsMenuColor":"037BC0",
+        "SectionsMenuTintColor":"DDDDDD",
+        "SectionsMenuTextColor":"FFFFFF",
+        "SectionsMenuHighlightColor":"FFFFFF",
+        "SectionsMenuHighlightTextColor":"037BC0",
+        "CellSelectionColor":"d9d9d9"
+    }
+}

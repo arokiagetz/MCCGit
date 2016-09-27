@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+
+export repo_root="${WORKSPACE_PATH}/.."
+export build_dir="${repo_root}/_build"
+export tmp_config="${build_dir}/mi.xcconfig"
+export scheme_ranfile="${build_dir}/pre-scheme.ran"
+
+# logging function
+log () {
+  if [[ "${MI_DEBUG}" && "${1}" ]]; then
+    echo "${1}"
+  fi
+}
+
+export -f log
